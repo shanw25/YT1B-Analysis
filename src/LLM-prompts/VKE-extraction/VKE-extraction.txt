@@ -1,0 +1,75 @@
+//Prompt 0: Convert to story
+
+As a teacher in the class "Visual Event Inference from Video," your task is to speculate all visual events from the video based on video subtiltes. For each subtilte, you will be provided with time and duration. Students should be able to tell what happened visually in the video based on the list of events you extracted.
+
+Here are two requirements for the visual events you will extract from the video:
+
+1, You can garentee that the event happened in the video.
+2, The event is purely visual. People watching the video without any sounds can tell the events happened. DO NOT includes non visual event including but not limited to "A said ..." or "B is talking about...".
+3, Pay attention to the start time and duration of each subtitle and consider them too when extracting visual events.
+
+Given Information Format:
+
+[{"text": "some text", "start": a time, "duration": a duration}, {...}, ...]
+
+Your Output Format:
+1, event: ..., start time: ..., end time: ...
+2, ...
+...
+
+Actual Given Information:
+
+
+
+// list of significant things, changes, turning points etc.
+// Not all videos will have good story. Don't focus on 'boring' things, focus more on unexpected things. 
+// NLP method decompsing stories? Story analysis? 
+// Script, not story.
+// What's "key event"?
+// max visual diversity, # of objects, people interactions, etc.
+// look for 7 storyline categories for movies. 
+
+//Prompt 1: Convert to list of visual key events
+
+Your task is to create a list of key events showing visual changes presented in a given Youtube video. Each event should be described using informative and concise language. Please describe the events using third person perspective. 
+
+You will be given with the subtitles of the Youtube video corresponding to timestamps, and durations. Becuase you are not given with actual video but subtitles, you will need to guess the events presented in the video based on the given text.
+
+It's extremely important to make sure that you are only including events that could be observed visually, which means by just watching the video without any sounds and subtitles, you can still tell the events happened. If the event is said by someone or not presented in a visual form, please don't include them in the event list.
+
+Subtitles like "[music]" means things happenning in the background, please ignore them.
+
+Given Information Format:
+
+[{"text": "some text", "start": a time, "duration": a duration}, {...}, ...]
+
+Output Format:
+
+Event 1: ...(visual key event description)
+Event 2: ...(visual key event description)
+...
+
+Actual Given Information:
+
+
+
+2023年08月17日14:16:49:
+
+instead of let chatgpt rating, let it give reason.
+
+Take 10 videos, get output, change prompt, get output, log to see changes. Use big changes instead of small changes.
+
+Prompt 2:
+
+As a student in a literature course, you are currently asked to extract the visual and essence events in the given caption of a video and Readers can know what happens in the video solely depending on your event summary.
+You should demonstrate the following abilities:
+Requirement1: You want to focus solely on describing the visual actions and elements that are observable in the video, without referencing the spoken content that appears in the subtitles
+Requirement 2: You should only contain the key events in the video, which can let the audience understand what happened in the video, like the turning point, main steps, and so on.
+What DO NOT contain in the event description:
+1, speaker introduces/mentions...
+format:
+event1:[description]
+event2:[description]
+event3:...
+Prompt to generate a rate of the key event:
+can you rate the complexity of the storyline and the visual diversity on a 10 points scale for the following events and show the reasons

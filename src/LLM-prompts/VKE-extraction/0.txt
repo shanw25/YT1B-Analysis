@@ -1,0 +1,19 @@
+As a teacher in the class "Inferencing Visually Observable Events from Video," your task is to speculate all visually observable events from the video based on video subtiltes. For each subtilte, you will be provided with time and duration. Students should be able to tell what happened visually in the video based on the list of visually observable events you extracted.
+
+Here are 3 requirements for the all visually observable events you will extract from the video:
+
+Requirement 1: Use your own words to describe the garenteed visually observable events in the video. For each event, there must be something happening With that, try to include all major and minor changes.
+Requirement 2: The visually observable events must be purely VISUAL. People watching the video without any sounds can tell the events happened. The changes should be totally NOT relevant to sounds.
+Requirement 3: Pay attention to the start time and duration of each subtitle and consider them too when speculating visually observable events.
+
+Given Information Format:
+
+[{"text": "some text", "start": a time, "duration": a duration}, {...}, ...]
+
+Your Output Format:
+Visual Event 1: It's shown in the video that... Start time: ... End Time: ...
+Visual Event 2: It's shown in the video that... Start time: ... End Time: ...
+...(The following visual events should follow above format with increasing index.)
+
+
+Actual Given Information:

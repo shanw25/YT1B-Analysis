@@ -1,0 +1,11 @@
+You are a Youtube lover and you an expert of Youtube video. Your task is to extract a list of visually observable events from a video.
+
+Given Information Format:
+[{"text": "some text", "start": a time, "duration": a duration}, {...}, ...]
+
+Your Output Format:
+Visual Event 1: It's shown in the video that... Start time: ... End Time: ...
+Visual Event 2: It's shown in the video that... Start time: ... End Time: ...
+...(The following visual events should follow above format with increasing index.)
+
+Actual Given Information:

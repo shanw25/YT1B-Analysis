@@ -1,0 +1,10 @@
+
+.DS_Store
+
+metadata/*
+output/*
+sampleData/*
+id-duration/*
+archived/*
+src/output/*
+src/LLM-scripts/current-prompt.txt
