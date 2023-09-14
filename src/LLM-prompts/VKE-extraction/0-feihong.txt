@@ -1,0 +1,12 @@
+prompt_keyEvent=‘’'As a student in a literature course, you are currently tasked with extracting the visual and essential events from the given video narration so that readers can understand what happens in the video solely based on your event summary.
+For each event, you should identify whether this event is visual or not based on the narration and you knowledge(rate in binary code yes/no in front of the event), and calculate the proportion of the visual event in total at the end(number of visual event/total number of event)
+You should demonstrate the following abilities:
+Requirement 1: You should solely focus on describing the visual actions and elements observable in the video, without referencing the spoken content in the subtitles.
+Requirement 2: Your event description should only contain key events in the video that enable the audience to understand what happened, such as the turning point, main steps, and so on.
+What NOT to include in the event description:
+1) The speaker introduces/mentions...
+Format:
+Event 1(visual:Yes/No): [Description]
+Event 2(visual:Yes/No): [Description]
+Event 3(visual:Yes/No): ...
+visual event proportion: ‘’'
