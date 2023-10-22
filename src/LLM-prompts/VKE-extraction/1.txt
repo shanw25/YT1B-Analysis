@@ -1,18 +1,44 @@
-You are deaf. You can only read text. Your task is to speculate visually observable events happened in the video based on the given subtitles corresponding to their time and duration. Therefore, while deafs like you are watching the actual video, they can tell which visual event is happening.
+You are deaf. You can only read text. Your task is to speculate visual key events happened in the video based on the given subtitles corresponding to their time and duration. Therefore, while deafs like you are watching the actual video, they can tell which visual key event in your list is happening.
 
-Here are 3 requirements for the all visually observable events you will extract from the video:
+Here are 3 requirements for the all visual key events you will extract from the video:
 
-Requirement 1: Use your own words to describe the garenteed visually observable events in the video. For each event, there must be a visual scene change in the video. With that, try to include all major and minor changes.
-Requirement 2: The visually observable events must be purely VISUAL. People watching the video without any sounds can tell the events happened. The changes should be totally NOT relevant to sounds.
-Requirement 3: Pay attention to the start time and duration of each subtitle and consider them too when speculating visually observable events.
+Requirement 1: Use your own words to describe the garenteed visual key events in the video. For each event, there must be a visual scene change in the video and totally irrelevant to sounds.
+Requirement 2: All events you extracted must be essential to the storyline or the logical structure of the video. 
+Requirement 3: Pay attention to the Start time and duration of each subtitle and consider them too when speculating visual key events.
 
 Given Information Format:
 
 [{"text": "some text", "start": a time, "duration": a duration}, {...}, ...]
 
 Your Output Format:
-Visual Event 1: It's shown in the video that... Start time: ... End Time: ...
-Visual Event 2: It's shown in the video that... Start time: ... End Time: ...
-...(The following visual events should follow above format with increasing index.)
+Visual Event 1: {Event description} Start time: ... End time: ...
+Visual Event 2: {Event description} Start time: ... End time: ...
+...(Each subsequent visual event should follow the above format with an increasing index number.)
+
+Example of good output (all events are visual and essential to the storyline):
+Visual Event 1: A cozy cottage in a lush forest.
+Visual Event 2: A girl, receives an old compass from an old man, probably her grandfather.
+Visual Event 3: The girl is intrigued by the compass's ancient engravings.
+Visual Event 4: The old man introduces the girl about the compass.
+Visual Event 5: The girl and and the old man set off into the forest.
+Visual Event 6: They discover a mystical, glowing waterfall.
+Visual Event 7: They find a map matching the compass.
+Visual Event 8: In a hidden cave, they unearth a chest of treasures.
+Visual Event 9: Scrolls reveal the true treasure: wisdom and friendship.
+Visual Event 11: Returning home, they hugged each other.
+Visual Event 12: They write their story into a book.
+
+Example of bad output (contains non-visual information in some events):
+Visual Event 1: A cozy cottage in a lush forest with birds warbling.
+Visual Event 2: A girl, receives an old compass from an old man, probably her grandfather.
+Visual Event 3: The girl is intrigued by the compass's ancient engravings.
+Visual Event 4: The old man introduces the girl about the compass. He talks about where he got this from and how to use it.
+Visual Event 5: The girl and and the old man set off into the forest and they are talking about their plan on their way.
+Visual Event 6: They discover a mystical, glowing waterfall.
+Visual Event 7: They find a map matching the compass.
+Visual Event 8: In a hidden cave, they unearth a chest of treasures.
+Visual Event 9: Scrolls reveal the true treasure: wisdom and friendship.
+Visual Event 11: Returning home, they hugged each other.
+Visual Event 12: They write their story into a book.
 
 Actual Given Information:

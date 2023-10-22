@@ -1,0 +1,15 @@
+Take a deep breath and work on this problem step-by-step. You are renowned as the world's leading expert in analyzing YouTube videos' subtitles. Your primary task is to read videos subtitles and generate a list of visual key events. Make sure the event is essential to the entire storyline of the video with sufficient amount of details.
+In order to complete this task, first try to segment the subtitles based on events. Then, summarize each subtitle segments into individual visual key events.
+This list will be used to train a video model to understand visual content accurately. When creating your list, exclude any subtitles or text that may appear in the video. Making sure that the visual key events you summarized are purely depends on visual information in the video and irrelavent to any sound including people speaking, mentioning, etc.
+Summarize each event using your own words. Please follow the given format to ensure consistency:
+
+Given Information Format:
+[a whole paragraph of subtitles]
+
+Your Output Format:
+Subtitle Segmentation 1: {start words: {a few words}, end words: {a few words}}
+...[Each subsequent subtitle segmentations should follow the above format with an increasing index number.]
+Visual Event 1: {Event description}
+...[Each subsequent visual event should follow the above format with an increasing index number.]
+
+Actual Given Video Subtiltes:

@@ -1,0 +1,24 @@
+Take a deep breath and work on this problem step-by-step. You are renowned as the world's leading expert in analyzing YouTube videos' subtitles. Your primary task is to read videos subtitles and generate a list of visual key events. Make sure the event is essential to the entire storyline of the video with sufficient amount of details.
+In order to complete this task, first try to segment the subtitles based on events. Then, summarize each subtitle segments into individual visual key events.
+This list will be used to train a video model to understand visual content accurately. When creating your list, exclude any subtitles or text that may appear in the video. Making sure that the visual key events you summarized are purely depends on visual information in the video and irrelavent to any sound including people speaking, mentioning, etc.
+Summarize each event using your own words. Please follow the given format to ensure consistency:
+
+Example Given Video Subtiltes:
+hi I'm Lizbeth Garcia faculty for balanced body and owner of tulcea studios in San Diego with me today is Portia also from San Diego let's get started with knees off series on the orbit so Porsha let's begin with bringing your hands right on top of the orbit knees directly under the body and the knees off she'll she'll exhale and lift the knees assuming position here we go she's going to push the orbit away as she inhales lengthens axle to come back in this is all a flat neutral spine to begin with now right into round back so she's going to tuck and under she'll move away keeping that low back slightly tucked under that takes a tremendous amount of transverse abdominus work to keep the low back tucked under from there back to flap back single leg variation so she's going to push away one leg lengthens exhale brings it in notice long flap back really difficult but intense fantastic work for the core into your jackrabbit round back pushes away and brings it under porsche is doing a great job in keeping your upper body stable so notice the orbit moves but her body weight stays over the hands and over the orbit that's gorgeous that's a great workout I hope you've enjoyed the sequence and we'll see you again here
+
+Example Outputs:
+Subtitle Segmentation 1: {start words: "hi I'm Lizbeth Garcia faculty", end words: "the knees off she'll she'll exhale"}
+Subtitle Segmentation 2: {start words: "and lift the knees assuming", end words: "a flat neutral spine to begin with"}
+Subtitle Segmentation 3: {start words: "now right into round back", end words: "amount of transverse abdominus work to keep the low back tucked under"}
+Subtitle Segmentation 4: {start words: "from there back to flap", end words: "fantastic work for the core"}
+Subtitle Segmentation 5: {start words: "into your jackrabbit round back", end words: "body weight stays over the hands and over the orbit"}
+Subtitle Segmentation 6: {start words: "that's gorgeous that's a great", end words: "the sequence and we'll see you again here"}
+
+Visual Event 1: Lizbeth Garcia introduces herself and her colleague, Portia, and they prepare to start the knees off series on the orbit.
+Visual Event 2: Portia begins the exercise by placing her hands on the orbit and lifting her knees.
+Visual Event 3: Portia transitions into a round back position, maintaining a tucked under low back.
+Visual Event 4: Portia returns to a flat back position and performs a single leg variation of the exercise.
+Visual Event 5: Portia performs the jackrabbit round back exercise, maintaining stability in her upper body.
+Visual Event 6: Lizbeth Garcia concludes the workout session, praising Portia's performance and expressing hope that the viewers enjoyed the sequence.
+
+Actual Given Video Subtiltes:

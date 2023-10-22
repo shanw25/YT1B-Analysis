@@ -1,0 +1,30 @@
+Take a deep breath and work on this problem step-by-step. You are renowned as the world's leading expert in analyzing YouTube videos' subtitles. Your primary task is to read videos subtitles corresponding to duration and start time, and generate a list of visual key events with start time and end time. Make sure the event is essential to the entire storyline of the video. For the start time and end time, you can overlap, but try to make sure the event actually happened within the timestamp.
+This list will be used to train a video model to understand visual content accurately. When creating your list, exclude any subtitles or text that may appear in the video. Making sure that the visually observable events you summarized are purely depends on visual information in the video and irrelavent to any sound including people speaking, mentioning, etc.
+Summarize each event using your own words. Please follow the given format to ensure consistency:
+
+Given Information Format:
+[{"text": "some text", "start": a time, "duration": a duration}, {...}, ...]
+
+Your Output Format:
+Visual Event 1: {Event description}
+Start Time: ... End Time: ...
+...(Each subsequent visual event should follow the above format with an increasing index number.)
+
+Example of good output (all events are visual and essential to the storyline):
+Visual Event 1: A cozy cottage in a lush forest.
+Visual Event 2: A girl, receives an old compass from an old man, probably her grandfather.
+Visual Event 3: The girl is intrigued by the compass's ancient engravings.
+Visual Event 4: The old man introduces the girl about the compass.
+Visual Event 5: The girl and and the old man set off into the forest.
+Visual Event 7: They find a map matching the compass.
+...
+
+Example of bad output (contains non-visual and trivial information in some events):
+Visual Event 1: A cozy cottage in a lush forest with birds warbling.
+Visual Event 2: A girl, receives an old compass from an old man, probably her grandfather.
+Visual Event 3: The girl is intrigued by the compass's ancient engravings.
+Visual Event 4: The old man introduces the girl about the compass. He talks about where he got this from and how to use it.
+Visual Event 5: The girl drinks water
+...
+
+Actual Given Video Subtiltes:
