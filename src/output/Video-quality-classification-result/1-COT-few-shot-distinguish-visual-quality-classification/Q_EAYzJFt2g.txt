@@ -1,0 +1,32 @@
+Subtitle Segmentation 1: {start words: "so far we learned how", end words: "push them up I'm the Nagar answer"}
+Subtitle Segmentation 2: {start words: "for my next example is", end words: "the answer of 9"}
+Subtitle Segmentation 3: {start words: "now we're going on to", end words: "the dance of 24"}
+Subtitle Segmentation 4: {start words: "my next example is 22", end words: "the answer 43"}
+Subtitle Segmentation 5: {start words: "my next example is 41", end words: "the answer 90"}
+Subtitle Segmentation 6: {start words: "for my next example is", end words: "answer of 32"}
+Subtitle Segmentation 7: {start words: "the next example is 61", end words: "get 9 laughter answer"}
+Subtitle Segmentation 8: {start words: "willing to read some numbers", end words: "944"}
+Subtitle Segmentation 9: {start words: "so now by learning three", end words: "the answer of 444"}
+Subtitle Segmentation 10: {start words: "run its example is 625", end words: "moving the bcat fingers"}
+Subtitle Segmentation 11: {start words: "now we're going to do", end words: "the answer of 2"}
+Subtitle Segmentation 12: {start words: "my second example is 7", end words: "I got one"}
+Subtitle Segmentation 13: {start words: "my third example is 9", end words: "the answer of 1"}
+Subtitle Segmentation 14: {start words: "now I'm moving on to", end words: "the answer of 21"}
+Subtitle Segmentation 15: {start words: "our next one is 99", end words: "answer of 82"}
+Subtitle Segmentation 16: {start words: "next one is 65 minus", end words: "the answer of 50"}
+Subtitle Segmentation 17: {start words: "now I'm going to move", end words: "ance of 17"}
+Subtitle Segmentation 18: {start words: "now I'm gonna show you", end words: "the answer of 200"}
+Subtitle Segmentation 19: {start words: "now I'm gonna show you", end words: "sort of 312"}
+Subtitle Segmentation 20: {start words: "if you got the number", end words: "these type of questions in the next video you"}
+
+Visual Key Event 1(visual): The instructor demonstrates how to perform one-digit addition on the abacus, using the examples 1+3, 5+3, and 6+3.
+Visual Key Event 2(visual): The instructor moves on to two-digit addition, using the examples 13+11, 22+21, 41+53, 21+11, and 61+33.
+Visual Key Event 3(visual): The instructor explains how to read three-digit numbers on the abacus, using the examples 811, 894, 773, and 944.
+Visual Key Event 4(visual): The instructor demonstrates three-digit addition on the abacus, using the examples 221+223 and 625+324.
+Visual Key Event 5(visual): The instructor begins demonstrating one-digit subtraction on the abacus, using the examples 4-2, 7-6, and 9-8.
+Visual Key Event 6(visual): The instructor moves on to two-digit subtraction, using the examples 48-27, 99-17, and 65-50.
+Visual Key Event 7(visual): The instructor demonstrates three-digit subtraction on the abacus, using the examples 128-111, 454-252, and 987-675.
+Visual Key Event 8(non-visual): The instructor mentions a concept called "little friend" that will be covered in the next video and encourages viewers to practice the demonstrated calculations.
+
+Classification:
+Good.

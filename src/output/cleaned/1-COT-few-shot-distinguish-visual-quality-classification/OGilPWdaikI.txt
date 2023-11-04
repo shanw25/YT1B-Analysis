@@ -1,0 +1,6 @@
+Visual Key Event 2(visual): The speaker demonstrates the effects of liquid nitrogen on a flower and a sponge, showing how it freezes and breaks them.
+Visual Key Event 3(visual): The speaker tests the iPhone with liquid nitrogen, observing its reactions.
+Visual Key Event 6(visual): The speaker observes the iPhone's camera logo burn-in and sets it aside to recover.
+Visual Key Event 8(visual): The speaker observes the physical damage to the Samsung Galaxy, including a cracked front and detached cover.
+Visual Key Event 11(visual): The speaker powers on both phones, observing their conditions and noting the Samsung Galaxy's need for a new display.
+Visual Key Event 13(visual): The speaker conducts a final test on the Samsung Galaxy S8 Plus, observing its reactions to liquid nitrogen and its eventual destruction.

@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "hi my name is Emily", end words: "options on the command line"}
+Subtitle Segmentation 2: {start words: "so now we want to", end words: "that is what's outputted in these first two examples"}
+Subtitle Segmentation 3: {start words: "so if when I specify", end words: "that dash S option"}
+Subtitle Segmentation 4: {start words: "and up top in our", end words: "that option - s if it was present"}
+Subtitle Segmentation 5: {start words: "so to do that the", end words: "RV is argh me over there"}
+Subtitle Segmentation 6: {start words: "and let's look back at", end words: "looks good to me"}
+Subtitle Segmentation 7: {start words: "so now I know I", end words: "quite important in my code"}
+Subtitle Segmentation 8: {start words: "so now I look at", end words: "declare variables outside"}
+Subtitle Segmentation 9: {start words: "if our summary is one", end words: "that's another lecture stream that's all good"}
+Subtitle Segmentation 10: {start words: "but at some point we", end words: "full overall that's what we want"}
+Subtitle Segmentation 11: {start words: "and again let's test it", end words: "we get 4 lines as we expect"}
+Subtitle Segmentation 12: {start words: "so that's what we're working", end words: "as we had before"}
+Subtitle Segmentation 13: {start words: "so looking back at this", end words: "best of luck in your labs [Music]"}
+
+Visual Key Event 1(non-visual): Emily introduces herself and the topic of the video, which is about extending a web scraper exercise by using command line options.
+Visual Key Event 2(non-visual): Emily explains the new feature they want to add to the program, which is to output a summary statistic when the user inputs "-S".
+Visual Key Event 3(non-visual): Emily starts modifying the program to look for the "-S" option in the command line.
+Visual Key Event 4(non-visual): Emily demonstrates how to use the grep program to search for the "-S" option in the command line and remove it from the Arg V array.
+Visual Key Event 5(non-visual): Emily tests the program to ensure that the "-S" option has been successfully removed from the Arg V array.
+Visual Key Event 6(non-visual): Emily confirms that the program is working as expected, with the summary variable correctly set and the "-S" option removed from the Arg V array.
+Visual Key Event 7(non-visual): Emily identifies the parts of the code where the printing behavior needs to be changed based on the summary flag variable.
+Visual Key Event 8(non-visual): Emily modifies the program to calculate the total percentage and number of streams when the summary option is selected.
+Visual Key Event 9(non-visual): Emily continues modifying the program to increment the total percentage and number of streams for each lecture stream found.
+Visual Key Event 10(non-visual): Emily adds a check to the program to print the summary statistic if the summary option is selected.
+Visual Key Event 11(non-visual): Emily tests the program with the summary option and confirms that it is working as expected.
+Visual Key Event 12(non-visual): Emily tests the program without the summary option and confirms that the original behavior is retained.
+Visual Key Event 13(non-visual): Emily concludes the video by summarizing the steps taken to add an option to the program and wishing the viewers luck in their labs.
+
+Classification:
+Good.

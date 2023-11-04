@@ -1,0 +1,44 @@
+Visual Event 1: The video starts with a view of a reserve land.
+Start Time: 3.83 End Time: 11.34
+
+Visual Event 2: The camera pans to a private neighborhood, showcasing its exclusivity.
+Start Time: 15.03 End Time: 22.09
+
+Visual Event 3: The video shows a gated community, emphasizing its privacy.
+Start Time: 24.81 End Time: 30.76
+
+Visual Event 4: The camera focuses on a house for sale in the private community.
+Start Time: 32.86 End Time: 35.38
+
+Visual Event 5: The video showcases the residential area, with houses ranging from $350,000 to $500,000.
+Start Time: 37.18 End Time: 42.04
+
+Visual Event 6: The video shows a golf course next to the residential area.
+Start Time: 42.04 End Time: 43.72
+
+Visual Event 7: The video shows a view of the backyard with pine trees and mountains.
+Start Time: 67.78 End Time: 74.44
+
+Visual Event 8: The video shows private homes in the subdivision, highlighting their unique features and surroundings.
+Start Time: 83.17 End Time: 96.1
+
+Visual Event 9: The video shows a log cabin-style house in the neighborhood.
+Start Time: 97.6 End Time: 102.1
+
+Visual Event 10: The video shows a brick house in the neighborhood.
+Start Time: 135.64 End Time: 137.49
+
+Visual Event 11: The video shows a log cabin-style house for sale in the neighborhood.
+Start Time: 142.09 End Time: 146.26
+
+Visual Event 12: The video shows a custom rock house with the address on it.
+Start Time: 156.06 End Time: 158.47
+
+Visual Event 13: The video shows the Coca-Cola building, indicating a job source in Flagstaff.
+Start Time: 279.16 End Time: 281.2
+
+Visual Event 14: The video shows Flagstaff City Hall.
+Start Time: 291.82 End Time: 295.12
+
+Visual Event 15: The video concludes with a farewell message.
+Start Time: 495.66 End Time: 502.39

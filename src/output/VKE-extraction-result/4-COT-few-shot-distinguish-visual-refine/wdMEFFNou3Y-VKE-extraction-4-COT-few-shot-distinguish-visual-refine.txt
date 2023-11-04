@@ -1,0 +1,23 @@
+Subtitle Segmentation 1: {start words: "the Volkswagen Golf it's rather", end words: "that didn't hurt either all very nice"}
+Subtitle Segmentation 2: {start words: "everything's just nicely laid out", end words: "up to two-and-a-half grand on one of these cars"}
+Subtitle Segmentation 3: {start words: "another thing about the Golf", end words: "adds navigation as well that's really handy"}
+Subtitle Segmentation 4: {start words: "now you get the golf", end words: "carrying skis and two people in the back at once"}
+Subtitle Segmentation 5: {start words: "also there's some big door", end words: "load items into the back"}
+Subtitle Segmentation 6: {start words: "now if you want to", end words: "like to drive well it's really rather good actually"}
+Subtitle Segmentation 7: {start words: "and that's all I have", end words: "according to trick computer 47 that's really impressive"}
+Subtitle Segmentation 8: {start words: "now if you do mega", end words: "it does have some annoying traits here's five"}
+Subtitle Segmentation 9: {start words: "what material qualities lovely in", end words: "the 1980s or something"}
+Subtitle Segmentation 10: {start words: "however you can think of", end words: "make a noise when the referendum habit"}
+Subtitle Segmentation 11: {start words: "so then overall what do", end words: "you can get on a Volkswagen Golf Kuroko dot uk' thanks for watching"}
+
+Visual Key Event 1: The presenter is comparing the Volkswagen Golf to Angela Merkel, showing the exterior of the car.
+Visual Key Event 2: The presenter is inside the car, demonstrating the interior design and quality of materials.
+Visual Key Event 3: The presenter is explaining the car's features and controls, including the air conditioning controls.
+Visual Key Event 4: The presenter is showing the rear doors and the interior space, demonstrating the comfort and practicality for passengers.
+Visual Key Event 5: The presenter is showing the boot of the car, demonstrating its size and practical features.
+Visual Key Event 6: The presenter is driving the car, commenting on its comfort and handling.
+Visual Key Event 7: The presenter is discussing the car's engine and fuel efficiency.
+Visual Key Event 8: The presenter is discussing the car's diesel engine and its noise level.
+Visual Key Event 9: The presenter is listing some negative aspects of the car, including material quality and engine options.
+Visual Key Event 10: The presenter is listing some positive features of the car, including storage and seatbelt guides.
+Visual Key Event 11: The presenter is summarizing his thoughts on the Volkswagen Golf, mentioning its price, space, and ease of driving.

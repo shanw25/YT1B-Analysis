@@ -1,0 +1,25 @@
+Subtitle Segmentation 1: {start words: "[Music] hi guys so as", end words: "to make it myself we're gonna go ahead and snip those straps off"}
+Subtitle Segmentation 2: {start words: "because I don't need them", end words: "pieces of fabric that we can use"}
+Subtitle Segmentation 3: {start words: "honestly I went to the", end words: "seam in the middle would just be awkward"}
+Subtitle Segmentation 4: {start words: "so a straight line and", end words: "my other iron was not it"}
+Subtitle Segmentation 5: {start words: "Summa happened when I try", end words: "sticking a paintbrush in the back of the glue gun"}
+Subtitle Segmentation 6: {start words: "long story short I had", end words: "glue it on the inside [Music]"}
+Subtitle Segmentation 7: {start words: "it wasn't really sticking very", end words: "working on the butterfly pin"}
+Subtitle Segmentation 8: {start words: "there was some fabric sticking", end words: "out any imperfections or thread that was sticking out"}
+Subtitle Segmentation 9: {start words: "and that's it for the", end words: "the print on it as well"}
+Subtitle Segmentation 10: {start words: "I didn't want to poke", end words: "more accurate than hand sewing"}
+Subtitle Segmentation 11: {start words: "now it was time to", end words: "a metallic gold color [Music]"}
+Subtitle Segmentation 12: {start words: "but other than that it", end words: "you have a butterfly wow so beautiful [Music]"}
+
+Visual Key Event 1(non-visual): The video creator introduces the project of making DIY designer hair accessories using a fake designer bag from a thrift store.
+Visual Key Event 2(visual): The creator cuts off the straps of the bag and uses a seam ripper to disassemble the bag, revealing large pieces of fabric.
+Visual Key Event 3(visual): The creator prepares to make a headband, cutting out two rectangular pieces of fabric and sewing them together to cover the headband.
+Visual Key Event 4(visual): The creator irons the seams of the fabric strip to make it lay flat on the headband.
+Visual Key Event 5(visual): The creator uses a hot glue gun to attach the fabric strip to the headband, but runs out of glue sticks and resorts to hand sewing.
+Visual Key Event 6(visual): The creator adds a lining to the headband using the bag strap and fabric glue, leaving it overnight to dry.
+Visual Key Event 7(visual): The creator finishes the headband by folding up and sewing in place any fabric sticking out at the ends, and then trimming any imperfections.
+Visual Key Event 8(visual): The creator begins making the butterfly pin, cutting out three butterfly pieces from the fabric.
+Visual Key Event 9(visual): The creator sews together the butterfly pieces, using a hand wheel to help sew through the thick layers of fabric.
+Visual Key Event 10(visual): The creator makes holes for the grommets in the butterfly, spray paints the grommets different colors, and then hammers them into place.
+Visual Key Event 11(visual): The creator finishes the butterfly pin, expressing satisfaction with the result.
+Visual Key Event 12(non-visual): The creator concludes the video, expressing hope that the viewers enjoyed the project and will tune in for the next one.

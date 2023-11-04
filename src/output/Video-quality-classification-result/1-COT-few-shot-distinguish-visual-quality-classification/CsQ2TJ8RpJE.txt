@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "hey guys we're going to", end words: "215 dollars and 12 cents"}
+Subtitle Segmentation 2: {start words: "so that's not too bad", end words: "one of aluminum"}
+Subtitle Segmentation 3: {start words: "alright this is all the", end words: "just a 10k"}
+Subtitle Segmentation 4: {start words: "my two silver chains both", end words: "two Canadian Silver's 80 percenters"}
+Subtitle Segmentation 5: {start words: "I here's mine on silver", end words: "clipped planchet 66 Memorial"}
+Subtitle Segmentation 6: {start words: "I got about two dollars", end words: "Japanese cash coin that is from the 1700s"}
+Subtitle Segmentation 7: {start words: "oldest coin was my oldest", end words: "tokens Chucky Cheese whatnot"}
+Subtitle Segmentation 8: {start words: "and then my Washington state", end words: "rosette love that looks really nice in here too"}
+Subtitle Segmentation 9: {start words: "I also found this full", end words: "my giant pile of 45 70s"}
+Subtitle Segmentation 10: {start words: "and those are military soldier", end words: "some play money up at the top arcade tokens"}
+Subtitle Segmentation 11: {start words: "right on to the relics", end words: "my one and only Boy Scouts item"}
+Subtitle Segmentation 12: {start words: "a Girl Scouts item or", end words: "my rings my junk rings"}
+Subtitle Segmentation 13: {start words: "they're quite a few of", end words: "my favorite parts the toys"}
+Subtitle Segmentation 14: {start words: "I'm gonna start with the", end words: "that's everything I got we'll see you next year"}
+
+Visual Key Event 1(non-visual): The speaker introduces the video as a wrap-up of his first year of metal detecting, which started in September 2015.
+Visual Key Event 2(visual): The speaker shows his collection of pull tabs, large iron items, keys, and scrap metal, including brass and aluminum.
+Visual Key Event 3(visual): The speaker presents his collection of gold and silver items, including a 1954 Gold class ring, silver chains, and rings.
+Visual Key Event 4(visual): The speaker displays his collection of silver coins, including war nickels, Washington's, Rosie's, mercs, barbers, and Canadian Silver's.
+Visual Key Event 5(visual): The speaker shows his collection of U.S. coinage, including wheats, Jeffersons, buffaloes, V Nickels, presidentials, and a clipped planchet 66 Memorial.
+Visual Key Event 6(visual): The speaker presents his collection of foreign coins, including a George the fifth 1915 large cent and a Japanese cash coin from the 1700s.
+Visual Key Event 7(visual): The speaker displays his collection of tokens, including good for tokens, transit tokens, play money, and Washington state tax tokens.
+Visual Key Event 8(visual): The speaker shows his military finds, including buttons, a Northwest Mounted Police badge, a quartermaster Corps hat badge, a rifleman horn, a veterinarian Corps, a Marine Lance Corporal pin, and a World War one horse bridle rosette.
+Visual Key Event 9(visual): The speaker presents his collection of bullets, including a full stripper clip of 3003 paper bullet blanks, a World War one military tent rope tensioner, and a pile of 45 70s.
+Visual Key Event 10(visual): The speaker shows his collection of relics, including musical instrument pieces, an 1800 opium pipe, a novelty mandolin tape measure, hem weights, lock things, pocket knives, buckles, pins, cuff links, jewelry, Boy Scouts and Girl Scouts items, and non-military buttons.
+Visual Key Event 11(visual): The speaker displays his collection of dog tags, presidential campaign items, junk rings, and toys, including cap guns, motorcycles, lead soldiers, marbles, a toy pipe, Monopoly pieces, a Cinderella plate, a toy 3-ball, a Boy Scout piggy bank, a porcelain rocking horse, Tootsie toys, and junk cars.
+Visual Key Event 12(non-visual): The speaker concludes the video, promising to return next year.
+
+Classification:
+Good.

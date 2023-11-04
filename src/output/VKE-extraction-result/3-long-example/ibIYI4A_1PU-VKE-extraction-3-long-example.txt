@@ -1,0 +1,23 @@
+Visual Event 1: The video starts with a comparison of two compact speakers, the 2012 Yamaha DX r8 and the 2017 QSC k 8.2.
+Start Time: 0.06 End Time: 8.639
+
+Visual Event 2: The video shows the similarities between the two speakers, including their compact size, power, and construction.
+Start Time: 8.639 End Time: 44.52
+
+Visual Event 3: The video demonstrates the features of each speaker, such as the rubber feet, dual pull cup, and LED indicators.
+Start Time: 44.52 End Time: 79.95
+
+Visual Event 4: The video compares the power output and sound production of both speakers.
+Start Time: 79.95 End Time: 131.77
+
+Visual Event 5: The video highlights the additional features of the QSC k 8.2, including its wedge shape for use as a monitor and its higher power output.
+Start Time: 131.77 End Time: 162.74
+
+Visual Event 6: The video shows the differences in dispersion and warranty between the two speakers.
+Start Time: 162.74 End Time: 259.789
+
+Visual Event 7: The video demonstrates the different input options and digital signal processing of each speaker.
+Start Time: 259.789 End Time: 396.92
+
+Visual Event 8: The video concludes with a size comparison between the QSC k 8.2 and a larger model, the K 12.2, and a summary of the benefits of each speaker.
+Start Time: 396.92 End Time: 479.729

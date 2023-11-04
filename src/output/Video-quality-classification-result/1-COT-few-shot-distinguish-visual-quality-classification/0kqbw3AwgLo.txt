@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "[Music] youtube visible a city", end words: "don't feel too comfortable but we're going over there"}
+Subtitle Segmentation 2: {start words: "and as you can see", end words: "twenty dollars right there"}
+Subtitle Segmentation 3: {start words: "and press my Houston Rockets", end words: "we're gonna take that ring"}
+Subtitle Segmentation 4: {start words: "the way we're playing man", end words: "most of these youtubers do"}
+Subtitle Segmentation 5: {start words: "it's like so cold right", end words: "want to go home"}
+Subtitle Segmentation 6: {start words: "oh man check it out", end words: "so much where space steps the space is there"}
+Subtitle Segmentation 7: {start words: "got the whole trip booze", end words: "do it another day [Music]"}
+Subtitle Segmentation 8: {start words: "look nice huh Osorio Kobe's", end words: "pretty nice i like them"}
+Subtitle Segmentation 9: {start words: "we're leaving the mall right", end words: "it is I but those air jordan 3 those wolves if they're pretty nice"}
+Subtitle Segmentation 10: {start words: "so we just got here", end words: "on that and i'm not gonna pay no retail price of that"}
+Subtitle Segmentation 11: {start words: "you know up to begin", end words: "pretty dope game"}
+Subtitle Segmentation 12: {start words: "Oh couldn't make it see", end words: "didn't go inside it's very cold outside right now"}
+Subtitle Segmentation 13: {start words: "but I hope the little", end words: "subscribe like and comment I'm out peace [Music]"}
+
+Visual Key Event 1(non-visual): The speaker is in the backseat of a car, heading to the Motor City Mall to take Christmas pictures of their kids.
+Visual Key Event 2(non-visual): The speaker discusses a Houston Rockets hoodie that his wife bought for him at a discounted price.
+Visual Key Event 3(non-visual): The speaker expresses his excitement about the Houston Rockets' performance and predicts they will win the NBA finals.
+Visual Key Event 4(non-visual): The speaker talks about the cold weather and how it contrasts with the previous day's temperature.
+Visual Key Event 5(visual): The speaker shows the traffic situation while trying to get into the mall.
+Visual Key Event 6(visual): The speaker and his family arrive at the mall and prepare to take pictures.
+Visual Key Event 7(visual): The speaker leaves the picture place due to a long wait and decides to return another day.
+Visual Key Event 8(visual): The speaker comments on a pair of Kobe shoes that he finds appealing.
+Visual Key Event 9(visual): The speaker leaves the mall, commenting on the wind and the Air Jordan 3 shoes.
+Visual Key Event 10(non-visual): The speaker arrives at his parents' house and talks about a game he downloaded on his phone.
+Visual Key Event 11(visual): The speaker plays the Mario Run game on his phone and comments on its features.
+Visual Key Event 12(visual): The speaker continues to play the game, trying to pass a level.
+Visual Key Event 13(non-visual): The speaker concludes the vlog, showing some Christmas presents and asking viewers to subscribe, like, and comment.
+
+Classification:
+Good.

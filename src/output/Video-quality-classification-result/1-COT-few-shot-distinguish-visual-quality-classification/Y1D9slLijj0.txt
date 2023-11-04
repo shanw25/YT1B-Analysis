@@ -1,0 +1,26 @@
+Subtitle Segmentation 1: {start words: "hey guys and girls what's", end words: "don't follow us on instagram"}
+Subtitle Segmentation 2: {start words: "so let me explain a", end words: "a really really frustrating process to actually follow up with"}
+Subtitle Segmentation 3: {start words: "we ended up getting it", end words: "it is what it is"}
+Subtitle Segmentation 4: {start words: "but um the lessons i", end words: "go above and beyond"}
+Subtitle Segmentation 5: {start words: "um you know normal i", end words: "ignore all my problems"}
+Subtitle Segmentation 6: {start words: "another issue we had is", end words: "i can't even afford it"}
+Subtitle Segmentation 7: {start words: "so basically i was trying", end words: "i don't actually have the money for it"}
+Subtitle Segmentation 8: {start words: "so i've got to go", end words: "want to give up or quit"}
+Subtitle Segmentation 9: {start words: "and that's what i've learned", end words: "i'm not going to get there anyway"}
+Subtitle Segmentation 10: {start words: "so that's my biggest piece", end words: "drive yourself mentally insane"}
+Subtitle Segmentation 11: {start words: "so that's the lessons i've", end words: "a wicked day cheers and peace out"}
+
+Visual Key Event 1(non-visual): James from Guilty Apparel introduces the topic of the video, discussing the challenges faced due to the coronavirus pandemic.
+Visual Key Event 2(visual): James recounts the issues faced during a pre-order sale, including warehouse shutdowns and shipping delays.
+Visual Key Event 3(non-visual): James shares his decision to not work with the problematic shipping company again.
+Visual Key Event 4(non-visual): James discusses the stress of delayed deliveries and his commitment to over-delivering when it comes to Guilty Apparel.
+Visual Key Event 5(visual): James describes the process of organizing and counting the newly arrived stock, leading to sleepless nights.
+Visual Key Event 6(non-visual): James discusses the additional pressure of organizing new item samples and the financial constraints of buying in bulk.
+Visual Key Event 7(non-visual): James reflects on the financial limitations of the business and the need to return to basics.
+Visual Key Event 8(non-visual): James shares the emotional toll of the workload and the feeling of wanting to quit.
+Visual Key Event 9(non-visual): James shares his realization about the importance of consistency and avoiding burnout.
+Visual Key Event 10(non-visual): James advises on the importance of balance in life and not letting one aspect take over.
+Visual Key Event 11(non-visual): James concludes the video by sharing the lessons learned from the coronavirus pandemic and his plans for Guilty Apparel.
+
+Classification:
+Good.

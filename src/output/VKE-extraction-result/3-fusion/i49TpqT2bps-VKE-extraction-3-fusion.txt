@@ -1,0 +1,29 @@
+Visual Event 1: The video starts with the protagonist in a house, it's raining outside.
+Start Time: 0:00 End Time: 0:10
+
+Visual Event 2: The protagonist is seen cleaning the bathroom, focusing on the sinks, toilet, and floors.
+Start Time: 0:30 End Time: 1:00
+
+Visual Event 3: The protagonist is seen applying a face mask, indicating a self-care routine.
+Start Time: 1:30 End Time: 2:00
+
+Visual Event 4: The protagonist is seen preparing breakfast.
+Start Time: 2:30 End Time: 3:00
+
+Visual Event 5: The protagonist is seen taking out the trash.
+Start Time: 3:30 End Time: 4:00
+
+Visual Event 6: The protagonist is seen shopping in a store, specifically in the toiletries section.
+Start Time: 4:30 End Time: 5:00
+
+Visual Event 7: The protagonist is seen back at home, preparing dinner.
+Start Time: 5:30 End Time: 6:00
+
+Visual Event 8: The protagonist is seen showing the items bought from the store, including toothpaste and soap.
+Start Time: 6:30 End Time: 7:00
+
+Visual Event 9: The protagonist is seen discussing the efficiency of soap usage.
+Start Time: 7:30 End Time: 8:00
+
+Visual Event 10: The video ends with the protagonist saying goodbye to the viewers.
+Start Time: 8:30 End Time: 9:00

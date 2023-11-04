@@ -1,0 +1,34 @@
+Subtitle Segmentation 1: {start words: "now that it's all trimmed", end words: "garden pond today"}
+Subtitle Segmentation 2: {start words: "and that is cleaning out", end words: "all kinds of gunk"}
+Subtitle Segmentation 3: {start words: "and so it's a very", end words: "that's what we're going to be doing"}
+Subtitle Segmentation 4: {start words: "whew the wintery showers have", end words: "for other wildlife the frogs for fish etc"}
+Subtitle Segmentation 5: {start words: "so I've ordered some barley", end words: "set it aside"}
+Subtitle Segmentation 6: {start words: "all of this dried vegetation", end words: "back into the pond"}
+Subtitle Segmentation 7: {start words: "so I've taken the largest", end words: "the biggest problem in my pawns"}
+Subtitle Segmentation 8: {start words: "so to get it out", end words: "it works"}
+Subtitle Segmentation 9: {start words: "I've removed a lot of", end words: "this duckweed as possible"}
+Subtitle Segmentation 10: {start words: "as I just poured that", end words: "do its work"}
+Subtitle Segmentation 11: {start words: "keeping an eye out for", end words: "skim the surface now"}
+Subtitle Segmentation 12: {start words: "I'm now refilling the pond", end words: "getting those little tadpoles"}
+Subtitle Segmentation 13: {start words: "as for this marsh marigold", end words: "all of this"}
+Subtitle Segmentation 14: {start words: "now that it's all trimmed", end words: "the rock here"}
+Subtitle Segmentation 15: {start words: "oh I'm so pleased well", end words: "look great"}
+Subtitle Segmentation 16: {start words: "brilliant well I think it's", end words: "here on the lovely green sea Tube channel"}
+
+Visual Key Event 1(non-visual): The speaker explains the urgency of cleaning out the garden pond in preparation for the frog spawning season.
+Visual Key Event 2(visual): The speaker describes the process of cleaning out the pond, removing the green gooey slime and other organic matter.
+Visual Key Event 3(non-visual): The speaker explains the importance of cleaning the pond to make it hospitable for wildlife.
+Visual Key Event 4(visual): The speaker plans to submerge barley straw in the pond to combat pond weed and scum.
+Visual Key Event 5(visual): The speaker removes dried vegetation from the pond to prevent it from decomposing and feeding the pond weed.
+Visual Key Event 6(visual): The speaker identifies two main types of pond weed in the pond and uses a garden rake to remove them.
+Visual Key Event 7(visual): The speaker bails out the water from the pond to capture as much of the duckweed as possible.
+Visual Key Event 8(non-visual): The speaker observes the bright green color of the water due to the presence of algae.
+Visual Key Event 9(visual): The speaker spots a tadpole from the previous year in the pond and decides to be careful while cleaning the pond.
+Visual Key Event 10(visual): The speaker refills the pond with water and continues to skim off the duckweed.
+Visual Key Event 11(visual): The speaker trims and cleans the marsh marigold plant in the pond.
+Visual Key Event 12(visual): The speaker spots a frog in the pond and is excited about the possibility of it laying eggs.
+Visual Key Event 13(visual): The speaker places the marsh marigold back in the pond.
+Visual Key Event 14(non-visual): The speaker expresses excitement about the cleaned pond and the possibility of seeing frog spawn soon.
+
+Classification:
+Good.

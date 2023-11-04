@@ -1,0 +1,26 @@
+Subtitle Segmentation 1: {start words: "I did you do hey", end words: "wait overnight well for like 24 hours until sunday"}
+Subtitle Segmentation 2: {start words: "cuz I do have a", end words: "some strawberries or watermelon or just something I can eat"}
+Subtitle Segmentation 3: {start words: "and that's update for now", end words: "body weight stays over the hands and over the orbit"}
+Subtitle Segmentation 4: {start words: "that's gorgeous that's a great", end words: "the sequence and we'll see you again here"}
+Subtitle Segmentation 5: {start words: "so when you are first", end words: "message in a stronger way"}
+Subtitle Segmentation 6: {start words: "by showing the sky more", end words: "wants further details here"}
+Subtitle Segmentation 7: {start words: "the roadside imagery sparked the", end words: "saying this in a sentence"}
+Subtitle Segmentation 8: {start words: "could this be any more", end words: "most important message"}
+Subtitle Segmentation 9: {start words: "at the street fighter' media", end words: "ways that others can't"}
+Subtitle Segmentation 10: {start words: "and I can get into", end words: "alienating a potential client"}
+Subtitle Segmentation 11: {start words: "once that person has engaged", end words: "if it were communicated visually"}
+
+Visual Key Event 1(non-visual): The speaker is in Houston, staying at a hotel near the airport, and is on standby for a flight to Ecuador.
+Visual Key Event 2(non-visual): The speaker discusses her potential travel plans, including possibly taking a bus or waiting for a confirmed flight.
+Visual Key Event 3(non-visual): The speaker mentions that she is out of food and plans to find a market to buy some fruit.
+Visual Key Event 4(non-visual): The speaker discusses her plans for the day, including possibly meeting someone at the mall and getting a massage.
+Visual Key Event 5(visual): The speaker shows the state of the hotel room, which has been "terrorized" by the girls.
+Visual Key Event 6(non-visual): The speaker expresses hope that she will be able to get on her flight on time.
+Visual Key Event 7(visual): The speaker is at a mall, having lunch and considering seeing a movie.
+Visual Key Event 8(visual): The speaker meets a viewer of her videos and her family at the mall.
+Visual Key Event 9(non-visual): The speaker discusses her food intake for the day, including tea, a smoothie, and bananas.
+Visual Key Event 10(visual): The speaker is at a Mexican restaurant, where she orders a salad and adds fruit to it.
+Visual Key Event 11(non-visual): The speaker reflects on her day, expressing gratitude for the people she met and the experiences she had.
+
+Classification:
+Good.

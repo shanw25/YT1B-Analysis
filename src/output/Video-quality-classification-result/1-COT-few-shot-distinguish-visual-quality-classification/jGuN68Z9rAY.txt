@@ -1,0 +1,34 @@
+Subtitle Segmentation 1: {start words: "for the past year Jacko", end words: "their house on to their rattlin sites"}
+Subtitle Segmentation 2: {start words: "super super happy that it", end words: "finishing touches in place their tiny house is now hold a different phenomenon"}
+Subtitle Segmentation 3: {start words: "Oh [Music] [Music] it's been", end words: "can't wait to see what they've achieved"}
+Subtitle Segmentation 4: {start words: "[Music] this is the house", end words: "real dream I absolutely love this house"}
+Subtitle Segmentation 5: {start words: "I think it's beautiful like", end words: "he'll really and enjoy"}
+Subtitle Segmentation 6: {start words: "[Music] Solomon Jaco so nice", end words: "very happy the inside because beautiful as the outside"}
+Subtitle Segmentation 7: {start words: "you think he does I'm", end words: "it's really connected the outside wall"}
+Subtitle Segmentation 8: {start words: "yeah there's just lots of", end words: "it works beautiful and then in here this is not showering the bathroom here"}
+Subtitle Segmentation 9: {start words: "ah that's incredible you haven't", end words: "do you need and then when you're in bed perfect"}
+Subtitle Segmentation 10: {start words: "arms yeah you've made the", end words: "feel very comfortable with them the size of the house"}
+Subtitle Segmentation 11: {start words: "and effort two kids one", end words: "so I'm going to clamber out yet you're a climber at life"}
+Subtitle Segmentation 12: {start words: "and time we are going", end words: "our heart and soul into it yeah it's a lot of stories behind it"}
+Subtitle Segmentation 13: {start words: "at this very special place", end words: "it's a reality yeah it is here"}
+Subtitle Segmentation 14: {start words: "as also really rewarding anything", end words: "a place to sit have a drink at the end of the day"}
+Subtitle Segmentation 15: {start words: "that was a hint now", end words: "I'm proud of them"}
+
+Visual Key Event 1(visual): Jacko and Dom have been building their tiny house for a year, and they move the house to their site.
+Visual Key Event 2(visual): The tiny house is completed with finishing touches, and it is now a different phenomenon.
+Visual Key Event 3(non-visual): The narrator expresses excitement to see what Jacko and Dom have achieved.
+Visual Key Event 4(visual): The house is now on-site, and they have added a deck, balustrades, landscaping, and finishing touches inside.
+Visual Key Event 5(non-visual): Jacko and Dom express their love for the house and their excitement to show it to George.
+Visual Key Event 6(visual): The exterior of the house is admired for its contemporary design and how it fits into the environment.
+Visual Key Event 7(visual): The interior of the house is admired for its sense of space, color, and connection to the outside.
+Visual Key Event 8(visual): The house's unique features, such as the fold-down bed and the cladding, are admired.
+Visual Key Event 9(visual): The bathroom and the bedroom in the tiny house are admired for their spaciousness and functionality.
+Visual Key Event 10(non-visual): The house is praised for its efficient use of space and comfort.
+Visual Key Event 11(non-visual): The house is described as a safe and comfortable space for two kids.
+Visual Key Event 12(non-visual): The house is admired for its view and the feeling of home it provides.
+Visual Key Event 13(non-visual): The process of building the house is described as a roller coaster, but ultimately rewarding.
+Visual Key Event 14(non-visual): The house is described as a great place to relax at the end of the day.
+Visual Key Event 15(non-visual): The narrator expresses pride in Jacko and Dom's achievement.
+
+Classification:
+Good.

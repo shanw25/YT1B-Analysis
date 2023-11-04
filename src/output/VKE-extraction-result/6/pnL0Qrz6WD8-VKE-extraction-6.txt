@@ -1,0 +1,20 @@
+Visual Event 1: The video starts with the host introducing the project of replacing old tea candles on a boat.
+Start Time: 14.019 End Time: 20.9
+
+Visual Event 2: The host shows the old and new tea candles side by side for comparison.
+Start Time: 43.96 End Time: 57.97
+
+Visual Event 3: The host demonstrates how to drill holes into the new tea candles.
+Start Time: 149.2 End Time: 202.269
+
+Visual Event 4: The host shows the process of screwing the new tea candles into the boat.
+Start Time: 221.2 End Time: 255.129
+
+Visual Event 5: The host encounters a problem with the alignment of the holes and has to make modifications.
+Start Time: 477.45 End Time: 498.67
+
+Visual Event 6: The host successfully installs the new tea candles on the boat.
+Start Time: 628.11 End Time: 665.44
+
+Visual Event 7: The host concludes the video by discussing future projects and showing some b-roll shots.
+Start Time: 692.11 End Time: 739.93

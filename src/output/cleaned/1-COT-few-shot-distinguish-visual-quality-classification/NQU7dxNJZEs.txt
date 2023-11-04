@@ -1,0 +1,4 @@
+Visual Key Event 5(visual): The speaker prepares and drinks a green smoothie.
+Visual Key Event 7(visual): The speaker goes shopping and shows the items she bought.
+Visual Key Event 8(visual): The speaker continues to show the items she bought from the store.
+Visual Key Event 10(visual): The speaker prepares and eats a sandwich for lunch.

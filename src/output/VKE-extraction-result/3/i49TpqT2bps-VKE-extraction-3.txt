@@ -1,0 +1,23 @@
+Visual Event 1: The video starts with a person talking to the camera.
+Start Time: 0.03 End Time: 3.33
+
+Visual Event 2: The person is seen doing some house chores.
+Start Time: 16.13 End Time: 27.81
+
+Visual Event 3: The person is seen shopping for household essentials.
+Start Time: 34.559 End Time: 52.68
+
+Visual Event 4: The person is seen cleaning the bathroom.
+Start Time: 68.58 End Time: 79.92
+
+Visual Event 5: The person is seen applying a face mask.
+Start Time: 83.16 End Time: 96.72
+
+Visual Event 6: The person is seen preparing food in the kitchen.
+Start Time: 441.71 End Time: 466.539
+
+Visual Event 7: The person is seen showing and discussing the items they bought from a store.
+Start Time: 496.159 End Time: 628.16
+
+Visual Event 8: The video ends with the person saying goodbye to the camera.
+Start Time: 662.72 End Time: 663.89

@@ -1,0 +1,36 @@
+Subtitle Segmentation 1: {start words: "I called your hot girl", end words: "definitely have her yeah"}
+Subtitle Segmentation 2: {start words: "that was my record that", end words: "known as much super breakfast"}
+Subtitle Segmentation 3: {start words: "so that's that's that's the", end words: "get girls it's mr. guarding"}
+Subtitle Segmentation 4: {start words: "don't talk to him about", end words: "this is the river you are tuned into the liquid sonic city 11.3 FM"}
+Subtitle Segmentation 5: {start words: "you are for Boston well", end words: "it only Noel 14 yeah"}
+Subtitle Segmentation 6: {start words: "you still got that little", end words: "so which is kind of crazy"}
+Subtitle Segmentation 7: {start words: "that I just remember ride", end words: "fresh depression education yeah"}
+Subtitle Segmentation 8: {start words: "yes so this is you", end words: "is the old cut my new management / to bargain mac farm"}
+Subtitle Segmentation 9: {start words: "top top notch on market", end words: "out great absolutely so wait"}
+Subtitle Segmentation 10: {start words: "let's backtrack a little bit", end words: "the river you are tuned into the little mix on Lake City 11.3 FM"}
+Subtitle Segmentation 11: {start words: "come on man no gourdin", end words: "feel that such a young age"}
+Subtitle Segmentation 12: {start words: "you know what i mean", end words: "got to support these artists man chief this music alive"}
+Subtitle Segmentation 13: {start words: "now unless your question when", end words: "want to work with man where you go right now"}
+Subtitle Segmentation 14: {start words: "you've been doing a lot", end words: "Facebook and Twitter oh they don't know where I'm gonna be able"}
+Subtitle Segmentation 15: {start words: "men will give you we", end words: "you serious about oh yeah hip-hop went ok"}
+Subtitle Segmentation 16: {start words: "I'm asking one thing now", end words: "you have to do that"}
+
+Visual Key Event 1(non-visual): The speaker discusses his past disrespectful behavior towards women and introduces a song that was his breakout hit.
+Visual Key Event 2(non-visual): The speaker discusses his realization that his breakout song overshadowed him and his decision to make himself known.
+Visual Key Event 3(non-visual): The speaker introduces a track called "The River" and discusses his perspective on relationships in the music industry.
+Visual Key Event 4(visual): The speaker transitions to playing the track "The River" on the radio.
+Visual Key Event 5(non-visual): The speaker discusses the success of his song and the memories it brings back.
+Visual Key Event 6(non-visual): The speaker discusses his journey to this point and introduces a new song called "Fresh Depression Education."
+Visual Key Event 7(non-visual): The speaker discusses his new label and management and his comeback into the music industry.
+Visual Key Event 8(non-visual): The speaker backtracks to discuss the track "The River" again and its impact.
+Visual Key Event 9(non-visual): The speaker discusses his perspective on relationships in the music industry and introduces the track "The River" again.
+Visual Key Event 10(non-visual): The speaker discusses his respect for women and the positive response to his music.
+Visual Key Event 11(non-visual): The speaker discusses his influences and the importance of maintaining the integrity of his music.
+Visual Key Event 12(non-visual): The speaker discusses the need to support artists and keep the music alive.
+Visual Key Event 13(non-visual): The speaker discusses his desire to collaborate with other artists and his current work.
+Visual Key Event 14(non-visual): The speaker discusses his upcoming performances and encourages people to follow him on social media.
+Visual Key Event 15(non-visual): The speaker gives advice to young artists trying to break into the music industry.
+Visual Key Event 16(non-visual): The speaker discusses the importance of keeping money in the hands of trusted individuals and promotes his social media.
+
+Classification:
+Good.

@@ -1,0 +1,132 @@
+Subtitle Segmentation 1: {start words: "I'm not even sure I", end words: "Mexico temperature I think it's time"}
+Subtitle Segmentation 2: {start words: "to put on something a", end words: "punch each other in the face"}
+Subtitle Segmentation 3: {start words: "so hopefully things get better", end words: "frostbite in Chicago oh you lost a finger"}
+Subtitle Segmentation 4: {start words: "actually cake go buy some", end words: "gloves seriously go buy gloves"}
+Subtitle Segmentation 5: {start words: "he thought with Becca's new", end words: "17 table kitchen 17 deep into the cabin"}
+Subtitle Segmentation 6: {start words: "what do you mean well", end words: "we call it romance no you don't"}
+Subtitle Segmentation 7: {start words: "I use there over in", end words: "deep-dish pizza deep didn't turn left onto East Upper Wacker Drive"}
+Subtitle Segmentation 8: {start words: "this keeps saying Todd and", end words: "redirecting again I'm sorry you missed two exits"}
+Subtitle Segmentation 9: {start words: "I don't know what neighborhood", end words: "so thank you all grins hello table 17"}
+Subtitle Segmentation 10: {start words: "smells a metal window and", end words: "solid you want a pizza some leftover pizza"}
+Subtitle Segmentation 11: {start words: "making them vegan - he", end words: "cities or rku yeah it can get really tricky"}
+Subtitle Segmentation 12: {start words: "so there's an app that", end words: "if you can park there overnight"}
+Subtitle Segmentation 13: {start words: "usually we'll roll in keep", end words: "sharing the cool spots this looks is you know they look good straight"}
+Subtitle Segmentation 14: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 15: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 16: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 17: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 18: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 19: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 20: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 21: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 22: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 23: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 24: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 25: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 26: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 27: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 28: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 29: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 30: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 31: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 32: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 33: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 34: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 35: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 36: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 37: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 38: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 39: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 40: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 41: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 42: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 43: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 44: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 45: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 46: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 47: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 48: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 49: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 50: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 51: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 52: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 53: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 54: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 55: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 56: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 57: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 58: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 59: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 60: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 61: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 62: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 63: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 64: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 65: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 66: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 67: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 68: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 69: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 70: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 71: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 72: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 73: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 74: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 75: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 76: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 77: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 78: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 79: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 80: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 81: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 82: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 83: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 84: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 85: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 86: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 87: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 88: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 89: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 90: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 91: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 92: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 93: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 94: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 95: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 96: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 97: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 98: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 99: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 100: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 101: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 102: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 103: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 104: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 105: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 106: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 107: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 108: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 109: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 110: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 111: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 112: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 113: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 114: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 115: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 116: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 117: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 118: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 119: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 120: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 121: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 122: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 123: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 124: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 125: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 126: {start words: "or we'll just leave the", end words: "I don't know are we gonna get up and hang out and Chicago"}
+Subtitle Segmentation 127: {start words: "so I'm learning and what", end words: "spots this looks is you know they look good straight"}
+Subtitle Segmentation 128: {start words: "it's a little side streets", end words: "I don't know if you saw our server"}
+Subtitle Segmentation 129: {start words: "it was killing on the", end words: "back in the haka five and out cabinet"}
+Subtitle Segmentation 130: {start words: "well Walmart three two Oh", end words: "I guess the best thing you could say is you usually don't know"}
+Subtitle Segmentation 131: {start words: "and if you're not all", end words: "you'll see the same an alternative is always to look for a Walmart"}
+Subtitle Segmentation 132: {start words: "or we'll just leave the", end words:

@@ -1,0 +1,8 @@
+Visual Key Event 3(visual): The vlogger is getting his daughter ready to go to the High Museum of Art.
+Visual Key Event 4(visual): The vlogger and his daughter arrive at the High Museum of Art.
+Visual Key Event 5(visual): The vlogger and his daughter explore the museum and take pictures.
+Visual Key Event 6(visual): The vlogger and his daughter leave the museum and go to Wendy's for dinner.
+Visual Key Event 7(visual): The vlogger and his daughter eat dinner at Wendy's.
+Visual Key Event 8(visual): The vlogger and his daughter return home from Wendy's.
+Visual Key Event 10(visual): The vlogger returns from the gym and puts his daughter to bed.
+Visual Key Event 11(visual): The vlogger cleans up the house and does laundry.

@@ -1,0 +1,32 @@
+Subtitle Segmentation 1: {start words: "hey what's up guys I", end words: "down our road getting snacks"}
+Subtitle Segmentation 2: {start words: "but I thought I'd show", end words: "you guys think well some people think anyway"}
+Subtitle Segmentation 3: {start words: "so yeah let's stop talking", end words: "the camera cuz it's really busy it's right in the middle of the day"}
+Subtitle Segmentation 4: {start words: "but anyway that's the shot", end words: "we leaned it up like top up"}
+Subtitle Segmentation 5: {start words: "but we're gonna go home", end words: "show you what I got"}
+Subtitle Segmentation 6: {start words: "and there we have it", end words: "protein which i think and the best"}
+Subtitle Segmentation 7: {start words: "on side that moving on", end words: "adhere to the most anyway"}
+Subtitle Segmentation 8: {start words: "on to more carbs we", end words: "half wheat half white"}
+Subtitle Segmentation 9: {start words: "so going on we got", end words: "when we're brave enough for a week like we can dilute the taste"}
+Subtitle Segmentation 10: {start words: "then we've got the miscellaneous", end words: "side of that"}
+Subtitle Segmentation 11: {start words: "so to top it off", end words: "prioritizing your time"}
+Subtitle Segmentation 12: {start words: "and this will help you", end words: "don't have anything"}
+Subtitle Segmentation 13: {start words: "but guys like I hope", end words: "how much you spend on our weekly basis"}
+Subtitle Segmentation 14: {start words: "anyway I'm actually starving now", end words: "the next one take care"}
+
+Visual Key Event 1(non-visual): The speaker introduces himself and explains that he is at Tesco for a weekly shopping trip.
+Visual Key Event 2(non-visual): The speaker discusses his shopping habits and the purpose of the video, which is to show viewers what a weekly shop looks like for him.
+Visual Key Event 3(non-visual): The speaker finishes shopping and discusses the location of his car and the reason for parking far away.
+Visual Key Event 4(non-visual): The speaker discusses the cost of the shopping trip and mentions that he bought a few extra items.
+Visual Key Event 5(non-visual): The speaker returns home and prepares to break down the items he bought.
+Visual Key Event 6(visual): The speaker shows the viewers the proteins he bought, including lean meats and fish.
+Visual Key Event 7(visual): The speaker shows the viewers the carbohydrates he bought, including wraps, bagels, pasta, and breads.
+Visual Key Event 8(visual): The speaker shows the viewers the vegetables he bought, including kale, spinach, bananas, peppers, corn, and broccoli.
+Visual Key Event 9(visual): The speaker shows the viewers the miscellaneous items he bought, including tea, protein bars, crisps, popcorn, and dark chocolate.
+Visual Key Event 10(visual): The speaker shows the viewers the ice cream he bought and discusses his love for ice cream.
+Visual Key Event 11(non-visual): The speaker discusses the cost of the shopping trip and compares it to the cost of a night out.
+Visual Key Event 12(non-visual): The speaker discusses the importance of having healthy food at home and the benefits of not having unhealthy snacks readily available.
+Visual Key Event 13(non-visual): The speaker wraps up the video, asking viewers to leave comments and questions, and discusses his plans for the rest of the day.
+Visual Key Event 14(non-visual): The speaker concludes the video, expressing his hunger and his plans to make food and work on edits.
+
+Classification:
+Good.

@@ -1,0 +1,11 @@
+Visual Key Event 2(visual): The speaker prepares breakfast, which includes eggs on sourdough with leftover meat from the previous night.
+Visual Key Event 3(visual): The speaker shows how they prepare for the next day by soaking rice and oats.
+Visual Key Event 4(visual): The speaker serves breakfast and prepares a piece of toast with butter and strawberry jam for later.
+Visual Key Event 5(visual): The speaker prepares dinner in a crock pot, using meat and various spices.
+Visual Key Event 7(visual): The speaker picks wild raspberries for a snack.
+Visual Key Event 8(visual): The speaker prepares oats for lunch, adding various ingredients including coconut butter and peanut butter.
+Visual Key Event 12(visual): The speaker prepares a smoothie with various ingredients, including fruits, vegetables, and raw liver.
+Visual Key Event 13(visual): The speaker collects bee pollen to add to their smoothie.
+Visual Key Event 14(visual): The speaker prepares dinner, which includes rice with fresh herbs and meat from the crock pot.
+Visual Key Event 15(visual): The speaker shows their organized towel drawer.
+Visual Key Event 16(visual): The speaker ends the day with a dessert of black bean brownies and raw cream.

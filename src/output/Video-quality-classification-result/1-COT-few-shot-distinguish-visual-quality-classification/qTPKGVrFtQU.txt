@@ -1,0 +1,42 @@
+Subtitle Segmentation 1: {start words: "this is a dog in", end words: "lot of innovation in between"}
+Subtitle Segmentation 2: {start words: "Pixar forever changed animation in", end words: "far from done changing the game"}
+Subtitle Segmentation 3: {start words: "between 1995 and 2019 Pixar's", end words: "to render throughout the movie"}
+Subtitle Segmentation 4: {start words: "there are over 77 minutes", end words: "could render Toy Story faster than you could watch the entire movie"}
+Subtitle Segmentation 5: {start words: "however the complexity of Toy", end words: "any missing details more on lighting characters and fully clothing them later"}
+Subtitle Segmentation 6: {start words: "when Toy Story 2 came", end words: "fully human cast until 2004 The Incredibles"}
+Subtitle Segmentation 7: {start words: "but before mastering humans they", end words: "each individual strand of hair"}
+Subtitle Segmentation 8: {start words: "a bug's life which centers", end words: "clump it together"}
+Subtitle Segmentation 9: {start words: "monsters inc laid down the", end words: "grass on the ground in Pixar's next movie"}
+Subtitle Segmentation 10: {start words: "2003's Finding Nemo also required", end words: "that color once the environment was created"}
+Subtitle Segmentation 11: {start words: "they had to populate the", end words: "mastered his camouflage and his"}
+Subtitle Segmentation 12: {start words: "as Pixar got better at", end words: "one of Pixar's most visually stunning works"}
+Subtitle Segmentation 13: {start words: "then when ratatouille rolled around", end words: "contained 230 lights"}
+Subtitle Segmentation 14: {start words: "but that's nothing jump ahead", end words: "difficult to notice"}
+Subtitle Segmentation 15: {start words: "a year later when the", end words: "even cuter than he did in the first movie"}
+Subtitle Segmentation 16: {start words: "all of these movies would", end words: "this to this"}
+Subtitle Segmentation 17: {start words: "now that Pixar had figured", end words: "a little less challenging"}
+Subtitle Segmentation 18: {start words: "like with Jack Jack and", end words: "well on porcelain"}
+Subtitle Segmentation 19: {start words: "Toy Story 4 also gave", end words: "literally you"}
+
+Visual Key Event 1(visual): The video compares the animation of a dog in Toy Story (1995) to a cat in Toy Story 4, highlighting the advancements in fur detail.
+Visual Key Event 2(non-visual): The video discusses how Pixar revolutionized animation with Toy Story, the first full-length computer-animated movie, and continues to innovate with Toy Story 4.
+Visual Key Event 3(non-visual): The video explains the process of rendering in animation, using the example of Toy Story, which required 117 computers running 24 hours a day.
+Visual Key Event 4(non-visual): The video discusses the complexity of Toy Story 4, which can take 60 to 160 hours to render one frame.
+Visual Key Event 5(visual): The video discusses the limitations of early Pixar animations, such as the difficulty in animating human characters and clothing.
+Visual Key Event 6(visual): The video discusses the improvements in human character animation in Toy Story 2 and A Bug's Life.
+Visual Key Event 7(visual): The video discusses the challenges and techniques of animating fur, using Monsters Inc as an example.
+Visual Key Event 8(visual): The video discusses the technique of clumping fur together to make it look and move realistically, as used in Monsters Inc and other Pixar films.
+Visual Key Event 9(visual): The video discusses the challenges and techniques of animating water, using Finding Nemo as an example.
+Visual Key Event 10(visual): The video discusses the creation of the underwater world in Finding Nemo, including the use of light and color.
+Visual Key Event 11(visual): The video discusses the challenges of creating the octopus character, Hank, in Finding Dory.
+Visual Key Event 12(visual): The video discusses the creation of metal surfaces in Cars and the rusted surfaces in Wall-E.
+Visual Key Event 13(visual): The video discusses the combination of fur and water animation techniques to create the effect of wet fur in Ratatouille.
+Visual Key Event 14(visual): The video discusses the importance of lighting in CG animation, using Ratatouille and Coco as examples.
+Visual Key Event 15(visual): The video discusses the challenges of animating clothing on skeleton characters in Coco.
+Visual Key Event 16(visual): The video discusses the improvements in human character animation in The Incredibles 2, particularly the character Jack Jack.
+Visual Key Event 17(visual): The video discusses the advancements in animation from Toy Story to Toy Story 4, including the creation of realistic fur and rain scenes.
+Visual Key Event 18(visual): The video discusses the techniques used to animate Bo Peep's porcelain skin in Toy Story 4.
+Visual Key Event 19(visual): The video discusses the creation of the character Forky in Toy Story 4, highlighting the simplicity of his design.
+
+Classification:
+Good.

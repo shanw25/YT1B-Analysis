@@ -1,0 +1,29 @@
+Visual Event 1: The video starts with a comparison of the Volkswagen Golf to the German Chancellor Angela Merkel.
+Start Time: 0.08 End Time: 5.68
+
+Visual Event 2: The video then shows the exterior of the Volkswagen Golf, focusing on its design and features.
+Start Time: 7.6 End Time: 17.84
+
+Visual Event 3: The video transitions to the interior of the car, highlighting its design, materials, and layout.
+Start Time: 20.56 End Time: 41.12
+
+Visual Event 4: The video demonstrates the ease of use of the car's controls and features.
+Start Time: 43.36 End Time: 55.28
+
+Visual Event 5: The video discusses the pricing and potential savings for the Volkswagen Golf.
+Start Time: 56.559 End Time: 69.92
+
+Visual Event 6: The video shows the comfort and practicality of the car, including the adjustability of the driving position and the size of the glove box and door bins.
+Start Time: 71.439 End Time: 87.439
+
+Visual Event 7: The video highlights the car's infotainment system and its features.
+Start Time: 89.92 End Time: 116.0
+
+Visual Event 8: The video shows the practicality of the car's five-door design and the comfort of the rear seats.
+Start Time: 117.84 End Time: 143.84
+
+Visual Event 9: The video discusses the car's boot space and demonstrates its functionality and practicality.
+Start Time: 163.2 End Time: 205.2
+
+Visual Event 10: The video concludes with a driving demonstration and final thoughts on the Volkswagen Golf.
+Start Time: 218.319 End Time: 432.56

@@ -1,0 +1,24 @@
+Subtitle Segmentation 1: {start words: "ah haha haha hey guys", end words: "find out how to make this lovely Queen"}
+Subtitle Segmentation 2: {start words: "let's get up to the", end words: "I'm gonna save up Romelu rose just my wish"}
+Subtitle Segmentation 3: {start words: "so the second thing that", end words: "I always want more watch"}
+Subtitle Segmentation 4: {start words: "just hoping that i have", end words: "my room candles and well that's just where"}
+Subtitle Segmentation 5: {start words: "once for talent is a", end words: "is running out this thing that I have in here is great news"}
+Subtitle Segmentation 6: {start words: "oh god I love the", end words: "is the golden-eyed sweetcakes two things on the ice cream out there"}
+Subtitle Segmentation 7: {start words: "I and I just want", end words: "cushions let's continue seven an extra blanket like this one here really really really want more"}
+Subtitle Segmentation 8: {start words: "not yet cushions and blankets", end words: "I always one last thing that I have in here is the final thing and what its room dimensions"}
+Subtitle Segmentation 9: {start words: "elvis want to get more", end words: "you move too selfish Christmas for me I'm insight about the different and the presence cuz i love the crazy man has a patient's house overlooking service"}
+Subtitle Segmentation 10: {start words: "I'm booboo device so that", end words: "see you started by"}
+
+Visual Key Event 1(non-visual): The speaker introduces herself and expresses her excitement about her first Christmas video on YouTube.
+Visual Key Event 2(visual): The speaker shares her Christmas wish list, starting with a laptop that she is saving up for.
+Visual Key Event 3(visual): The speaker expresses her desire for more washi tape, showing her existing collection.
+Visual Key Event 4(visual): The speaker mentions her wish for more candles for her room.
+Visual Key Event 5(visual): The speaker expresses her need for a new notebook as her current one is running out.
+Visual Key Event 6(visual): The speaker shares her love for a certain brand of sweets and her wish to get more.
+Visual Key Event 7(visual): The speaker expresses her desire for more cushions and an extra blanket.
+Visual Key Event 8(visual): The speaker continues her wish list with more room decorations.
+Visual Key Event 9(non-visual): The speaker concludes her wish list and explains how to win a Polaroid camera she is giving away.
+Visual Key Event 10(non-visual): The speaker concludes the video, reminding viewers to subscribe and like the video, and announces the duration of the giveaway.
+
+Classification:
+Good.

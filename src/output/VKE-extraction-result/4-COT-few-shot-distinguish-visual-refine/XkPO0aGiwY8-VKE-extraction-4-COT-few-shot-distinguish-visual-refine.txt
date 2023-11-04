@@ -1,0 +1,29 @@
+Subtitle Segmentation 1: {start words: "okay let's get started let", end words: "really good well greased pan which I have there"}
+Subtitle Segmentation 2: {start words: "so let's get started all", end words: "smooth out the little clumps and stuff stir it up a little"}
+Subtitle Segmentation 3: {start words: "and next I am going", end words: "put his cheese open thought I was better prepared"}
+Subtitle Segmentation 4: {start words: "I did I put my", end words: "this all goes in and get some mixed up that up"}
+Subtitle Segmentation 5: {start words: "then it calls for one", end words: "all comes out good and smooth and absolutely delicious"}
+Subtitle Segmentation 6: {start words: "using that corn muffin mix", end words: "don't cost a lot of money"}
+Subtitle Segmentation 7: {start words: "all right now it calls", end words: "you can just eyeball with how much you think you would like"}
+Subtitle Segmentation 8: {start words: "all right I've got my", end words: "it's going to turn out so yummy"}
+Subtitle Segmentation 9: {start words: "I've only made this one", end words: "it's going to be cornbread"}
+Subtitle Segmentation 10: {start words: "and that's pretty much it", end words: "it should come out perfect"}
+Subtitle Segmentation 11: {start words: "and I will show you", end words: "it's perfect"}
+Subtitle Segmentation 12: {start words: "okay guys I took my", end words: "isn't it just beautiful"}
+Subtitle Segmentation 13: {start words: "I just wanted to show", end words: "be at the party tonight"}
+Subtitle Segmentation 14: {start words: "so this is what it", end words: "I will talk to you guys later happy holidays"}
+
+Visual Key Event 1: The person introduces the ingredients for the recipe.
+Visual Key Event 2: The person begins mixing the dry ingredient, the corn muffin mix.
+Visual Key Event 3: The person adds the wet ingredients, including eggs, butter, and cottage cheese.
+Visual Key Event 4: The person opens the cottage cheese and adds it to the mixture.
+Visual Key Event 5: The person adds chopped onion to the mixture and stirs all the ingredients together.
+Visual Key Event 6: The person talks about the simplicity and affordability of the recipe.
+Visual Key Event 7: The person adds chopped broccoli to the mixture and stirs it in.
+Visual Key Event 8: The person pours the mixture into a greased pan.
+Visual Key Event 9: The person smooths out the mixture in the pan and talks about the expected outcome.
+Visual Key Event 10: The person puts the pan in the oven to bake.
+Visual Key Event 11: The person takes the baked cornbread out of the oven.
+Visual Key Event 12: The person cuts a slice of the cornbread to show the inside.
+Visual Key Event 13: The person shows additional pans of cornbread and talks about taking it to a party.
+Visual Key Event 14: The person concludes the video, recommending the recipe and wishing viewers happy holidays.

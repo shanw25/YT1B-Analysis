@@ -1,0 +1,30 @@
+Visual Event 1: The video starts with a person in a kitchen setting.
+Start Time: 0.03 End Time: 5.94
+Visual Event 2: The person is seen opening up a mystery mushroom toy.
+Start Time: 5.97 End Time: 11.16
+Visual Event 3: The person is examining the toy closely.
+Start Time: 11.16 End Time: 19.38
+Visual Event 4: The person opens up the mushroom toy to reveal a mystery self inside.
+Start Time: 19.38 End Time: 26.99
+Visual Event 5: The person continues to open more mystery mushroom toys.
+Start Time: 26.99 End Time: 34.26
+Visual Event 6: The person is seen struggling to open one of the toys.
+Start Time: 34.26 End Time: 45.36
+Visual Event 7: The person finally opens the toy and reveals the mystery self inside.
+Start Time: 45.36 End Time: 53.71
+Visual Event 8: The person is seen admiring the mystery self toy.
+Start Time: 53.71 End Time: 65.35
+Visual Event 9: The person places the toy on top of a shape.
+Start Time: 99.76 End Time: 102.67
+Visual Event 10: The person opens up a collector's guide.
+Start Time: 133.7 End Time: 139.75
+Visual Event 11: The person opens up more mystery mushroom toys and compares the different finishes.
+Start Time: 174.01 End Time: 235.4
+Visual Event 12: The person is seen admiring the glitter finish of one of the toys.
+Start Time: 334.62 End Time: 343.45
+Visual Event 13: The person shows all the opened toys and finishes.
+Start Time: 390.56 End Time: 393.379
+Visual Event 14: The person asks the viewers to comment their favorite toy.
+Start Time: 401.72 End Time: 404.629
+Visual Event 15: The video ends with the person saying goodbye.
+Start Time: 406.28 End Time: 410.979

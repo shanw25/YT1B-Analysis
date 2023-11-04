@@ -1,0 +1,27 @@
+Subtitle Segmentation 1: {start words: "good morning you guys and", end words: "to make it work but pretty much that's what I have to do"}
+Subtitle Segmentation 2: {start words: "I'm also cleaning up in", end words: "game for me kind of thing"}
+Subtitle Segmentation 3: {start words: "so I'm really moving into", end words: "has been amazing so I'm really excited for my skincare journey going forward"}
+Subtitle Segmentation 4: {start words: "I'm gonna put on a", end words: "done and so we can head out to the story"}
+Subtitle Segmentation 5: {start words: "tree just convinced me to", end words: "to that level"}
+Subtitle Segmentation 6: {start words: "I mean after all it", end words: "and forth and back and forth"}
+Subtitle Segmentation 7: {start words: "yeah let me go ahead", end words: "with no problem excuse my lips it's my stuff"}
+Subtitle Segmentation 8: {start words: "you know I'm really happy", end words: "it for real I'm down for that let's do that"}
+Subtitle Segmentation 9: {start words: "but nowadays like it would", end words: "it's not here why you making me help you"}
+Subtitle Segmentation 10: {start words: "because you said on the", end words: "decide what do I really want to get because sometimes it's junky"}
+Subtitle Segmentation 11: {start words: "you know back in the", end words: "all natural all plant-based so can't wait to do that"}
+Subtitle Segmentation 12: {start words: "but yeah I wanted to", end words: "and cruelty-free obviously so it's a pure vegan soap and it's cold processed so that's pretty awesome"}
+Subtitle Segmentation 13: {start words: "so yeah we got the", end words: "I think that's pretty good anyways thank you guys for hanging out with us and we'll see you guys in our next one bye"}
+
+Visual Key Event 1(non-visual): The speaker discusses their plans for the day, which include cleaning, shopping for essentials, and self-care.
+Visual Key Event 2(visual): The speaker cleans the bathroom and discusses their skincare routine, including the use of a plant-based face wash.
+Visual Key Event 3(non-visual): The speaker discusses their transition to plant-based skincare and the initial breakout that occurred as a result.
+Visual Key Event 4(visual): The speaker applies a clay mask and discusses their plans for breakfast and a trip to the store.
+Visual Key Event 5(non-visual): The speaker discusses their reluctance to wear the mask and their upcoming client meetings.
+Visual Key Event 6(non-visual): The speaker reflects on the support they've received from their partner and their plans for their business.
+Visual Key Event 7(visual): The speaker takes out the trash and discusses their dislike for chores and their perfectionist tendencies.
+Visual Key Event 8(non-visual): The speaker discusses their memories of snow and their preference for delayed school openings.
+Visual Key Event 9(visual): The speaker helps their partner find a product in the store and discusses their preference for the same brand.
+Visual Key Event 10(visual): The speaker browses the store and comments on the organization and variety of products.
+Visual Key Event 11(visual): The speaker prepares dinner and discusses their plans to film a vegan Jamaican recipe.
+Visual Key Event 12(visual): The speaker shows the products they purchased from Marshalls, including toothpaste, makeup wipes, and soap.
+Visual Key Event 13(non-visual): The speaker discusses their partner's inefficient showering habits and their plans to track the longevity of the soap bars.

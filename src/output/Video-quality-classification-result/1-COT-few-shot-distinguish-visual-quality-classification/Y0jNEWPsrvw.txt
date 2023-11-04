@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "hi guys welcome back to", end words: "they sent me i love it"}
+Subtitle Segmentation 2: {start words: "and now coming back to", end words: "i'm going to show you later"}
+Subtitle Segmentation 3: {start words: "but yeah i'm very very", end words: "move on to the next bag"}
+Subtitle Segmentation 4: {start words: "so before i start talking", end words: "big big thumbs up i would very much appreciate it"}
+Subtitle Segmentation 5: {start words: "also don't forget to follow", end words: "my amazing michael cruz handbags right away"}
+Subtitle Segmentation 6: {start words: "now quickly starting with the", end words: "using this a lot more"}
+Subtitle Segmentation 7: {start words: "now moving on to another", end words: "i really love this bag"}
+Subtitle Segmentation 8: {start words: "and i think i've said", end words: "that's how much i love it"}
+Subtitle Segmentation 9: {start words: "and i think i've said", end words: "quickly move on to the next bag"}
+Subtitle Segmentation 10: {start words: "next up in my collection", end words: "look forward to using it"}
+Subtitle Segmentation 11: {start words: "next up i'm going to", end words: "never really going to throw it"}
+Subtitle Segmentation 12: {start words: "anyways now quickly moving on", end words: "what to do with it"}
+Subtitle Segmentation 13: {start words: "so those were my five", end words: "do with it"}
+
+Visual Key Event 1(non-visual): The video host, Jimmy, introduces herself and the video's topic, which is her updated Michael Kors handbag collection. She also mentions a gift packaging from Michael Kors.
+Visual Key Event 2(visual): Jimmy presents her collection of five handbags and a few small leather goods (SLGs), noting that she uses most of them regularly.
+Visual Key Event 3(non-visual): Jimmy explains that she will discuss each bag's pros and cons, show how it looks when worn (mod shots), and then move on to the next bag.
+Visual Key Event 4(non-visual): Jimmy encourages viewers to subscribe to her channel, like the video, and follow her on Instagram.
+Visual Key Event 5(non-visual): Jimmy begins discussing her Michael Kors handbags.
+Visual Key Event 6(visual): Jimmy presents the first handbag, the Michael Kors Manhattan Satchel, and discusses its features and her experience using it.
+Visual Key Event 7(visual): Jimmy presents the second handbag, the Mercer Gallery, and discusses its features and her experience using it.
+Visual Key Event 8(non-visual): Jimmy expresses her love for the Mercer Gallery bag multiple times.
+Visual Key Event 9(non-visual): Jimmy decides to move on to the next bag after expressing her love for the Mercer Gallery bag multiple times.
+Visual Key Event 10(visual): Jimmy presents the third handbag, the Ariel Satchel, and discusses its features and her experience using it.
+Visual Key Event 11(visual): Jimmy presents the fourth handbag, which she doesn't name, and discusses its features and her sentimental attachment to it.
+Visual Key Event 12(visual): Jimmy presents the fifth and final handbag, which she also doesn't name, and discusses its features and her lack of use for it.
+Visual Key Event 13(non-visual): Jimmy concludes the video by summarizing the bags she presented and expressing hope that viewers enjoyed the video.
+
+Classification:
+Good.

@@ -1,0 +1,27 @@
+Subtitle Segmentation 1: {start words: "okay let's get started let", end words: "really good well greased pan which I have there"}
+Subtitle Segmentation 2: {start words: "so let's get started all", end words: "smooth out the little clumps and stuff stir it up a little"}
+Subtitle Segmentation 3: {start words: "and next I am going", end words: "a teaspoon of salt then it calls for cottage cheese"}
+Subtitle Segmentation 4: {start words: "it says let's see add", end words: "put that in don't really matter how you put it in it this all goes in and get some mixed up that up"}
+Subtitle Segmentation 5: {start words: "then it calls for one", end words: "this is all the dry and wet ingredients besides the broccoli"}
+Subtitle Segmentation 6: {start words: "so I'm gonna just mix", end words: "don't cost a lot of money"}
+Subtitle Segmentation 7: {start words: "all right now it calls", end words: "eyeballing that is plenty of broccoli in the cornbread"}
+Subtitle Segmentation 8: {start words: "because I don't want too", end words: "you can just eyeball with how much you think you would like"}
+Subtitle Segmentation 9: {start words: "all right I've got my", end words: "it's going to turn out so yummy"}
+Subtitle Segmentation 10: {start words: "I've only made this one", end words: "pop it in the oven it's 400 degrees and cook it for 30 minutes"}
+Subtitle Segmentation 11: {start words: "and it should come out", end words: "it looks like when it comes out of the oven it's perfect"}
+Subtitle Segmentation 12: {start words: "okay guys I took my", end words: "like combat supposed to be but isn't it just beautiful"}
+Subtitle Segmentation 13: {start words: "I just wanted to show", end words: "it is a big success last time I made it every bit of it was eat really big success"}
+Subtitle Segmentation 14: {start words: "everybody just raved over how", end words: "like this video subscribe if you're not subscribed and I will talk to you guys later happy holidays"}
+
+Visual Key Event 1(non-visual): The presenter introduces the ingredients for the recipe, which include Jiffy corn muffin mix, cottage cheese, butter, eggs, onion, broccoli, and a well-greased pan.
+Visual Key Event 2(visual): The presenter begins by mixing the dry ingredient, Jiffy corn muffin mix, in a bowl.
+Visual Key Event 3(visual): The presenter adds the wet ingredients, including eggs, melted butter, and cottage cheese, to the mix.
+Visual Key Event 4(visual): The presenter adds chopped onion to the mixture and stirs all the ingredients together.
+Visual Key Event 5(non-visual): The presenter discusses the cost-effectiveness of the recipe.
+Visual Key Event 6(visual): The presenter adds chopped broccoli to the mixture and stirs it in.
+Visual Key Event 7(visual): The presenter pours the mixture into a well-greased pan, smoothing it out to ensure it's level.
+Visual Key Event 8(visual): The presenter bakes the mixture in the oven at 400 degrees for 30 minutes.
+Visual Key Event 9(visual): The presenter removes the baked cornbread from the oven and lets it cool.
+Visual Key Event 10(visual): The presenter cuts a slice of the cornbread to show the inside, which is full of broccoli and onions.
+Visual Key Event 11(non-visual): The presenter discusses the success of the recipe at previous events and encourages viewers to try it.
+Visual Key Event 12(non-visual): The presenter concludes the video by asking viewers to leave comments, like the video, subscribe to the channel, and wishes them happy holidays.

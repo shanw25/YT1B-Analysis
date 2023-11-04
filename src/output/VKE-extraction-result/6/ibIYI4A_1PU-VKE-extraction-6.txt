@@ -1,0 +1,50 @@
+Visual Event 1: The video starts with a comparison of two compact speakers.
+Start Time: 0.06 End Time: 8.639
+
+Visual Event 2: The 2012 Yamaha DX r8 is shown on the left.
+Start Time: 3.57 End Time: 14.21
+
+Visual Event 3: The 2017 QSC k8.2 is shown on the right.
+Start Time: 8.639 End Time: 14.21
+
+Visual Event 4: The similarities between the two speakers are discussed, including their compact size, power, and construction.
+Start Time: 14.21 End Time: 50.579
+
+Visual Event 5: The video shows the speakers' dual pull cup and rubber feet.
+Start Time: 50.579 End Time: 54.899
+
+Visual Event 6: The video shows the speakers' LED indicators and mic in line input.
+Start Time: 71.85 End Time: 82.47
+
+Visual Event 7: The video shows the speakers' fan-cooling system and subwoofer crossovers.
+Start Time: 92.549 End Time: 111.44
+
+Visual Event 8: The video shows the Yamaha DX r8 powering on faster than the QSC.
+Start Time: 111.44 End Time: 115.43
+
+Visual Event 9: The video shows the wedge feature of the QSC k8.2.
+Start Time: 162.74 End Time: 167.75
+
+Visual Event 10: The video shows the power output of both speakers.
+Start Time: 185.84 End Time: 204.5
+
+Visual Event 11: The video shows the dispersion of sound from both speakers.
+Start Time: 230.84 End Time: 237.489
+
+Visual Event 12: The video shows the warranty details of both speakers.
+Start Time: 249.44 End Time: 256.519
+
+Visual Event 13: The video shows the locking connectors of the QSC k8.2.
+Start Time: 262.18 End Time: 273.93
+
+Visual Event 14: The video shows the different input options of both speakers.
+Start Time: 285.49 End Time: 326.97
+
+Visual Event 15: The video shows the digital signal processing options of both speakers.
+Start Time: 341.11 End Time: 396.92
+
+Visual Event 16: The video shows a size comparison between the QSC k8.2 and a K 12.2.
+Start Time: 441.05 End Time: 450.56
+
+Visual Event 17: The video concludes with a summary of the comparison and a recommendation for viewers.
+Start Time: 461.58 End Time: 479.729

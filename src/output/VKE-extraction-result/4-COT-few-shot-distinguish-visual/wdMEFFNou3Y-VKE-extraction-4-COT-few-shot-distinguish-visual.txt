@@ -1,0 +1,25 @@
+Subtitle Segmentation 1: {start words: "the Volkswagen Golf it's rather", end words: "it really is the standard setter in Europe"}
+Subtitle Segmentation 2: {start words: "in fact they even look", end words: "didn't hurt either all very nice"}
+Subtitle Segmentation 3: {start words: "everything's just nicely laid out", end words: "up to two-and-a-half grand on one of these cars"}
+Subtitle Segmentation 4: {start words: "another thing about the Golf", end words: "all Goff's get a 6.5 inch touchscreen"}
+Subtitle Segmentation 5: {start words: "you get digital radio there's", end words: "our full in-depth infotainment video review"}
+Subtitle Segmentation 6: {start words: "now you get the golf", end words: "carrying skis and two people in the back at once"}
+Subtitle Segmentation 7: {start words: "also there's some big door", end words: "to load items into the back"}
+Subtitle Segmentation 8: {start words: "now if you want to", end words: "what it's like with three people in the back"}
+Subtitle Segmentation 9: {start words: "now though it's time to", end words: "to join me for a passenger ride in our 360-degree video"}
+Subtitle Segmentation 10: {start words: "in terms of engines they're", end words: "can forgive it for that"}
+Subtitle Segmentation 11: {start words: "on the whole the Volkswagen", end words: "the 1980s or something"}
+Subtitle Segmentation 12: {start words: "however you can think of", end words: "make a noise when the referendum habit"}
+
+Visual Key Event 1(non-visual): The Volkswagen Golf is compared to the German Chancellor Angela Merkel, highlighting its efficiency, success, and standard-setting status in Europe.
+Visual Key Event 2(visual): The interior design of the Volkswagen Golf is shown, emphasizing its neatness, quality materials, and easy-to-use layout.
+Visual Key Event 3(non-visual): The price of the Volkswagen Golf is discussed, mentioning that it's a bit more expensive than its main rivals but deals can be found.
+Visual Key Event 4(visual): The features of the Volkswagen Golf are shown, including the 6.5-inch touchscreen, digital radio, and Bluetooth for mobile phones.
+Visual Key Event 5(non-visual): The infotainment system of the Volkswagen Golf is discussed, mentioning its ease of use and the availability of a full in-depth review.
+Visual Key Event 6(visual): The practicality of the Volkswagen Golf is shown, including the wide-opening rear doors, comfortable seating, and large door bins.
+Visual Key Event 7(visual): The boot of the Volkswagen Golf is shown, highlighting its adjustable boot floor, continuous load space, and easy loading.
+Visual Key Event 8(non-visual): The practicality video of the Volkswagen Golf is mentioned, which shows how much stuff can be squeezed into the boot and how easy it is to fit a child seat.
+Visual Key Event 9(non-visual): The driving experience of the Volkswagen Golf is discussed, highlighting its comfort, steering, handling, and visibility.
+Visual Key Event 10(non-visual): The engines of the Volkswagen Golf are discussed, recommending the 1.4 liter TSI 125 horsepower petrol for its speed, smoothness, and fuel efficiency.
+Visual Key Event 11(non-visual): The minor issues of the Volkswagen Golf are discussed, including the quality of materials in the back, the pointless boot dividers, and the lack of an alarm in the entry-level car.
+Visual Key Event 12(visual): The positive features of the Volkswagen Golf are shown, including the folding front passenger seat, felt-lined door pockets, under-seat storage, and the weighted parcel shelf cords.

@@ -1,0 +1,2 @@
+Visual Event 1: The video starts with the host introducing herself and the topic of the video, which is how to make vegan chocolate chip cookies. Start time: 0.0 End time: 4.98
+Visual Event 2: The host begins to list out the ingredients needed for the recipe. Start time: 22.17 End time:

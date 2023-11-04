@@ -1,0 +1,28 @@
+Subtitle Segmentation 1: {start words: "mark mcculloch thank you so", end words: "engagement consultant for hospitality I think us cuz I think yeah thank you"}
+Subtitle Segmentation 2: {start words: "so mark you know the", end words: "the staff safe and the customer safe and the products a format"}
+Subtitle Segmentation 3: {start words: "so I was kind of", end words: "that's feeling and and then it was just things were getting canceled"}
+Subtitle Segmentation 4: {start words: "you know I think the", end words: "fall in filling in and doing that"}
+Subtitle Segmentation 5: {start words: "so all of a sudden", end words: "that projects on hold you know that that kind of stuff"}
+Subtitle Segmentation 6: {start words: "so I'm can i lucky", end words: "and then yeah just before lockdown people started to just shut everything down"}
+Subtitle Segmentation 7: {start words: "so like that means not", end words: "and then I think my biggest concern really was I had quite a lot of invoices out to come in"}
+Subtitle Segmentation 8: {start words: "and I was like oh", end words: "and and and then yeah just before lockdown people started to just shut everything down"}
+Subtitle Segmentation 9: {start words: "so like that means not", end words: "and then I think my biggest concern really was I had quite a lot of invoices out to come in"}
+Subtitle Segmentation 10: {start words: "and I was like oh", end words: "and and and then yeah just before lockdown people started to just shut everything down"}
+Subtitle Segmentation 11: {start words: "so like that means not", end words: "and then I think my biggest concern really was I had quite a lot of invoices out to come in"}
+Subtitle Segmentation 12: {start words: "and I was like oh", end words: "and and and then yeah just before lockdown people started to just shut everything down"}
+
+Visual Key Event 1(non-visual): Mark McCulloch introduces himself as a brand marketing, digital social, and employee engagement consultant for hospitality.
+Visual Key Event 2(non-visual): Mark discusses the initial impact of the coronavirus on Supersonic, noting that it started off slowly and businesses were doing assessments.
+Visual Key Event 3(non-visual): Mark describes the feeling of unease that started to permeate the atmosphere a couple of weeks before the lockdown, with things getting canceled.
+Visual Key Event 4(non-visual): Mark recounts a conversation with a high-ranking individual who predicted that the situation would follow the pattern seen in other countries.
+Visual Key Event 5(non-visual): Mark talks about the sudden halt of projects and the cancellation of events as the lockdown approached.
+Visual Key Event 6(non-visual): Mark expresses his concern about outstanding invoices and the financial impact of the lockdown.
+Visual Key Event 7(non-visual): Mark discusses his involvement with the Hospitality Union and his appearance on BBC News, which was subsequently canceled.
+Visual Key Event 8(non-visual): Mark talks about his decision to offer his knowledge and expertise for free, creating content to help others during the crisis.
+Visual Key Event 9(non-visual): Mark discusses the future of Supersonic and the industry, predicting a shift towards smaller, more agile agencies and the need for investment in brand saving.
+Visual Key Event 10(non-visual): Mark expresses his excitement about the challenges ahead and his eagerness to be part of the biggest relaunch in history.
+Visual Key Event 11(non-visual): Mark discusses the potential benefits for small agencies like Supersonic, suggesting that their actions during the crisis will be remembered and could lead to a broader client base in the future.
+Visual Key Event 12(non-visual): Mark concludes the interview, expressing his gratitude for the opportunity to share his insights and looking forward to future discussions.
+
+Classification:
+Good.

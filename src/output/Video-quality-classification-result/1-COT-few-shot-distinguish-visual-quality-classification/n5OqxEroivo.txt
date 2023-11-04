@@ -1,0 +1,38 @@
+Subtitle Segmentation 1: {start words: "yo guys what's up and", end words: "and now it's half 12"}
+Subtitle Segmentation 2: {start words: "and I won't only just", end words: "bloody freezing so yeah"}
+Subtitle Segmentation 3: {start words: "I'm gonna give you a", end words: "press this one anyway"}
+Subtitle Segmentation 4: {start words: "we're gonna revert to this", end words: "they're not right"}
+Subtitle Segmentation 5: {start words: "and this is actually gonna", end words: "it's gonna be the same color as this one"}
+Subtitle Segmentation 6: {start words: "so it's like gray and", end words: "the main switch what a spaz"}
+Subtitle Segmentation 7: {start words: "there we go that's better", end words: "lot of effort taking off"}
+Subtitle Segmentation 8: {start words: "so yeah imagine you really", end words: "and I've had like cinnamon bun"}
+Subtitle Segmentation 9: {start words: "to take my tablet with", end words: "ready for then"}
+Subtitle Segmentation 10: {start words: "and my hair is in", end words: "he's back hello firm"}
+Subtitle Segmentation 11: {start words: "hmmm okay what what what", end words: "get ready for doctor's sauce exactly"}
+Subtitle Segmentation 12: {start words: "okay so the technician guy", end words: "give me something that are you gonna help me"}
+Subtitle Segmentation 13: {start words: "because they're eyebrow phone so", end words: "I've had the phlegm out before the blood in my nose"}
+Subtitle Segmentation 14: {start words: "but I qui veut also", end words: "it's a lot lot better"}
+Subtitle Segmentation 15: {start words: "and I've actually been able", end words: "I'll see you in a bit"}
+Subtitle Segmentation 16: {start words: "so I know you I", end words: "I don't think that'd be"}
+Subtitle Segmentation 17: {start words: "okay so I know I", end words: "I'll see you next time when I'm doing something more exciting by E"}
+
+Visual Key Event 1(non-visual): The vlogger starts her day, explaining that her bedroom is a mess and she's cold.
+Visual Key Event 2(visual): The vlogger gives a tour of her damaged house, showing the mess and the ongoing work.
+Visual Key Event 3(visual): The vlogger shows the new light bulbs being installed in her room and demonstrates how they change colors.
+Visual Key Event 4(visual): The vlogger shows another room where the light bulbs have been installed and mentions that the electrician is getting the right bulbs for the other room.
+Visual Key Event 5(visual): The vlogger shows her future bedroom, mentioning that it will be painted the same color as the other room and that her wardrobe is also in there.
+Visual Key Event 6(visual): The vlogger plays with the new lights, adjusting their brightness and color.
+Visual Key Event 7(non-visual): The vlogger talks about her day, mentioning that she has to go to the doctor's later because she's been coughing up blood.
+Visual Key Event 8(visual): The vlogger shows the electrician returning to work.
+Visual Key Event 9(non-visual): The vlogger talks about getting ready for her doctor's appointment.
+Visual Key Event 10(non-visual): The vlogger talks about her doctor's appointment and the explanation she received about her symptoms.
+Visual Key Event 11(non-visual): The vlogger talks about her health, mentioning that she's feeling better than she has been.
+Visual Key Event 12(non-visual): The vlogger talks about going home and possibly getting some food on the way.
+Visual Key Event 13(non-visual): The vlogger talks about her day, mentioning that she made sausage rolls and took a nap.
+Visual Key Event 14(non-visual): The vlogger talks about needing to take a shower because she's cold.
+Visual Key Event 15(non-visual): The vlogger talks about her day, apologizing for the lack of exciting content.
+Visual Key Event 16(non-visual): The vlogger talks about going to bed, mentioning that she's feeling shaky, cold, and tired.
+Visual Key Event 17(non-visual): The vlogger ends her vlog, thanking her viewers and asking them to like, comment, and subscribe.
+
+Classification:
+Bad.

@@ -1,0 +1,29 @@
+Subtitle Segmentation 1: {start words: "hi guys welcome to my", end words: "your own vegan chocolate chip cookies"}
+Subtitle Segmentation 2: {start words: "okay so let's begin I", end words: "this bowl right here so yeah"}
+Subtitle Segmentation 3: {start words: "let's go ahead and get", end words: "taste that in the cookies"}
+Subtitle Segmentation 4: {start words: "okay I got her baking", end words: "two more things to add"}
+Subtitle Segmentation 5: {start words: "so there it is really", end words: "another taste mmm I need to add in the chocolate chips to this"}
+Subtitle Segmentation 6: {start words: "so oh yeah it's so", end words: "consistency is amazing guys this is what you want"}
+Subtitle Segmentation 7: {start words: "and lyric honestly can't get", end words: "out of loving it she wants to devour every drop of cookie dough"}
+Subtitle Segmentation 8: {start words: "what can I say guys", end words: "them okay my hands are a bit you see let me wash"}
+Subtitle Segmentation 9: {start words: "like this that's what they", end words: "any oils or butter is just good for us"}
+Subtitle Segmentation 10: {start words: "but I mean let's face", end words: "change it up can we see that in your hand"}
+Subtitle Segmentation 11: {start words: "it's just a cutest thing", end words: "waiting for the oven to come on"}
+Subtitle Segmentation 12: {start words: "it's like what do you", end words: "put them in the oven now that it's warmed up"}
+Subtitle Segmentation 13: {start words: "or 8-minute now taking out", end words: "them out see how [Music] yes just pose in the picture"}
+Subtitle Segmentation 14: {start words: "okay guys so the cookies", end words: "say bye guys"}
+
+Visual Key Event 1: The person is introducing the video and explaining that they will be making vegan chocolate chip cookies.
+Visual Key Event 2: The person is showing the ingredients needed for the cookies.
+Visual Key Event 3: The person is melting the vegan butter and mixing it with the sugars.
+Visual Key Event 4: The person is adding baking soda to the mixture.
+Visual Key Event 5: The person is adding flour to the mixture and mixing it until it becomes dough-like.
+Visual Key Event 6: The person is adding chocolate chips to the dough and mixing it.
+Visual Key Event 7: A child is shown eating the cookie dough.
+Visual Key Event 8: The person is forming the dough into balls and placing them on a baking tray.
+Visual Key Event 9: The person is explaining their choice of ingredients while the cookies are baking.
+Visual Key Event 10: The person is showing a child helping with the baking process.
+Visual Key Event 11: The person is waiting for the oven to preheat.
+Visual Key Event 12: The person is putting the cookies in the oven to bake.
+Visual Key Event 13: The person is taking the baked cookies out of the oven and letting them cool.
+Visual Key Event 14: The person and the child are tasting the cookies and ending the video.

@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "Danny and I are headed", end words: "happy wife happy life exactly"}
+Subtitle Segmentation 2: {start words: "so we're gonna go eat", end words: "our first set of workout"}
+Subtitle Segmentation 3: {start words: "the Mart workout routine first", end words: "aware of our weight loss during this process"}
+Subtitle Segmentation 4: {start words: "all right we got Danny", end words: "fries first first set done"}
+Subtitle Segmentation 5: {start words: "Preiser complete stomach is so", end words: "see what can happen"}
+Subtitle Segmentation 6: {start words: "it's been a while since", end words: "that's my actually you got this got it"}
+Subtitle Segmentation 7: {start words: "how's your workout going that's", end words: "she's going half and half so we'll see"}
+Subtitle Segmentation 8: {start words: "all right so almost done", end words: "that's weird all right finished it off"}
+Subtitle Segmentation 9: {start words: "great great workout today I'm", end words: "we're gonna leave our cups out on purpose"}
+Subtitle Segmentation 10: {start words: "okay what happens if they", end words: "we're not closing out yet"}
+Subtitle Segmentation 11: {start words: "all right hey what's up", end words: "he'd rather sleep so we're hoping he sleeps tonight"}
+Subtitle Segmentation 12: {start words: "oh sorry guys it's really", end words: "she dusted in all the furniture here"}
+Subtitle Segmentation 13: {start words: "yeah oh just got tackled", end words: "we will check you guys later"}
+
+Visual Key Event 1(non-visual): The vloggers, Danny and the speaker, joke about going to the gym but instead decide to go to Freddy's frozen custard and steak burgers for lunch.
+Visual Key Event 2(visual): They arrive at the gym and prepare to start their workout routine.
+Visual Key Event 3(non-visual): They discuss their workout routine and their plan to document their weight loss process.
+Visual Key Event 4(visual): Danny starts his first set of the workout, which involves eating fries.
+Visual Key Event 5(visual): They continue their workout, moving on to eating half of their steak burger.
+Visual Key Event 6(visual): They discuss their workout progress and encourage each other.
+Visual Key Event 7(visual): They discuss their different workout strategies, with the speaker going half and half and Danny eating fries first.
+Visual Key Event 8(visual): They finish their workout, with the speaker commenting on Tina's habit of leaving a little bit of food left.
+Visual Key Event 9(visual): They reflect on their workout and decide to hold back on getting a sundae, instead opting for a purple penguin later.
+Visual Key Event 10(non-visual): They joke about leaving their cups out and being recognized by their viewers.
+Visual Key Event 11(non-visual): The speaker prepares dinner and waits for Danny to return from soccer practice, commenting on their sleeping child.
+Visual Key Event 12(visual): The speaker shows the viewers the cleaning work done by Ashlyn in their room and bathroom.
+Visual Key Event 13(non-visual): The speaker wraps up the day, praising Ashlyn and looking forward to watching the debates.
+
+Classification:
+Good.

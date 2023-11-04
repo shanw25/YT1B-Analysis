@@ -1,0 +1,44 @@
+Visual Event 1: The video opens with a view of Brennan Harbor Resort.
+Start Time: 10.26 End Time: 14.859
+
+Visual Event 2: The host, James, appears on screen, ready to demonstrate something.
+Start Time: 14.859 End Time: 18.55
+
+Visual Event 3: James begins to demonstrate how to clean a northern pike.
+Start Time: 18.55 End Time: 24.519
+
+Visual Event 4: James is in the fish house, where he shows a fish donated by Ron.
+Start Time: 24.519 End Time: 31.839
+
+Visual Event 5: James starts the process of cleaning the fish.
+Start Time: 31.839 End Time: 36.18
+
+Visual Event 6: James continues to clean the fish, demonstrating each step carefully.
+Start Time: 36.18 End Time: 54.97
+
+Visual Event 7: James begins to cut the fish, explaining each step.
+Start Time: 54.97 End Time: 74.11
+
+Visual Event 8: James continues to cut and clean the fish, demonstrating how to remove the fillet.
+Start Time: 74.11 End Time: 100.299
+
+Visual Event 9: James demonstrates how to remove the other side of the fillet.
+Start Time: 100.299 End Time: 121.68
+
+Visual Event 10: James shows how to remove the rib cage from the fish.
+Start Time: 121.68 End Time: 154.689
+
+Visual Event 11: James demonstrates how to remove the white bone from the fish.
+Start Time: 154.689 End Time: 198.01
+
+Visual Event 12: James shows how to remove the skin from the fish.
+Start Time: 198.01 End Time: 240.17
+
+Visual Event 13: James completes the process by showing the cleaned fish.
+Start Time: 240.17 End Time: 381.56
+
+Visual Event 14: James gives tips on how to transport the fish without removing all the skin.
+Start Time: 381.56 End Time: 443.56
+
+Visual Event 15: The video ends with James showing the cleaned fish, ready to be frozen or transported.
+Start Time: 443.56 End Time: 460.52

@@ -1,0 +1,42 @@
+Subtitle Segmentation 1: {start words: "hey everybody let your life", end words: "green valley parkway and warm springs"}
+Subtitle Segmentation 2: {start words: "this current one that we", end words: "you're hungry so let's go check it out"}
+Subtitle Segmentation 3: {start words: "all right so we got", end words: "nobody in there"}
+Subtitle Segmentation 4: {start words: "you guys ever heard of", end words: "kind of not kind of cool"}
+Subtitle Segmentation 5: {start words: "just the peruse trying to", end words: "down 13 bucks oh that's why"}
+Subtitle Segmentation 6: {start words: "because he's down 13 bucks", end words: "14 cents yo"}
+Subtitle Segmentation 7: {start words: "all right guys i have", end words: "so fast okay something happened"}
+Subtitle Segmentation 8: {start words: "oh take a symbol pick", end words: "nice i don't know what just happened"}
+Subtitle Segmentation 9: {start words: "but it looks like i", end words: "my 20 again"}
+Subtitle Segmentation 10: {start words: "okay keeps going i have", end words: "i'll be right back"}
+Subtitle Segmentation 11: {start words: "all right again taking stevo's", end words: "play it all back again"}
+Subtitle Segmentation 12: {start words: "so that's how you don't", end words: "keep doing that"}
+Subtitle Segmentation 13: {start words: "guys this is the third", end words: "play to 20. thank you very much"}
+Subtitle Segmentation 14: {start words: "i'm gonna play out my", end words: "that's how that's how it's done"}
+Subtitle Segmentation 15: {start words: "[Music] and the end and", end words: "the exact same thing"}
+Subtitle Segmentation 16: {start words: "all right you guys we're", end words: "that's all i got"}
+Subtitle Segmentation 17: {start words: "um they do have that", end words: "the bar so"}
+Subtitle Segmentation 18: {start words: "definitely a really cool little", end words: "people who work there are very friendly"}
+Subtitle Segmentation 19: {start words: "so that was really cool", end words: "we win it's it's a team effort"}
+
+Visual Key Event 1(non-visual): The speaker introduces herself and her companion, Stevo, and they prepare to explore a local casino called the Greens Gaming and Dining.
+Visual Key Event 2(visual): They enter the casino, noting its food offerings and expressing uncertainty about what to expect.
+Visual Key Event 3(visual): They explore the casino, noting the availability of penny games and the presence of a seemingly unoccupied restaurant.
+Visual Key Event 4(visual): The speaker tries out a new game called spin poker and finds it interesting.
+Visual Key Event 5(visual): The speaker continues to explore the casino, noting the bar area and the gaming options available there.
+Visual Key Event 6(visual): The speaker plays a 10-play game, betting one penny on 10 cards.
+Visual Key Event 7(visual): The speaker moves to play some slots in keno, expressing her boredom with the previous games.
+Visual Key Event 8(visual): The speaker wins a round of the game, earning eight free spins and expressing confusion about what just happened.
+Visual Key Event 9(visual): The speaker decides to cash out her winnings and play again with her original 20 dollars.
+Visual Key Event 10(visual): The speaker continues to play and win, expressing surprise at her winnings.
+Visual Key Event 11(visual): The speaker takes Stevo's advice and cashes out her winnings again, leaving 20 dollars to continue playing.
+Visual Key Event 12(non-visual): The speaker shares her strategy for avoiding a gambling problem by cashing out her winnings and only playing with her original 20 dollars.
+Visual Key Event 13(visual): The speaker wins for the third time and decides to cash out her winnings again.
+Visual Key Event 14(visual): The speaker decides to play out her last five dollars on a new game, expressing confusion about how to play.
+Visual Key Event 15(visual): The speaker ends her gaming session, leaving behind a five-cent voucher for the next player.
+Visual Key Event 16(non-visual): The speaker and Stevo conclude their visit to the casino, expressing satisfaction with their experience.
+Visual Key Event 17(non-visual): The speaker shares information about the casino's restaurant and the possibility of eating at the bar.
+Visual Key Event 18(non-visual): The speaker recommends the casino, noting its friendly staff and the sense of community among the regular patrons.
+Visual Key Event 19(non-visual): The speaker and Stevo reflect on their experience, emphasizing the importance of teamwork in their gaming strategy.
+
+Classification:
+Good.

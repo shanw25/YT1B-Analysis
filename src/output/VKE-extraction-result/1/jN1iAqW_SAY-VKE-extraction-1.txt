@@ -1,0 +1,13 @@
+Visual Event 1: The video starts with a person dancing, possibly in a kitchen. Start time: 0.03 End time: 15.43
+Visual Event 2: The person introduces themselves and their quarantine kitchen. Start time: 15.43 End time: 25.97
+Visual Event 3: The person thanks viewers for their support and mentions a poll they conducted on Instagram. Start time: 25.97 End time: 43.53
+Visual Event 4: The person introduces the dish they will be making: five-minute tomato cream pasta. Start time: 43.53 End time: 57.23
+Visual Event 5: The person lists and shows the ingredients needed for the dish. Start time: 57.23 End time: 102.039
+Visual Event 6: The person starts preparing the dish by chopping onions and garlic. Start time: 102.039 End time: 162.75
+Visual Event 7: The person starts cooking the dish by adding the chopped onions and garlic to a pan with olive oil. Start time: 162.75 End time: 235.799
+Visual Event 8: The person adds the pasta to boiling water and the tomato paste to the pan. Start time: 235.799 End time: 259.54
+Visual Event 9: The person adds cream and spices to the pan and stirs until the sauce forms. Start time: 259.54 End time: 385.2
+Visual Event 10: The person adds the cooked pasta to the sauce and mixes it together. Start time: 385.2 End time: 417.88
+Visual Event 11: The person adds parmesan, balsamic glaze, and fresh basil to the pasta. Start time: 417.88 End time: 500.24
+Visual Event 12: The person tastes the pasta and gives their approval. Start time: 500.24 End time: 529.55
+Visual Event 13: The person encourages viewers to like, subscribe, and try making the dish themselves. Start time: 529.55 End time: 541.49

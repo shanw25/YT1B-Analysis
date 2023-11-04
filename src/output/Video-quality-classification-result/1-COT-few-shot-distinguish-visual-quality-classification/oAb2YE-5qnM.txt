@@ -1,0 +1,43 @@
+Subtitle Segmentation 1: {start words: "it is June grocery haul", end words: "any substitutions but this is more or less the grocery part for the next four weeks"}
+Subtitle Segmentation 2: {start words: "hmm I haven't made to", end words: "cheeses and crackers and things like that that are easy"}
+Subtitle Segmentation 3: {start words: "so when we go through", end words: "I hit the line and blue two boats"}
+Subtitle Segmentation 4: {start words: "so are you kind of", end words: "okay let's go fruit veg"}
+Subtitle Segmentation 5: {start words: "it is kinda organized so", end words: "a snack I got a cucumber for my salad"}
+Subtitle Segmentation 6: {start words: "I got to last month", end words: "oven with some dippy bread"}
+Subtitle Segmentation 7: {start words: "I got the bananas I", end words: "more less than what they can have for their breakfast"}
+Subtitle Segmentation 8: {start words: "I got three days a", end words: "should be over here then i got these are my frozen"}
+Subtitle Segmentation 9: {start words: "so i just got like", end words: "9 i'm just quit for the road"}
+Subtitle Segmentation 10: {start words: "then these are the tanning", end words: "bathroom stuff so that's like 10 times stronger"}
+Subtitle Segmentation 11: {start words: "I got floor cleaner because", end words: "cleaned more that's not too bad"}
+Subtitle Segmentation 12: {start words: "then more changes I got", end words: "and sauce and stuff like that got four of those"}
+Subtitle Segmentation 13: {start words: "I got the dawn mio", end words: "can get really then I got loads of heart"}
+Subtitle Segmentation 14: {start words: "I know one two three", end words: "it could be fine what can go wrong"}
+Subtitle Segmentation 15: {start words: "smoothies and juices they didn't", end words: "I got lettuce so gotta buy of iceberg lettuce on its own"}
+Subtitle Segmentation 16: {start words: "another bag forget it that", end words: "I got to tin of peas Irish people ooh"}
+Subtitle Segmentation 17: {start words: "I got to tens of", end words: "that should keep the kids going for a couple of weeks"}
+Subtitle Segmentation 18: {start words: "I got Philadelphia light has", end words: "mix it with the carbonara and stuff like that so that's okay"}
+Subtitle Segmentation 19: {start words: "I got 500 gram of", end words: "and taken to work and stuff like that"}
+Subtitle Segmentation 20: {start words: "I got the raisins for", end words: "for like three or or something then these are my crackers"}
+Subtitle Segmentation 21: {start words: "so I got the revita", end words: "as long as it's coffee so and that is this is that it"}
+Subtitle Segmentation 22: {start words: "that is this now I", end words: "but that is everything else I hope you enjoyed it"}
+
+Visual Key Event 1(non-visual): The speaker introduces the grocery haul for the month of June, mentioning that most items have arrived except for a bag of pears and Johnson bubble baths.
+Visual Key Event 2(non-visual): The speaker mentions that there are fewer cool items as the kids are not going to school, but more cheeses and crackers for easy meals.
+Visual Key Event 3(non-visual): The speaker mentions that someone named Nisha is assembling a foosball table in the next room.
+Visual Key Event 4(visual): The speaker begins to go through the fruit and vegetable items in the grocery haul.
+Visual Key Event 5(visual): The speaker continues to list the items in the grocery haul, including onions, pears, apples, and cucumbers.
+Visual Key Event 6(visual): The speaker continues to list the items in the grocery haul, including bananas, bread, and various types of cheese.
+Visual Key Event 7(visual): The speaker continues to list the items in the grocery haul, including bagels, milk, and frozen pizzas.
+Visual Key Event 8(visual): The speaker continues to list the items in the grocery haul, including cleaning products and tanning products.
+Visual Key Event 9(visual): The speaker mentions buying a floor cleaner due to the kids bringing in mud and grass, necessitating more frequent floor cleaning.
+Visual Key Event 10(visual): The speaker continues to list the items in the grocery haul, including more cheese, eggs, and various sauces.
+Visual Key Event 11(visual): The speaker continues to list the items in the grocery haul, including pasta, macaroni, and various types of porridge.
+Visual Key Event 12(visual): The speaker continues to list the items in the grocery haul, including smoothies, juices, and lettuce.
+Visual Key Event 13(visual): The speaker continues to list the items in the grocery haul, including broccoli, corn, peas, and minestrone soup.
+Visual Key Event 14(visual): The speaker continues to list the items in the grocery haul, including yogurts, Philadelphia light, and butter.
+Visual Key Event 15(visual): The speaker continues to list the items in the grocery haul, including sugars, rice, couscous, and raisins.
+Visual Key Event 16(visual): The speaker continues to list the items in the grocery haul, including various types of crackers and coffee.
+Visual Key Event 17(non-visual): The speaker concludes the grocery haul, mentioning that she now has to put everything away and that the total cost was 262 euros.
+
+Classification:
+Good.

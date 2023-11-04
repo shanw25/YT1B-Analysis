@@ -1,0 +1,5 @@
+Visual Event 1: The video starts with the host welcoming the viewers back to the channel. Start time: 0.03 End time: 3.33
+Visual Event 2: The host is seen indoors, mentioning the weather outside and planning to do some chores around the house. Start time: 16.13 End time: 27.81
+Visual Event 3: The host talks about needing to buy some essentials like soap, hand wash, and toothpaste. Start time: 24.81 End time: 38.16
+Visual Event 4: The host discusses their preference for plant-based, fluoride-free toothpaste and soap, and their usual shopping places. Start time: 38.16 End time: 55.32
+Visual Event 5: The host is

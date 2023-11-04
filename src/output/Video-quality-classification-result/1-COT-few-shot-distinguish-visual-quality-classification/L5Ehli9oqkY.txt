@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "hello YouTube thank you for", end words: "kind of regret that now"}
+Subtitle Segmentation 2: {start words: "oh so what do we", end words: "definitely gonna be expecting quality"}
+Subtitle Segmentation 3: {start words: "so let's do a spring", end words: "I love them"}
+Subtitle Segmentation 4: {start words: "okay so Tom Ford London", end words: "something British I certainly hope so"}
+Subtitle Segmentation 5: {start words: "okay so why don't we", end words: "something very unique"}
+Subtitle Segmentation 6: {start words: "mmm yeah I mean it's", end words: "made more mild"}
+Subtitle Segmentation 7: {start words: "so we've mentioned the longevity", end words: "this might be one to look at"}
+Subtitle Segmentation 8: {start words: "so where will we wear", end words: "hot Outback kind of buyer"}
+Subtitle Segmentation 9: {start words: "so yes fantastic date scent", end words: "a great casual scent as well"}
+Subtitle Segmentation 10: {start words: "when would we wear this", end words: "works all the year round"}
+Subtitle Segmentation 11: {start words: "so we've mentioned the price", end words: "could be your third"}
+Subtitle Segmentation 12: {start words: "so there we go oh", end words: "this would be for you"}
+Subtitle Segmentation 13: {start words: "so yeah something to think", end words: "I will see you on the next one"}
+
+Visual Key Event 1(non-visual): The speaker introduces the video and the fragrance they will be reviewing, Tom Ford London.
+Visual Key Event 2(non-visual): The speaker discusses the reputation of Tom Ford as a luxury and stylish brand, and their expectation for the quality of the fragrance.
+Visual Key Event 3(visual): The speaker shows the bottle of Tom Ford London and comments on the design.
+Visual Key Event 4(non-visual): The speaker discusses their expectations for the scent of Tom Ford London, based on the city it's named after.
+Visual Key Event 5(visual): The speaker describes the initial scent of the fragrance, noting its smoky leather and woody dry notes.
+Visual Key Event 6(visual): The speaker describes the scent as it dries down, noting its sweetness and smoky leather notes.
+Visual Key Event 7(non-visual): The speaker discusses the longevity of the fragrance and its suitability for those who find other Tom Ford fragrances overpowering.
+Visual Key Event 8(non-visual): The speaker discusses where and when the fragrance would be suitable to wear, noting its uniqueness and pleasantness.
+Visual Key Event 9(non-visual): The speaker continues to discuss the versatility of the fragrance, noting its suitability for work and casual wear.
+Visual Key Event 10(non-visual): The speaker discusses the best seasons to wear the fragrance, suggesting it's suitable for all year round.
+Visual Key Event 11(non-visual): The speaker discusses the price of the fragrance and its value in relation to other Tom Ford fragrances.
+Visual Key Event 12(non-visual): The speaker discusses potential reasons why someone might not like the fragrance, noting its unique and non-mainstream scent.
+Visual Key Event 13(non-visual): The speaker concludes the review, summarizing their thoughts on Tom Ford London and thanking the viewers.
+
+Classification:
+Good.

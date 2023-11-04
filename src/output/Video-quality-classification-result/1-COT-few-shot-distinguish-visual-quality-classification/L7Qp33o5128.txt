@@ -1,0 +1,115 @@
+Subtitle Segmentation 1: {start words: "what is up it is", end words: "it's Thursday yeah my god I totally got it"}
+Subtitle Segmentation 2: {start words: "anyway it is episode 19", end words: "damage on that shewn this one isn't too bad"}
+Subtitle Segmentation 3: {start words: "and before we get going", end words: "a lot of chips"}
+Subtitle Segmentation 4: {start words: "so let's talk about getting", end words: "what you want"}
+Subtitle Segmentation 5: {start words: "and I wanted to share", end words: "more delicate edge"}
+Subtitle Segmentation 6: {start words: "so if I do that", end words: "that angle"}
+Subtitle Segmentation 7: {start words: "that said I'll do whatever", end words: "a chisel grind"}
+Subtitle Segmentation 8: {start words: "which some knives in fact", end words: "I wish I knew more when I bought it"}
+Subtitle Segmentation 9: {start words: "whatever okay so that is", end words: "conversation half but let's talk about what we need to do with this shin"}
+Subtitle Segmentation 10: {start words: "ultimately what this is where", end words: "the chips"}
+Subtitle Segmentation 11: {start words: "alright so I'm going to", end words: "brings it in notice long flap back really difficult but intense fantastic work for the core"}
+Subtitle Segmentation 12: {start words: "cruise over the one by", end words: "get grinded laid over here"}
+Subtitle Segmentation 13: {start words: "this is gonna be the", end words: "oh yeah here comes the noise right"}
+Subtitle Segmentation 14: {start words: "[Laughter] [Music] rather than loving", end words: "my god [Music]"}
+Subtitle Segmentation 15: {start words: "but magnifying glass right here", end words: "that went a little better than I was expecting"}
+Subtitle Segmentation 16: {start words: "I actually have a hard", end words: "nice rule of thumb"}
+Subtitle Segmentation 17: {start words: "alright so okay so all", end words: "that question all right"}
+Subtitle Segmentation 18: {start words: "but the what all right", end words: "essential piece of equipment for the edge Pro system"}
+Subtitle Segmentation 19: {start words: "okay but we have like", end words: "all right so I'm spending a little extra time here"}
+Subtitle Segmentation 20: {start words: "with the 220 because I", end words: "I'm not there yet"}
+Subtitle Segmentation 21: {start words: "and that's also a lesson", end words: "that angle that said I'll do whatever you want"}
+Subtitle Segmentation 22: {start words: "I had a customer asked", end words: "a bigger bevel on that side"}
+Subtitle Segmentation 23: {start words: "right bearing you know understand", end words: "I wish I knew more when I bought it"}
+Subtitle Segmentation 24: {start words: "whatever okay so that is", end words: "conversation half but let's talk about what we need to do with this shin"}
+Subtitle Segmentation 25: {start words: "ultimately what this is where", end words: "the chips"}
+Subtitle Segmentation 26: {start words: "alright so I'm going to", end words: "brings it in notice long flap back really difficult but intense fantastic work for the core"}
+Subtitle Segmentation 27: {start words: "cruise over the one by", end words: "get grinded laid over here"}
+Subtitle Segmentation 28: {start words: "this is gonna be the", end words: "oh yeah here comes the noise right"}
+Subtitle Segmentation 29: {start words: "[Laughter] [Music] rather than loving", end words: "my god [Music]"}
+Subtitle Segmentation 30: {start words: "but magnifying glass right here", end words: "that went a little better than I was expecting"}
+Subtitle Segmentation 31: {start words: "I actually have a hard", end words: "nice rule of thumb"}
+Subtitle Segmentation 32: {start words: "alright so okay so all", end words: "that question all right"}
+Subtitle Segmentation 33: {start words: "but the what all right", end words: "essential piece of equipment for the edge Pro system"}
+Subtitle Segmentation 34: {start words: "okay but we have like", end words: "all right so I'm spending a little extra time here"}
+Subtitle Segmentation 35: {start words: "with the 220 because I", end words: "I'm not there yet"}
+Subtitle Segmentation 36: {start words: "and that's also a lesson", end words: "that angle that said I'll do whatever you want"}
+Subtitle Segmentation 37: {start words: "I had a customer asked", end words: "a bigger bevel on that side"}
+Subtitle Segmentation 38: {start words: "right bearing you know understand", end words: "I wish I knew more when I bought it"}
+Subtitle Segmentation 39: {start words: "whatever okay so that is", end words: "conversation half but let's talk about what we need to do with this shin"}
+Subtitle Segmentation 40: {start words: "ultimately what this is where", end words: "the chips"}
+Subtitle Segmentation 41: {start words: "alright so I'm going to", end words: "brings it in notice long flap back really difficult but intense fantastic work for the core"}
+Subtitle Segmentation 42: {start words: "cruise over the one by", end words: "get grinded laid over here"}
+Subtitle Segmentation 43: {start words: "this is gonna be the", end words: "oh yeah here comes the noise right"}
+Subtitle Segmentation 44: {start words: "[Laughter] [Music] rather than loving", end words: "my god [Music]"}
+Subtitle Segmentation 45: {start words: "but magnifying glass right here", end words: "that went a little better than I was expecting"}
+Subtitle Segmentation 46: {start words: "I actually have a hard", end words: "nice rule of thumb"}
+Subtitle Segmentation 47: {start words: "alright so okay so all", end words: "that question all right"}
+Subtitle Segmentation 48: {start words: "but the what all right", end words: "essential piece of equipment for the edge Pro system"}
+Subtitle Segmentation 49: {start words: "okay but we have like", end words: "all right so I'm spending a little extra time here"}
+Subtitle Segmentation 50: {start words: "with the 220 because I", end words: "I'm not there yet"}
+Subtitle Segmentation 51: {start words: "and that's also a lesson", end words: "that angle that said I'll do whatever you want"}
+Subtitle Segmentation 52: {start words: "I had a customer asked", end words: "a bigger bevel on that side"}
+Subtitle Segmentation 53: {start words: "right bearing you know understand", end words: "I wish I knew more when I bought it"}
+Subtitle Segmentation 54: {start words: "whatever okay so that is", end words: "conversation half but let's talk about what we need to do with this shin"}
+Subtitle Segmentation 55: {start words: "ultimately what this is where", end words: "the chips"}
+Subtitle Segmentation 56: {start words: "alright so I'm going to", end words: "brings it in notice long flap back really difficult but intense fantastic work for the core"}
+Subtitle Segmentation 57: {start words: "cruise over the one by", end words: "get grinded laid over here"}
+Subtitle Segmentation 58: {start words: "this is gonna be the", end words: "oh yeah here comes the noise right"}
+Subtitle Segmentation 59: {start words: "[Laughter] [Music] rather than loving", end words: "my god [Music]"}
+Subtitle Segmentation 60: {start words: "but magnifying glass right here", end words: "that went a little better than I was expecting"}
+Subtitle Segmentation 61: {start words: "I actually have a hard", end words: "nice rule of thumb"}
+Subtitle Segmentation 62: {start words: "alright so okay so all", end words: "that question all right"}
+Subtitle Segmentation 63: {start words: "but the what all right", end words: "essential piece of equipment for the edge Pro system"}
+Subtitle Segmentation 64: {start words: "okay but we have like", end words: "all right so I'm spending a little extra time here"}
+Subtitle Segmentation 65: {start words: "with the 220 because I", end words: "I'm not there yet"}
+Subtitle Segmentation 66: {start words: "and that's also a lesson", end words: "that angle that said I'll do whatever you want"}
+Subtitle Segmentation 67: {start words: "I had a customer asked", end words: "a bigger bevel on that side"}
+Subtitle Segmentation 68: {start words: "right bearing you know understand", end words: "I wish I knew more when I bought it"}
+Subtitle Segmentation 69: {start words: "whatever okay so that is", end words: "conversation half but let's talk about what we need to do with this shin"}
+Subtitle Segmentation 70: {start words: "ultimately what this is where", end words: "the chips"}
+Subtitle Segmentation 71: {start words: "alright so I'm going to", end words: "brings it in notice long flap back really difficult but intense fantastic work for the core"}
+Subtitle Segmentation 72: {start words: "cruise over the one by", end words: "get grinded laid over here"}
+Subtitle Segmentation 73: {start words: "this is gonna be the", end words: "oh yeah here comes the noise right"}
+Subtitle Segmentation 74: {start words: "[Laughter] [Music] rather than loving", end words: "my god [Music]"}
+Subtitle Segmentation 75: {start words: "but magnifying glass right here", end words: "that went a little better than I was expecting"}
+Subtitle Segmentation 76: {start words: "I actually have a hard", end words: "nice rule of thumb"}
+Subtitle Segmentation 77: {start words: "alright so okay so all", end words: "that question all right"}
+Subtitle Segmentation 78: {start words: "but the what all right", end words: "essential piece of equipment for the edge Pro system"}
+Subtitle Segmentation 79: {start words: "okay but we have like", end words: "all right so I'm spending a little extra time here"}
+Subtitle Segmentation 80: {start words: "with the 220 because I", end words: "I'm not there yet"}
+Subtitle Segmentation 81: {start words: "and that's also a lesson", end words: "that angle that said I'll do whatever you want"}
+Subtitle Segmentation 82: {start words: "I had a customer asked", end words: "a bigger bevel on that side"}
+Subtitle Segmentation 83: {start words: "right bearing you know understand", end words: "I wish I knew more when I bought it"}
+Subtitle Segmentation 84: {start words: "whatever okay so that is", end words: "conversation half but let's talk about what we need to do with this shin"}
+Subtitle Segmentation 85: {start words: "ultimately what this is where", end words: "the chips"}
+Subtitle Segmentation 86: {start words: "alright so I'm going to", end words: "brings it in notice long flap back really difficult but intense fantastic work for the core"}
+Subtitle Segmentation 87: {start words: "cruise over the one by", end words: "get grinded laid over here"}
+Subtitle Segmentation 88: {start words: "this is gonna be the", end words: "oh yeah here comes the noise right"}
+Subtitle Segmentation 89: {start words: "[Laughter] [Music] rather than loving", end words: "my god [Music]"}
+Subtitle Segmentation 90: {start words: "but magnifying glass right here", end words: "that went a little better than I was expecting"}
+Subtitle Segmentation 91: {start words: "I actually have a hard", end words: "nice rule of thumb"}
+Subtitle Segmentation 92: {start words: "alright so okay so all", end words: "that question all right"}
+Subtitle Segmentation 93: {start words: "but the what all right", end words: "essential piece of equipment for the edge Pro system"}
+Subtitle Segmentation 94: {start words: "okay but we have like", end words: "all right so I'm spending a little extra time here"}
+Subtitle Segmentation 95: {start words: "with the 220 because I", end words: "I'm not there yet"}
+Subtitle Segmentation 96: {start words: "and that's also a lesson", end words: "that angle that said I'll do whatever you want"}
+Subtitle Segmentation 97: {start words: "I had a customer asked", end words: "a bigger bevel on that side"}
+Subtitle Segmentation 98: {start words: "right bearing you know understand", end words: "I wish I knew more when I bought it"}
+Subtitle Segmentation 99: {start words: "whatever okay so that is", end words: "conversation half but let's talk about what we need to do with this shin"}
+Subtitle Segmentation 100: {start words: "ultimately what this is where", end words: "the chips"}
+Subtitle Segmentation 101: {start words: "alright so I'm going to", end words: "brings it in notice long flap back really difficult but intense fantastic work for the core"}
+Subtitle Segmentation 102: {start words: "cruise over the one by", end words: "get grinded laid over here"}
+Subtitle Segmentation 103: {start words: "this is gonna be the", end words: "oh yeah here comes the noise right"}
+Subtitle Segmentation 104: {start words: "[Laughter] [Music] rather than loving", end words: "my god [Music]"}
+Subtitle Segmentation 105: {start words: "but magnifying glass right here", end words: "that went a little better than I was expecting"}
+Subtitle Segmentation 106: {start words: "I actually have a hard", end words: "nice rule of thumb"}
+Subtitle Segmentation 107: {start words: "alright so okay so all", end words: "that question all right"}
+Subtitle Segmentation 108: {start words: "but the what all right", end words: "essential piece of equipment for the edge Pro system"}
+Subtitle Segmentation 109: {start words: "okay but we have like", end words: "all right so I'm spending a little extra time here"}
+Subtitle Segmentation 110: {start words: "with the 220 because I", end words: "I'm not there yet"}
+Subtitle Segmentation 111: {start words: "and that's also a lesson", end words: "that angle that said I'll do whatever you want"}
+Subtitle Segmentation 112: {start words: "I had a customer asked", end words: "a bigger bevel on that side"}
+Subtitle Segmentation 113: {start words: "right bearing you know understand", end words: "I wish I knew more when I bought it"}
+Subtitle Segmentation 114: {start words: "whatever okay so that is", end words: "conversation half but let's talk about what we need to do with this shin"}
+Subtitle Segmentation 115

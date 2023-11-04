@@ -1,0 +1,15 @@
+Visual Key Event 1(visual): The speaker gives a tour of their suite at the Home to Suites by Hilton in Pigeon Forge, highlighting the spaciousness and cleanliness of the suite.
+Visual Key Event 2(visual): The speaker showcases the full-size kitchen in the suite, including the full-size fridge, microwave, and dishwasher.
+Visual Key Event 3(visual): The speaker explores the storage drawers in the kitchen, revealing various amenities like kitchen towels, a toaster, and a cutting board.
+Visual Key Event 4(visual): The speaker shows a general area in the suite where guests can store their belongings or set up to do work, highlighting the numerous outlets and shelf storage.
+Visual Key Event 5(visual): The speaker presents the living room area of the suite, pointing out the love seat, ottoman, lamps, and a picture of the Smokies.
+Visual Key Event 6(visual): The speaker tours the master bedroom, showing the king-sized bed, another TV, and a larger closet.
+Visual Key Event 7(visual): The speaker checks out the bathroom, noting the sliding doors, shower with gel and shampoo dispensers, and the spacious sink area.
+Visual Key Event 8(visual): The speaker shows the view from the suite, highlighting the island and the mountains.
+Visual Key Event 9(visual): The speaker gives a brief tour of the hotel lobby and the breakfast area.
+Visual Key Event 10(visual): The speaker shows the hotel's indoor and outdoor swimming pools, highlighting the water slot and play area for kids in the outdoor pool.
+Visual Key Event 11(visual): The speaker points out the proximity of the hotel to the Cal Ripken Experience, suggesting it as a convenient place to stay for those attending events there.
+Visual Key Event 15(visual): The speaker visits Cinnaholic for breakfast, showing the variety of cinnamon rolls available.
+Visual Key Event 16(visual): The speaker tries the gluten-friendly Knotter Roll from Cinnaholic, describing its taste and appearance.
+Visual Key Event 18(visual): The speaker tries the Peanut Butter and Jelly Cinnamon Roll from Cinnaholic, describing its taste and showing its inside.
+Visual Key Event 19(visual): The speaker explores the Mountain Mall area, showing the games, the Mountain Monster ride, and the Cream and Sugar Sweet Shop.

@@ -1,0 +1,24 @@
+Subtitle Segmentation 1: {start words: "[Music] hello and welcome to", end words: "draw out to your own"}
+Subtitle Segmentation 2: {start words: "this bed was made from", end words: "over again and then stacking them together"}
+Subtitle Segmentation 3: {start words: "and I'm very pleased with", end words: "get it done"}
+Subtitle Segmentation 4: {start words: "some of the balsa wood", end words: "glued them together"}
+Subtitle Segmentation 5: {start words: "the body of the bed", end words: "to hold up while my daughter plays with it"}
+Subtitle Segmentation 6: {start words: "once the basic structure is", end words: "holds up"}
+Subtitle Segmentation 7: {start words: "now this was done using", end words: "turned out okay"}
+Subtitle Segmentation 8: {start words: "now for her mattress I", end words: "sit down lower on the bed"}
+Subtitle Segmentation 9: {start words: "on the mattress I did", end words: "how to make it"}
+Subtitle Segmentation 10: {start words: "and that's it's there I", end words: "to make my own"}
+
+Visual Key Event 1(non-visual): The speaker introduces the project of making a mini doll bed and explains the initial steps of drawing out a pattern for the bed's pieces.
+Visual Key Event 2(visual): The speaker explains the process of cutting out the shapes from balsa wood for the bed's structure.
+Visual Key Event 3(visual): The speaker discusses the challenges of cutting out the intricate shapes from the balsa wood and the process of gluing the pieces together.
+Visual Key Event 4(visual): The speaker explains how the body of the bed was made from two pieces of balsa wood and popsicle sticks for added strength.
+Visual Key Event 5(visual): The speaker discusses the process of constructing the box of the bed, attaching the legs, and fitting the headboard and footboard.
+Visual Key Event 6(visual): The speaker explains the painting process of the bed using acrylic paint and staining with watercolor.
+Visual Key Event 7(non-visual): The speaker discusses the use of polyurethane over the paint for a glossy finish.
+Visual Key Event 8(visual): The speaker explains the process of making the mattress for the bed and adjusting the supports for the mattress.
+Visual Key Event 9(visual): The speaker discusses the process of sewing tufts on the mattress and making a bolster pillow.
+Visual Key Event 10(visual): The speaker explains the process of weaving the blanket for the bed using embroidery floss and twine.
+
+Classification:
+Good.

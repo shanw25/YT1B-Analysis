@@ -1,0 +1,25 @@
+Subtitle Segmentation 1: {start words: "[Music] hi guys so as", end words: "destroying it I wanted to make like just a regular basic headband"}
+Subtitle Segmentation 2: {start words: "I also found a butterfly", end words: "get in between the stitching disassemble the bag as much as possible to reveal large pieces of fabric that we can use"}
+Subtitle Segmentation 3: {start words: "honestly I went to the", end words: "seam in the middle would just be awkward so a straight line and be very careful because your needle might break my needle might break before I lose an eye [Music]"}
+Subtitle Segmentation 4: {start words: "I flipped the strip over", end words: "glue gun to stick it on [Music] [Music]"}
+Subtitle Segmentation 5: {start words: "I originally started folding the", end words: "to hand sew it [Music]"}
+Subtitle Segmentation 6: {start words: "now I just wanted to", end words: "overnight to dry so it's the next day and the headband is fully dried"}
+Subtitle Segmentation 7: {start words: "I just need to add", end words: "and cut out any imperfections or thread that was sticking out and that's it for the headband"}
+Subtitle Segmentation 8: {start words: "to make the butterfly clip", end words: "the print on it as well"}
+Subtitle Segmentation 9: {start words: "I didn't want to poke", end words: "way more accurate than hand sewing"}
+Subtitle Segmentation 10: {start words: "now it was time to", end words: "a metallic gold color [Music]"}
+Subtitle Segmentation 11: {start words: "but other than that it", end words: "you're still waiting and then you have a butterfly wow so beautiful [Music]"}
+Subtitle Segmentation 12: {start words: "this was actually such a", end words: "video and I'll see you next time"}
+
+Visual Key Event 1: The person is introducing the video and showing a bag that she plans to repurpose into a headband.
+Visual Key Event 2: The person is cutting the straps off the bag and using a seam ripper to disassemble the bag.
+Visual Key Event 3: The person is cutting out pieces of fabric and sewing them together to create a strip for the headband.
+Visual Key Event 4: The person is ironing the strip and using a hot glue gun to attach it to a headband.
+Visual Key Event 5: The person is folding the fabric over the headband and sewing it by hand.
+Visual Key Event 6: The person is adding a lining to the headband and leaving it to dry overnight.
+Visual Key Event 7: The person is adding finishing touches to the headband by sewing and cutting off any imperfections.
+Visual Key Event 8: The person is cutting out pieces of fabric in the shape of a butterfly to create a hair pin.
+Visual Key Event 9: The person is sewing the butterfly pieces together.
+Visual Key Event 10: The person is making holes for the grommets and spray painting them.
+Visual Key Event 11: The person is assembling the butterfly pin and expressing her frustration about a delayed package.
+Visual Key Event 12: The person is showing the finished butterfly pin and concluding the video.

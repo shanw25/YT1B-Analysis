@@ -1,0 +1,12 @@
+Visual Key Event 2(visual): The speaker shows the meat products she bought, including ground beef and chicken breasts.
+Visual Key Event 3(visual): The speaker shows the rotisserie chickens, Nutella with breadsticks, and fruit snacks she bought.
+Visual Key Event 4(visual): The speaker shows the Starbucks Frappuccino, Coke Zero, and mayonnaise she bought.
+Visual Key Event 5(visual): The speaker shows the croissants, milk, and Angus beef patties she bought.
+Visual Key Event 6(visual): The speaker shows the Uncrustables, guacamole, and Kerrygold butter she bought.
+Visual Key Event 7(visual): The speaker shows the cantaloupes and dishwasher detergent pods she bought.
+Visual Key Event 8(visual): The speaker shows the Milano cookies, Hello Panda snacks, and sliced cheese she bought.
+Visual Key Event 9(visual): The speaker shows the laundry beads, Duke's sausages, and ranch dressing she bought.
+Visual Key Event 10(visual): The speaker shows the vitamins, strawberries, and broccoli she bought.
+Visual Key Event 11(visual): The speaker shows the pizzas, romaine lettuce, and eggs she bought.
+Visual Key Event 12(visual): The speaker shows the Greek yogurt bars, breakfast burritos, and Mexican blend cheese she bought.
+Visual Key Event 13(visual): The speaker shows the macaroni and cheese she bought.

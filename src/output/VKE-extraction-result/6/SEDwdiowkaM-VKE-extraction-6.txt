@@ -1,0 +1,29 @@
+Visual Event 1: The video starts with a conversation between two people, possibly in a home setting.
+Start Time: 18.15 End Time: 25.68
+
+Visual Event 2: The conversation continues, and it seems they are discussing a food challenge involving shellfish.
+Start Time: 25.68 End Time: 41.25
+
+Visual Event 3: The conversation continues, and it seems they are discussing the potential risks and precautions associated with the food challenge.
+Start Time: 41.25 End Time: 60.32
+
+Visual Event 4: The video transitions to a different location, possibly a doctor's office, where the food challenge is about to take place.
+Start Time: 60.32 End Time: 106.17
+
+Visual Event 5: The food challenge begins, and the participant starts eating the shellfish.
+Start Time: 106.17 End Time: 120.81
+
+Visual Event 6: The participant continues to eat the shellfish, and there are discussions about potential allergic reactions.
+Start Time: 120.81 End Time: 152.57
+
+Visual Event 7: The participant continues to eat the shellfish, and there are discussions about the taste and texture of the food.
+Start Time: 152.57 End Time: 189.32
+
+Visual Event 8: The participant finishes the food challenge, and there are discussions about the results and potential implications.
+Start Time: 189.32 End Time: 218.66
+
+Visual Event 9: The video transitions to a different location, possibly a restaurant, where the participant is eating more shellfish.
+Start Time: 218.66 End Time: 848.67
+
+Visual Event 10: The video concludes with the participant expressing satisfaction with the food and the successful completion of the challenge.
+Start Time: 848.67 End Time: 1055.83

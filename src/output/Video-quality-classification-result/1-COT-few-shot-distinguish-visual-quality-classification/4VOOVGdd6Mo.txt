@@ -1,0 +1,36 @@
+Subtitle Segmentation 1: {start words: "[Music] [Applause] [Music] hey everybody welcome", end words: "sound or silence you should say both trick question"}
+Subtitle Segmentation 2: {start words: "so now we got to", end words: "silence is rest right"}
+Subtitle Segmentation 3: {start words: "so let's kind of move", end words: "memorize these"}
+Subtitle Segmentation 4: {start words: "then the next column we're", end words: "a whole note"}
+Subtitle Segmentation 5: {start words: "draw a little line under", end words: "stem on it"}
+Subtitle Segmentation 6: {start words: "so we have whole notes", end words: "color it in"}
+Subtitle Segmentation 7: {start words: "now that we have whole", end words: "little flag"}
+Subtitle Segmentation 8: {start words: "and now let's learn about", end words: "just like that"}
+Subtitle Segmentation 9: {start words: "so quick review while you", end words: "two flags per note"}
+Subtitle Segmentation 10: {start words: "so again that was notes", end words: "the rest"}
+Subtitle Segmentation 11: {start words: "so remember rest is a", end words: "a hole"}
+Subtitle Segmentation 12: {start words: "moving on we add whole", end words: "hat half rest hat"}
+Subtitle Segmentation 13: {start words: "now we're on to quarter", end words: "quarter wrist looks like"}
+Subtitle Segmentation 14: {start words: "next we have our eighth", end words: "just like that"}
+Subtitle Segmentation 15: {start words: "and last but not least", end words: "what the symbols are"}
+Subtitle Segmentation 16: {start words: "so quick review music is", end words: "review"}
+
+Visual Key Event 1(non-visual): Mr. Esquivel introduces the topic of the video, which is about musical symbols, and explains that music is both sound and silence.
+Visual Key Event 2(non-visual): Mr. Esquivel explains the terms "notes" and "rests" which represent sound and silence in music respectively.
+Visual Key Event 3(visual): Mr. Esquivel instructs viewers to draw a chart on their paper to help them learn about different types of notes and rests.
+Visual Key Event 4(visual): Mr. Esquivel introduces the first type of note, the whole note, and demonstrates how to draw its symbol.
+Visual Key Event 5(visual): Mr. Esquivel introduces the second type of note, the half note, and demonstrates how to draw its symbol.
+Visual Key Event 6(visual): Mr. Esquivel introduces the third type of note, the quarter note, and demonstrates how to draw its symbol.
+Visual Key Event 7(visual): Mr. Esquivel introduces the fourth type of note, the eighth note, and demonstrates how to draw its symbol.
+Visual Key Event 8(visual): Mr. Esquivel introduces the fifth type of note, the sixteenth note, and demonstrates how to draw its symbol.
+Visual Key Event 9(non-visual): Mr. Esquivel reviews the different types of notes and their symbols.
+Visual Key Event 10(non-visual): Mr. Esquivel transitions to discussing the different types of rests in music.
+Visual Key Event 11(visual): Mr. Esquivel introduces the first type of rest, the whole rest, and demonstrates how to draw its symbol.
+Visual Key Event 12(visual): Mr. Esquivel introduces the second type of rest, the half rest, and demonstrates how to draw its symbol.
+Visual Key Event 13(visual): Mr. Esquivel introduces the third type of rest, the quarter rest, and demonstrates how to draw its symbol.
+Visual Key Event 14(visual): Mr. Esquivel introduces the fourth type of rest, the eighth rest, and demonstrates how to draw its symbol.
+Visual Key Event 15(visual): Mr. Esquivel introduces the fifth type of rest, the sixteenth rest, and demonstrates how to draw its symbol.
+Visual Key Event 16(non-visual): Mr. Esquivel reviews the different types of rests and their symbols, and concludes the video by reminding viewers to review what they've learned.
+
+Classification:
+Good.

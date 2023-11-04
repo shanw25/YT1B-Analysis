@@ -1,0 +1,26 @@
+Visual Event 1: The video starts with a person introducing themselves and the topic of the video.
+Start Time: 0.0 End Time: 4.98
+
+Visual Event 2: The person starts showing the ingredients needed for making vegan chocolate chip cookies.
+Start Time: 8.0 End Time: 34.2
+
+Visual Event 3: The person starts the process of making the cookies, including melting vegan butter and mixing it with sugars.
+Start Time: 37.17 End Time: 113.1
+
+Visual Event 4: The person continues the process by adding almond milk, vanilla extract, and baking soda to the mixture.
+Start Time: 118.409 End Time: 153.9
+
+Visual Event 5: The person adds flour and chocolate chips to the mixture and mixes it all together.
+Start Time: 159.13 End Time: 197.629
+
+Visual Event 6: The person forms the cookie dough into balls and places them on a baking tray.
+Start Time: 203.76 End Time: 270.03
+
+Visual Event 7: The person puts the tray of cookies into the oven.
+Start Time: 270.03 End Time: 280.3
+
+Visual Event 8: The person takes the baked cookies out of the oven and lets them cool.
+Start Time: 280.3 End Time: 314.93
+
+Visual Event 9: The person and a child taste the baked cookies and give their reactions.
+Start Time: 314.93 End Time

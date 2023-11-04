@@ -1,0 +1,20 @@
+Subtitle Segmentation 1: {start words: "the risks please the bar", end words: "up over head into the movement"}
+Subtitle Segmentation 2: {start words: "so some of the exercises", end words: "able to maintain tension and he'll be able to execute the overhead press and effectively in safely at the same time"}
+Subtitle Segmentation 3: {start words: "I like holding this group", end words: "negatively trying to get some very important to heat stress for the last"}
+Subtitle Segmentation 4: {start words: "so another common fall from", end words: "underneath the bar after the three breasts"}
+Subtitle Segmentation 5: {start words: "Brennan's going to sit back", end words: "mechanics with the rest of the bomb"}
+Subtitle Segmentation 6: {start words: "so keep extending back in", end words: "chest up in anymore"}
+Subtitle Segmentation 7: {start words: "alright so the next one", end words: "that's going to change the mechanics of any of those movements keep that cheese"}
+Subtitle Segmentation 8: {start words: "alright so for such a", end words: "posture is going to stay bonded locked in the hold"}
+
+Visual Key Event 1(visual): The speaker demonstrates the correct way to lift the bar, emphasizing the importance of maintaining a tight core and proper alignment for effective force transfer.
+Visual Key Event 2(visual): The speaker demonstrates exercises to improve shoulder mobility, using a towel and bench to stretch the upper arm and shoulder.
+Visual Key Event 3(visual): The speaker discusses common faults in the overhead press, such as dropping the head, which can negatively affect spinal position.
+Visual Key Event 4(visual): The speaker demonstrates an exercise using a foam roller to improve spinal alignment and breathing technique.
+Visual Key Event 5(visual): The speaker demonstrates how to extend back over the foam roller while maintaining proper breathing and rib position.
+Visual Key Event 6(visual): The speaker discusses the importance of breathing in increasing mobility and maintaining proper mechanics.
+Visual Key Event 7(visual): The speaker demonstrates an exercise to improve spinal rotation, emphasizing the importance of maintaining proper spinal alignment.
+Visual Key Event 8(non-visual): The speaker concludes by emphasizing the importance of daily mobility exercises, especially for those with tight muscles or those who sit at a desk all day.
+
+Classification:
+Good.

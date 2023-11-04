@@ -1,0 +1,7 @@
+Visual Key Event 2(visual): The speaker begins the cleaning process by spraying down the suspension and using a wheel cleaner and a microfiber cloth.
+Visual Key Event 3(visual): The speaker sprays the inner liner of the car, which is already lifted from a previous operation.
+Visual Key Event 6(visual): The speaker uses a degreaser and a professional base cleaner to clean the suspension.
+Visual Key Event 7(visual): The speaker wipes down the suspension, noting the remaining contamination.
+Visual Key Event 10(visual): The speaker gives the suspension a second wipe down and dries it up, noting the improvement in its appearance.
+Visual Key Event 11(visual): The speaker proceeds to clean the other side of the car, showing a time-lapse of the process.
+Visual Key Event 13(visual): The speaker uses a trim detailer to dress up the trim of the car, noting the improvement in its appearance.

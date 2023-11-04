@@ -1,0 +1,32 @@
+Subtitle Segmentation 1: {start words: "hi I'm Brenda and welcome", end words: "depolarized see Liam husk so let's get started"}
+Subtitle Segmentation 2: {start words: "I measured two hundred and", end words: "the flax seeds now I'm going to add"}
+Subtitle Segmentation 3: {start words: "pour slightly beaten eggs some", end words: "this looks like I use the rubber spatula"}
+Subtitle Segmentation 4: {start words: "make sure that everything gets", end words: "included the shipping I have used these pans many times"}
+Subtitle Segmentation 5: {start words: "on another roll which I", end words: "outside of the pan so like I said this is an experiment"}
+Subtitle Segmentation 6: {start words: "I'm curious how it's going", end words: "spread that out there was just enough batter to make seven"}
+Subtitle Segmentation 7: {start words: "of the hot dog rolls", end words: "that was hot I'm gonna let those cool for a couple minutes"}
+Subtitle Segmentation 8: {start words: "before I take the rest", end words: "like when I put the hot dog in"}
+Subtitle Segmentation 9: {start words: "you can serve these funds", end words: "to slice them down the side"}
+Subtitle Segmentation 10: {start words: "so I'm going to start", end words: "are beef and pork and these are labeled gluten-free"}
+Subtitle Segmentation 11: {start words: "prepare your hot dogs any", end words: "cooking my hot dogs up"}
+Subtitle Segmentation 12: {start words: "well here's my hot dog", end words: "sauerkraut in his then I serve"}
+Subtitle Segmentation 13: {start words: "thanks for watching the first", end words: "to my blog thanks for watching"}
+Subtitle Segmentation 14: {start words: "dinner served I want to", end words: "put in them after they dried I stacked them all together and I'll store them away like this"}
+
+Visual Key Event 1(non-visual): Brenda introduces herself and the recipe she's going to make, low carb almond meal hot dog rolls, and mentions the ingredients she's going to use.
+Visual Key Event 2(visual): Brenda measures out the almond meal and other ingredients, and combines them in a bowl.
+Visual Key Event 3(visual): Brenda adds the eggs, oil, and yogurt to the mixture and mixes it all together.
+Visual Key Event 4(visual): Brenda prepares the mini disposable pie plates to shape the hot dog rolls.
+Visual Key Event 5(visual): Brenda shapes the pie plates and fills them with the batter.
+Visual Key Event 6(visual): Brenda bakes the hot dog rolls in the oven.
+Visual Key Event 7(visual): Brenda removes the hot dog rolls from the oven and lets them cool.
+Visual Key Event 8(visual): Brenda shows the finished hot dog rolls.
+Visual Key Event 9(non-visual): Brenda discusses how to serve the hot dog rolls and how to slice them.
+Visual Key Event 10(non-visual): Brenda prepares the hot dogs and other ingredients for the meal.
+Visual Key Event 11(visual): Brenda cooks the hot dogs and prepares the meal.
+Visual Key Event 12(visual): Brenda presents the finished meal with the hot dog rolls.
+Visual Key Event 13(non-visual): Brenda concludes the video and provides a link to the recipe on her blog.
+Visual Key Event 14(visual): Brenda shows how to clean and store the pie plates for future use, and suggests other uses for the hot dog rolls.
+
+Classification:
+Good.

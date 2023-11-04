@@ -1,0 +1,27 @@
+Subtitle Segmentation 1: {start words: "welcome to Brennan Harbor Resort", end words: "clean a northern pike let's go"}
+Subtitle Segmentation 2: {start words: "okay now we're in the", end words: "nice sharp knife something you can rely"}
+Subtitle Segmentation 3: {start words: "okay let's begin lift this", end words: "get to this fin here"}
+Subtitle Segmentation 4: {start words: "okay next we're going to", end words: "lift it up"}
+Subtitle Segmentation 5: {start words: "now I've noticed that online", end words: "just cover out"}
+Subtitle Segmentation 6: {start words: "next you're going to take", end words: "just like so"}
+Subtitle Segmentation 7: {start words: "okay once both flights are", end words: "bucket for the seagulls"}
+Subtitle Segmentation 8: {start words: "okay next step take out", end words: "and just pull"}
+Subtitle Segmentation 9: {start words: "next step remove the white", end words: "just like so"}
+Subtitle Segmentation 10: {start words: "okay one more time don't", end words: "pull it out and then we have the white bone"}
+Subtitle Segmentation 11: {start words: "okay so just to recap", end words: "pull the wire you"}
+Subtitle Segmentation 12: {start words: "okay our last step take", end words: "ready to be frozen ready to transport"}
+Subtitle Segmentation 13: {start words: "thanks for viewing this video", end words: "see you out on the water"}
+
+Visual Key Event 1: The person introduces himself at Brennan Harbor Resort.
+Visual Key Event 2: The person is in a fish house, preparing to clean a fish with a sharp knife.
+Visual Key Event 3: The person begins to clean the fish, making an incision along the belly.
+Visual Key Event 4: The person continues to clean the fish, running the blade along the spine.
+Visual Key Event 5: The person discusses different methods of cleaning fish, demonstrating his preferred method.
+Visual Key Event 6: The person removes the other side of the fish fillet, staying close to the bone.
+Visual Key Event 7: The person discards the remaining fish parts into a bucket for seagulls.
+Visual Key Event 8: The person removes the rib cage from the fish fillet.
+Visual Key Event 9: The person removes the white bone from the fish fillet, making incisions along the bone.
+Visual Key Event 10: The person completes the removal of the white bone from the fish fillet.
+Visual Key Event 11: The person recaps the steps taken to clean the fish.
+Visual Key Event 12: The person removes the skin from the fish fillet, leaving a small piece for identification purposes.
+Visual Key Event 13: The person concludes the video, thanking viewers and directing them to the Brennan Harbor website.

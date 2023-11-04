@@ -1,0 +1,32 @@
+Subtitle Segmentation 1: {start words: "what's up you guys is", end words: "I need some deodorant this is dumb"}
+Subtitle Segmentation 2: {start words: "don't do no if you", end words: "you don't need to go but I Freddie"}
+Subtitle Segmentation 3: {start words: "you know heartbreak like no", end words: "boom you so close now"}
+Subtitle Segmentation 4: {start words: "you ain't got a have", end words: "you need some lotion because lotion is gonna say"}
+Subtitle Segmentation 5: {start words: "because in the morning time", end words: "keep me some lotion I will never be H"}
+Subtitle Segmentation 6: {start words: "know I like to moisturize", end words: "make sure my hair still a that you know period"}
+Subtitle Segmentation 7: {start words: "this me look personal size", end words: "you something about I'm kind of lip moisturizer or car make"}
+Subtitle Segmentation 8: {start words: "so cocoa butter whatever y'all", end words: "keep boosting here for homes girl a boy whatever"}
+Subtitle Segmentation 9: {start words: "because you're running her accessories", end words: "I want to use a scrunchie so bring go home"}
+Subtitle Segmentation 10: {start words: "so I bring tools in", end words: "you a girl you know the period we come and just pop it up sometimes"}
+Subtitle Segmentation 11: {start words: "sometimes but I always come", end words: "you at school Hey nothi bottom you want to feel how do you feel comfortable"}
+Subtitle Segmentation 12: {start words: "you already got read some", end words: "you know if you have to do it God do you gotta just go straight home"}
+Subtitle Segmentation 13: {start words: "getting shower baby trying their", end words: "I don't need it right now anyways we up like so"}
+Subtitle Segmentation 14: {start words: "just hand you some look", end words: "I love you guys and I will be [Music]"}
+
+Visual Key Event 1(non-visual): The speaker introduces herself and mentions that she needs deodorant.
+Visual Key Event 2(non-visual): The speaker advises against going to the gym without deodorant and mentions a person named Freddie.
+Visual Key Event 3(non-visual): The speaker talks about heartbreak and how close it can be.
+Visual Key Event 4(visual): The speaker shows a lotion she got from Bath and Body Works and emphasizes the importance of having lotion.
+Visual Key Event 5(non-visual): The speaker talks about her morning routine of putting on lotion after showering.
+Visual Key Event 6(visual): The speaker discusses her hair care routine and shows her hair products.
+Visual Key Event 7(visual): The speaker shows a personal size 24-hour timer edge tamer and talks about lip moisturizers.
+Visual Key Event 8(visual): The speaker shows her hair accessories and encourages viewers to keep boosting their hair.
+Visual Key Event 9(visual): The speaker shows her scrunchie and talks about the importance of having hair tools.
+Visual Key Event 10(non-visual): The speaker talks about periods and how they can suddenly start.
+Visual Key Event 11(non-visual): The speaker talks about the discomfort of having a period at school.
+Visual Key Event 12(visual): The speaker talks about the importance of changing pads and going straight home after school during a period.
+Visual Key Event 13(non-visual): The speaker talks about the need for pain relief during periods and shows a bottle of pain relief pills.
+Visual Key Event 14(non-visual): The speaker concludes the video by asking viewers to subscribe to her channel and expressing her love for them.
+
+Classification:
+Bad.

@@ -1,0 +1,38 @@
+Visual Event 1: The video starts with a person dancing.
+Start Time: 0.03 End Time: 15.43
+
+Visual Event 2: The person transitions to a kitchen setting, presumably preparing to cook.
+Start Time: 15.43 End Time: 25.97
+
+Visual Event 3: The person starts talking about their YouTube channel and the support they've received.
+Start Time: 25.97 End Time: 38.1
+
+Visual Event 4: The person introduces the dish they will be preparing - a five-minute tomato cream pasta.
+Start Time: 38.1 End Time: 57.23
+
+Visual Event 5: The person starts listing the ingredients needed for the dish.
+Start Time: 57.23 End Time: 102.039
+
+Visual Event 6: The person begins preparing the dish by chopping onions and garlic.
+Start Time: 102.039 End Time: 135.45
+
+Visual Event 7: The person continues to prepare the dish by adding the chopped onions and garlic to a pan with olive oil.
+Start Time: 135.45 End Time: 162.75
+
+Visual Event 8: The person adds the tomato paste and spices to the pan.
+Start Time: 162.75 End Time: 185.69
+
+Visual Event 9: The person adds cream to the pan, creating a creamy tomato sauce.
+Start Time: 185.69 End Time: 259.54
+
+Visual Event 10: The person adds the cooked pasta to the sauce and mixes it together.
+Start Time: 259.54 End Time: 385.2
+
+Visual Event 11: The person finishes the dish by adding parmesan, balsamic glaze, and fresh basil.
+Start Time: 385.2 End Time: 417.88
+
+Visual Event 12: The person tastes the finished dish and gives their approval.
+Start Time: 417.88 End Time: 529.55
+
+Visual Event 13: The video ends with the person encouraging viewers to like, subscribe, and try making the dish themselves.
+Start Time: 529.55 End Time: 541.49

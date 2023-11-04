@@ -1,0 +1,41 @@
+Visual Event 1: The video starts with the introduction of a 3D printed Captain Phasma helmet.
+Start Time: 0.06 End Time: 3.51
+
+Visual Event 2: The creator shows the individual pieces of the 3D printed helmet.
+Start Time: 3.51 End Time: 14.91
+
+Visual Event 3: The creator begins to assemble the helmet, starting from the top and working his way down.
+Start Time: 14.91 End Time: 40.77
+
+Visual Event 4: The front and back halves of the helmet are shown, including the eye cutouts.
+Start Time: 50.42 End Time: 58.43
+
+Visual Event 5: The creator sands down the edges of the pieces for a smooth finish.
+Start Time: 62.66 End Time: 82.659
+
+Visual Event 6: The creator glues the pieces together, but faces some difficulties in aligning them perfectly.
+Start Time: 84.759 End Time: 134.53
+
+Visual Event 7: The creator uses wood filler to smooth out the seams between the pieces.
+Start Time: 199.26 End Time: 220.959
+
+Visual Event 8: The creator tries on the helmet for the first time.
+Start Time: 228.579 End Time: 230.62
+
+Visual Event 9: The creator applies a coat of filler primer to the helmet to identify any imperfections.
+Start Time: 220.959 End Time: 247.87
+
+Visual Event 10: The creator applies a high gloss black paint to the helmet.
+Start Time: 270.4 End Time: 280.35
+
+Visual Event 11: The creator tapes off parts of the helmet that he wants to keep black, then sprays chrome paint over the rest.
+Start Time: 289.67 End Time: 312.91
+
+Visual Event 12: The creator creates an eye shield from a black acrylic sheet, which he heats and molds to fit the helmet.
+Start Time: 427.199 End Time: 468.06
+
+Visual Event 13: The creator adds padding to the inside of the helmet for comfort.
+Start Time: 511.24 End Time: 525.12
+
+Visual Event 14: The completed Captain Phasma helmet is shown.
+Start Time: 560.62 End Time: 601.67

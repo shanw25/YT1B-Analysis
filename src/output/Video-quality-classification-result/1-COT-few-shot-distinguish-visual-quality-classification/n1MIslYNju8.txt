@@ -1,0 +1,44 @@
+Subtitle Segmentation 1: {start words: "hey everyone life at pet", end words: "be in that"}
+Subtitle Segmentation 2: {start words: "so just a quick recap", end words: "layer of gravel over the top"}
+Subtitle Segmentation 3: {start words: "so the plants that we're", end words: "they're not that powerful"}
+Subtitle Segmentation 4: {start words: "so we did need plants", end words: "very quickly"}
+Subtitle Segmentation 5: {start words: "this is how the tank", end words: "hide in those"}
+Subtitle Segmentation 6: {start words: "so the plants obviously do", end words: "in no time at all"}
+Subtitle Segmentation 7: {start words: "take a look at some", end words: "a lot more as well"}
+Subtitle Segmentation 8: {start words: "so the next ones we", end words: "find them anywhere"}
+Subtitle Segmentation 9: {start words: "so we will be adding", end words: "quite social"}
+Subtitle Segmentation 10: {start words: "the next fish we added", end words: "such fast swimmers"}
+Subtitle Segmentation 11: {start words: "the next one we added", end words: "all on his own"}
+Subtitle Segmentation 12: {start words: "so the last fish we", end words: "in that respect"}
+Subtitle Segmentation 13: {start words: "so we're going to be", end words: "addition to the tank"}
+Subtitle Segmentation 14: {start words: "so all the fish we've", end words: "most community tanks"}
+Subtitle Segmentation 15: {start words: "a few days after setting", end words: "really really pleased about"}
+Subtitle Segmentation 16: {start words: "the fake plans at the", end words: "the look right now"}
+Subtitle Segmentation 17: {start words: "I've been asked several times", end words: "new growth on them as well"}
+Subtitle Segmentation 18: {start words: "so as an extended review", end words: "right top corner"}
+Subtitle Segmentation 19: {start words: "because the so few fish", end words: "that area"}
+Subtitle Segmentation 20: {start words: "I will say though the", end words: "already were"}
+Subtitle Segmentation 21: {start words: "I will be a lot", end words: "room to grow"}
+Subtitle Segmentation 22: {start words: "we'll be doing some in-depth", end words: "tuned for that"}
+Subtitle Segmentation 23: {start words: "once all the fish have", end words: "fully stocked"}
+Subtitle Segmentation 24: {start words: "if there are any other", end words: "down there for you"}
+Subtitle Segmentation 25: {start words: "okay guys that's it for", end words: "see you next time"}
+
+Visual Key Event 1(non-visual): The speaker introduces the final video of setting up a 75-gallon tank, recapping the previous videos and mentioning the items used.
+Visual Key Event 2(visual): The speaker describes the substrate used in the tank, including sand, eco complete, and gravel.
+Visual Key Event 3(visual): The speaker discusses the types of plants added to the tank, including Amazon sword, bacopa, lobelia cardinalis, and different types of anubius.
+Visual Key Event 4(visual): The speaker shows the growth of the plants over three weeks, highlighting the addition of a fake plant and the growth of water lettuce.
+Visual Key Event 5(visual): The speaker shows the fish added to the tank, including female betas, Cory's, clown loach, clown pleco, auto-sync 'less, Harlequin wrasse borås, and Denison Bob.
+Visual Key Event 6(visual): The speaker discusses the size requirements of the Denison Barb and the clown loach, and the community nature of the other fish.
+Visual Key Event 7(visual): The speaker discusses the impact of an ich outbreak on the plants and the subsequent recovery and growth.
+Visual Key Event 8(non-visual): The speaker discusses the temporary use of a fake plant for coverage and the future removal once the bacopa grows.
+Visual Key Event 9(non-visual): The speaker reviews the plants purchased from h2o plants, noting their survival and growth despite issues in the tank.
+Visual Key Event 10(non-visual): The speaker discusses the appearance of the tank, noting that it often looks empty due to the few fish.
+Visual Key Event 11(non-visual): The speaker discusses the behavior of the female betas, noting their acceptance of other fish and their laid-back nature.
+Visual Key Event 12(non-visual): The speaker discusses the future plans for the tank, including more planting and the addition of more fish.
+Visual Key Event 13(non-visual): The speaker discusses future videos, including care for the plants, feeding the community tank, treating ich, and a big update once all fish have been added.
+Visual Key Event 14(non-visual): The speaker asks for suggestions for future videos and asks viewers to share their favorite fish added to the tank.
+Visual Key Event 15(non-visual): The speaker concludes the video, thanking viewers for watching and asking for a thumbs up if they enjoyed it.
+
+Classification:
+Good.

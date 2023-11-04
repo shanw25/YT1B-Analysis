@@ -1,0 +1,38 @@
+Subtitle Segmentation 1: {start words: "hello house for Francis SEPA", end words: "that's why and this is it's kind of another case"}
+Subtitle Segmentation 2: {start words: "so I did want a", end words: "a very interesting color might I had it's a great deal very much is"}
+Subtitle Segmentation 3: {start words: "and first we'll take a", end words: "shout of the empire head to the Empire weather"}
+Subtitle Segmentation 4: {start words: "and I want there's only", end words: "to be honest and and there is some text up there coming onto the camera"}
+Subtitle Segmentation 5: {start words: "quite disappointing like he there's", end words: "shadows of the Empire and Star Wars of course pretty cool"}
+Subtitle Segmentation 6: {start words: "definitely warm I get some", end words: "this still is pretty cool"}
+Subtitle Segmentation 7: {start words: "and it was a very", end words: "you'll understand won't win it baby this is a really cool figure"}
+Subtitle Segmentation 8: {start words: "and like you just take", end words: "I think they've done a decent job"}
+Subtitle Segmentation 9: {start words: "and and I'll just show", end words: "swivel midriff and it's no so a waste cause she has a swivel midriff instead"}
+Subtitle Segmentation 10: {start words: "and swivel hips ball hinge", end words: "that much it's still a really cool figure though"}
+Subtitle Segmentation 11: {start words: "and that has almost at", end words: "is a very nice figure"}
+Subtitle Segmentation 12: {start words: "and but on to the", end words: "huge I can't even get half of it on camera to be honest"}
+Subtitle Segmentation 13: {start words: "just if they maybe get", end words: "nice so anyway on to the actual figure very cool"}
+Subtitle Segmentation 14: {start words: "no chip this is the", end words: "and ankles as well and really calm very nicely detailed as well"}
+Subtitle Segmentation 15: {start words: "just give you a zoom", end words: "very very well done anyway I should do it for the review in any case"}
+Subtitle Segmentation 16: {start words: "them he had a to", end words: "should still happen really cool figure"}
+Subtitle Segmentation 17: {start words: "five 8-layer bit 8 or", end words: "may the force be with you and happy hunting"}
+
+Visual Key Event 1(non-visual): The speaker introduces himself and explains why he bought the comic pack.
+Visual Key Event 2(visual): The speaker describes the comic pack, mentioning its unique figure and interesting color.
+Visual Key Event 3(visual): The speaker examines the packaging of the comic pack, pointing out the images and text.
+Visual Key Event 4(non-visual): The speaker discusses the other comic packs he saw and his thoughts on them.
+Visual Key Event 5(visual): The speaker shows the comic itself, commenting on its coolness.
+Visual Key Event 6(visual): The speaker introduces the first figure, Princess Leia, and comments on her appearance.
+Visual Key Event 7(visual): The speaker discusses the story of the comic and shows the Princess Leia figure in more detail.
+Visual Key Event 8(visual): The speaker removes an accessory from the figure to show it better and comments on the figure's details.
+Visual Key Event 9(visual): The speaker shows the accessory that comes with the figure and discusses its articulation.
+Visual Key Event 10(visual): The speaker continues discussing the figure's articulation and gives his opinion on it.
+Visual Key Event 11(non-visual): The speaker gives his final thoughts on the Princess Leia figure, calling it a very nice figure.
+Visual Key Event 12(visual): The speaker introduces the second figure, Caesar, and shows his accessory.
+Visual Key Event 13(visual): The speaker discusses the size of the accessory and moves on to the actual figure.
+Visual Key Event 14(visual): The speaker discusses the uniqueness of the Caesar figure and shows its articulation and details.
+Visual Key Event 15(visual): The speaker gives a close-up view of the figure and concludes his review.
+Visual Key Event 16(visual): The speaker shows the two figures side by side and discusses their price on Amazon.
+Visual Key Event 17(non-visual): The speaker gives his final ratings for the figures and ends his review with a Star Wars quote.
+
+Classification:
+Good.

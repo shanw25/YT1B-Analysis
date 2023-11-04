@@ -1,0 +1,32 @@
+Visual Event 1: The video starts with a man introducing himself and his everyday carry items.
+Start Time: 0.03 End Time: 8.55
+
+Visual Event 2: The man shows his glasses, explaining that he can't see well without them.
+Start Time: 8.55 End Time: 15.15
+
+Visual Event 3: The man presents his phone, indicating that he always carries it.
+Start Time: 15.15 End Time: 21.75
+
+Visual Event 4: The man shows a small flashlight he carries, explaining that he uses it daily.
+Start Time: 21.75 End Time: 30.5
+
+Visual Event 5: The man presents a small Winchester knife, explaining where he bought it and its use.
+Start Time: 30.5 End Time: 48.3
+
+Visual Event 6: The man shows another knife he used to carry, explaining why he stopped using it.
+Start Time: 48.3 End Time: 76.979
+
+Visual Event 7: The man shows a chapstick and a magnifier he carries, explaining their uses.
+Start Time: 76.979 End Time: 120.509
+
+Visual Event 8: The man presents his personal protection item, a MMP shield nine millimeter gun, explaining how he carries it.
+Start Time: 120.509 End Time: 162.69
+
+Visual Event 9: The man shows a bodyguard gun he carries in his chest pocket when he goes out in the morning.
+Start Time: 162.69 End Time: 214.14
+
+Visual Event 10: The man explains his safety measures when carrying guns, emphasizing the importance of gun safety.
+Start Time: 214.14 End Time: 388.3
+
+Visual Event 11: The man concludes the video, summarizing what he carries every day and inviting viewers to comment and subscribe.
+Start Time: 388.3 End Time: 468.55

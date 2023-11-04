@@ -1,0 +1,35 @@
+Subtitle Segmentation 1: {start words: "hi guys welcome to my", end words: "your own vegan chocolate chip cookies"}
+Subtitle Segmentation 2: {start words: "okay so let's begin I", end words: "this bowl right here so yeah let's go ahead and get started"}
+Subtitle Segmentation 3: {start words: "you probably use any and", end words: "1/2 a cup of cane sugar"}
+Subtitle Segmentation 4: {start words: "okay so I went ahead", end words: "taste that in the cookies"}
+Subtitle Segmentation 5: {start words: "okay I got her baking", end words: "get a very dull like consistency very thick looks sticky"}
+Subtitle Segmentation 6: {start words: "am i handsome of course", end words: "can't really get a good chorus take another taste"}
+Subtitle Segmentation 7: {start words: "mmm I need to add", end words: "she's the cutest three-year-old you'll ever meet"}
+Subtitle Segmentation 8: {start words: "let's see let's mix it", end words: "lined with parchment paper"}
+Subtitle Segmentation 9: {start words: "okay so clearly lyric is", end words: "these cookies are the [Music] you're going to set your oven for 350"}
+Subtitle Segmentation 10: {start words: "okay guys 350 red lining", end words: "get them okay my hands are a bit you see let me wash"}
+Subtitle Segmentation 11: {start words: "like this that's what they", end words: "I mean I think this is the best route"}
+Subtitle Segmentation 12: {start words: "and my family loves them", end words: "change it up can we see that in your hand"}
+Subtitle Segmentation 13: {start words: "it's just a cutest thing", end words: "waiting for the oven to come on it's like what do you do"}
+Subtitle Segmentation 14: {start words: "it until you try cookie", end words: "you love the cookie dough don't you"}
+Subtitle Segmentation 15: {start words: "okay so again don't want", end words: "put them in the oven now that it's warmed up or 8-minute"}
+Subtitle Segmentation 16: {start words: "now taking out the cars", end words: "these are all cooled off we'll go ahead and test them out see how"}
+Subtitle Segmentation 17: {start words: "[Music] yes just pose in", end words: "say bye guys"}
+
+Visual Key Event 1(non-visual): The host introduces the video and promises to show viewers how to make chewy vegan chocolate chip cookies.
+Visual Key Event 2(visual): The host begins the process by showing the ingredients needed for the cookies.
+Visual Key Event 3(visual): The host starts the baking process by melting vegan butter and adding sugars.
+Visual Key Event 4(visual): The host adds almond milk, vanilla extract, and baking soda to the mixture and mixes it.
+Visual Key Event 5(visual): The host adds flour to the mixture and mixes it until it becomes a thick dough.
+Visual Key Event 6(visual): The host and her daughter taste the dough and add chocolate chips to it.
+Visual Key Event 7(visual): The host and her daughter continue to mix the dough with the added chocolate chips.
+Visual Key Event 8(visual): The host prepares a baking dish lined with parchment paper.
+Visual Key Event 9(visual): The host sets the oven to 350 degrees and forms the dough into balls.
+Visual Key Event 10(visual): The host places the dough balls on the baking dish and prepares to put them in the oven.
+Visual Key Event 11(visual): The host discusses the health benefits of the cookies and her personal modifications to the original recipe.
+Visual Key Event 12(visual): The host and her daughter continue to prepare the cookies for baking.
+Visual Key Event 13(visual): The host and her daughter wait for the oven to preheat.
+Visual Key Event 14(visual): The host and her daughter enjoy eating the raw cookie dough.
+Visual Key Event 15(visual): The host puts the cookies in the oven to bake for 8 minutes.
+Visual Key Event 16(visual): The host takes the cookies out of the oven and allows them to cool before testing them.
+Visual Key Event 17(visual): The host and her daughter taste the finished cookies and give them a thumbs up.

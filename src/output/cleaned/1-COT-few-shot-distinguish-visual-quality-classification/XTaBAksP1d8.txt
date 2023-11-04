@@ -1,0 +1,7 @@
+Visual Key Event 1(visual): The video starts with a morning routine, including preparing breakfast.
+Visual Key Event 3(visual): The mother has to return to the car to feed Elizabeth as the church doesn't have a suitable room available.
+Visual Key Event 4(visual): The mother anticipates returning to the church in time for the children's story time.
+Visual Key Event 5(visual): The mother finds a suitable room in the church to feed Elizabeth and socialize.
+Visual Key Event 6(visual): The family successfully completes their first day at church with Elizabeth, who behaved well throughout the day.
+Visual Key Event 7(visual): The family enjoys a day out at the park, noting the pleasant weather.
+Visual Key Event 8(visual): The family returns home, where Elizabeth is changed and ready to relax and watch a movie.

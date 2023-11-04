@@ -1,0 +1,5 @@
+Visual Key Event 5(visual): Darcy retrieves the first crab trap and finds a crab inside, which she determines is a keeper.
+Visual Key Event 6(visual): Darcy removes the crab's claw and releases it back into the water, explaining that the claw will grow back.
+Visual Key Event 7(visual): Darcy checks the second trap, which is empty, and then moves on to the third trap.
+Visual Key Event 8(visual): Darcy retrieves the third trap, which contains three stone crabs, and removes the claws of the keeper crabs.
+Visual Key Event 9(visual): Darcy accidentally cuts herself while preparing bait for the crab traps.

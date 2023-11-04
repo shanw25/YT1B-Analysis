@@ -1,0 +1,34 @@
+Subtitle Segmentation 1: {start words: "good morning everyone it is", end words: "it's just not happening"}
+Subtitle Segmentation 2: {start words: "and then I feel disappointed", end words: "wake up anyway so um"}
+Subtitle Segmentation 3: {start words: "yeah I think trying to", end words: "morning or something a little bit later"}
+Subtitle Segmentation 4: {start words: "with it doesn't have to", end words: "I my sleep I'm being too aggravated"}
+Subtitle Segmentation 5: {start words: "everybody want to do like", end words: "some almond milk so that's one point"}
+Subtitle Segmentation 6: {start words: "that's it two points today", end words: "on with our day so i'll show you lunch when they have it"}
+Subtitle Segmentation 7: {start words: "and i'll see you then", end words: "I got myself a big ice water"}
+Subtitle Segmentation 8: {start words: "um we're having a pie", end words: "I got some pop chips"}
+Subtitle Segmentation 9: {start words: "oh it's always good for", end words: "I spent about fifty dollars for all this stuff"}
+Subtitle Segmentation 10: {start words: "and i'll show you lunch", end words: "I drink it faster so do what works for you"}
+Subtitle Segmentation 11: {start words: "and water is for usually", end words: "20 points for dinner tomorrow"}
+Subtitle Segmentation 12: {start words: "we're gonna do my mom", end words: "I'll see you guys back"}
+Subtitle Segmentation 13: {start words: "hey guys it is the", end words: "I'll be right there kids are about to get out back"}
+Subtitle Segmentation 14: {start words: "so I'm going into here", end words: "how it goes i might not make it but that's okay"}
+Subtitle Segmentation 15: {start words: "it's low life but in", end words: "see you all tomorrow"}
+
+Visual Key Event 1(non-visual): The speaker discusses her struggle with waking up early for the gym and considers alternative workout times.
+Visual Key Event 2(non-visual): The speaker expresses her disappointment with not being able to wake up early and considers working out at night.
+Visual Key Event 3(non-visual): The speaker decides to try working out at night and plans to fit it into her schedule.
+Visual Key Event 4(non-visual): The speaker discusses her tiredness and the challenges of being a mom.
+Visual Key Event 5(visual): The speaker prepares and drinks a green smoothie.
+Visual Key Event 6(non-visual): The speaker discusses her plans for the day and promises to show her lunch later.
+Visual Key Event 7(visual): The speaker goes shopping and shows the items she bought.
+Visual Key Event 8(visual): The speaker continues to show the items she bought from the store.
+Visual Key Event 9(non-visual): The speaker discusses the cost of her shopping trip.
+Visual Key Event 10(visual): The speaker prepares and eats a sandwich for lunch.
+Visual Key Event 11(non-visual): The speaker discusses her meal plan for the day and the upcoming family weekend.
+Visual Key Event 12(non-visual): The speaker discusses her plans for the evening with her family.
+Visual Key Event 13(non-visual): The speaker discusses her dinner and her plans for the rest of the night.
+Visual Key Event 14(non-visual): The speaker discusses her plans for the gym the next day and her acceptance if she doesn't make it.
+Visual Key Event 15(non-visual): The speaker reflects on her day, expressing satisfaction with her healthy eating and steps count, and signs off for the day.
+
+Classification:
+Good.

@@ -1,0 +1,53 @@
+Visual Event 1: The video starts with a comparison of two compact speakers.
+Start Time: 0.06 End Time: 8.579
+
+Visual Event 2: The 2012 Yamaha DX r8 speaker is shown.
+Start Time: 3.57 End Time: 14.21
+
+Visual Event 3: The 2017 QSC k8.2 speaker is shown.
+Start Time: 8.639 End Time: 20.91
+
+Visual Event 4: The similarities between the two speakers are discussed, including their construction and features.
+Start Time: 14.21 End Time: 50.579
+
+Visual Event 5: The video shows the speakers' dual pull cup and rubber feet.
+Start Time: 50.579 End Time: 54.899
+
+Visual Event 6: The video shows the speakers' LED indicators and inputs.
+Start Time: 71.85 End Time: 85.35
+
+Visual Event 7: The video shows the speakers' fan-cooling system and subwoofer crossovers.
+Start Time: 92.549 End Time: 111.44
+
+Visual Event 8: The video shows the Yamaha DX r8 powering on faster than the QSC.
+Start Time: 111.44 End Time: 115.43
+
+Visual Event 9: The video shows the Yamaha DX r8's construction and sound quality.
+Start Time: 136.85 End Time: 147.23
+
+Visual Event 10: The video shows the QSC k8.2's additional features.
+Start Time: 152.03 End Time: 162.74
+
+Visual Event 11: The video shows the QSC k8.2's wedge design for use as a monitor.
+Start Time: 162.74 End Time: 173.09
+
+Visual Event 12: The video compares the power output of the two speakers.
+Start Time: 182.87 End Time: 204.5
+
+Visual Event 13: The video shows the dispersion of sound from the two speakers.
+Start Time: 230.84 End Time: 242.78
+
+Visual Event 14: The video discusses the warranties of the two speakers.
+Start Time: 249.44 End Time: 259.789
+
+Visual Event 15: The video shows the locking connectors and inputs of the QSC k8.2.
+Start Time: 262.18 End Time: 285.49
+
+Visual Event 16: The video shows the digital signal processing options of the two speakers.
+Start Time: 341.11 End Time: 396.92
+
+Visual Event 17: The video shows a size comparison between the QSC k8.2 and a K 12.2.
+Start Time: 441.05 End Time: 450.56
+
+Visual Event 18: The video concludes with a summary of the two speakers' features and recommendations for different users.
+Start Time: 453.54 End Time: 479.729

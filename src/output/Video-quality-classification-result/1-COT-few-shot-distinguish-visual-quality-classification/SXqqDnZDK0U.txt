@@ -1,0 +1,28 @@
+Subtitle Segmentation 1: {start words: "hi friends John siwash with", end words: "what's going on in your class"}
+Subtitle Segmentation 2: {start words: "now we're gonna be doing", end words: "customize it however you wish"}
+Subtitle Segmentation 3: {start words: "all right let's get started", end words: "master switch but I don't recommend that"}
+Subtitle Segmentation 4: {start words: "gonna be a little more", end words: "the notifications"}
+Subtitle Segmentation 5: {start words: "now let's scroll down to", end words: "that question quickly"}
+Subtitle Segmentation 6: {start words: "so i would leave that", end words: "the most attention to in my courses"}
+Subtitle Segmentation 7: {start words: "now let's scroll down to", end words: "the other two might be a little noisy"}
+Subtitle Segmentation 8: {start words: "but I would definitely leave", end words: "the middle of the night"}
+Subtitle Segmentation 9: {start words: "a little tip I've heard", end words: "communicate your policy to your students"}
+Subtitle Segmentation 10: {start words: "the last two are pretty", end words: "be very common"}
+Subtitle Segmentation 11: {start words: "now we have one more", end words: "disable those as well"}
+Subtitle Segmentation 12: {start words: "now one final reminder before", end words: "Google classroom notification avalanche"}
+
+Visual Key Event 1(non-visual): John Siwash introduces the topic of managing Google Classroom notifications to avoid being overwhelmed.
+Visual Key Event 2(visual): John opens Google Classroom on his web browser and explains that notification settings can be adjusted on both web and mobile versions.
+Visual Key Event 3(visual): John navigates to the settings menu in Google Classroom and explains the function of the master switch for notifications.
+Visual Key Event 4(visual): John explains how to selectively adjust notification settings for different types of activity in Google Classroom.
+Visual Key Event 5(visual): John recommends disabling notifications for comments on posts, but leaving on notifications for mentions and private comments.
+Visual Key Event 6(non-visual): John emphasizes the importance of responding quickly to private comments from students.
+Visual Key Event 7(visual): John discusses the default notification settings for students and recommends leaving most of them on.
+Visual Key Event 8(non-visual): John advises teachers to set a specific due time for assignments to avoid late-night notifications for students.
+Visual Key Event 9(visual): John recommends disabling notifications for late submissions and resubmissions, and discusses how to handle late work.
+Visual Key Event 10(non-visual): John discusses the last two notification settings, which are infrequent and can be left on.
+Visual Key Event 11(visual): John explains how co-teachers and administrators can disable notifications for specific classes they are observing or supporting.
+Visual Key Event 12(non-visual): John reminds viewers to adjust notification settings on both their mobile devices and web browsers, and concludes the tutorial.
+
+Classification:
+Good.

@@ -1,0 +1,21 @@
+Visual Event 1: The video starts with a comparison of two compact speakers. Start time: 0.06 End time: 3.57
+Visual Event 2: The 2012 Yamaha DX r8 speaker is shown. Start time: 3.57 End time: 8.639
+Visual Event 3: The 2017 QSC k8.2 speaker is introduced and shown. Start time: 8.639 End time: 14.21
+Visual Event 4: The similarities between the two speakers are discussed, possibly with visual demonstrations. Start time: 14.21 End time: 29.22
+Visual Event 5: The specifications of the Yamaha speaker are shown. Start time: 29.22 End time: 35.73
+Visual Event 6: The specifications of the QSC speaker are shown. Start time: 35.73 End time: 41.879
+Visual Event 7: The construction and design features of both speakers are shown. Start time: 41.879 End time: 56.84
+Visual Event 8: The speaker's tilt and rigging options are demonstrated. Start time: 56.84 End time: 68.67
+Visual Event 9: The LED indicators and input options of both speakers are shown. Start time: 68.67 End time: 85.35
+Visual Event 10: The cooling and crossover features of both speakers are discussed, possibly with visual demonstrations. Start time: 85.35 End time: 111.44
+Visual Event 11: The power-on speed of the Yamaha speaker is shown. Start time: 111.44 End time: 131.77
+Visual Event 12: The video transitions to a discussion of the Yamaha DX r8's performance over the past four years. Start time: 131.77 End time: 152.03
+Visual Event 13: The additional features of the QSC k8.2 series are introduced and shown. Start time: 152.03 End time: 162.74
+Visual Event 14: The wedge design of the QSC speaker is shown. Start time: 162.74 End time: 179.42
+Visual Event 15: The power output of both speakers is compared. Start time: 179.42 End time: 198.41
+Visual Event 16: The dispersion of both speakers is compared. Start time: 230.84 End time: 246.23
+Visual Event 17: The warranty details of both speakers are discussed. Start time: 246.23 End time: 259.789
+Visual Event 18: The locking connectors and input options of both speakers are shown. Start time: 259.789 End time: 341.11
+Visual Event 19: The digital signal processing options of both speakers are compared. Start time: 341.11 End time: 415.1
+Visual Event 20: A size comparison between the QSC k8.2 and a K 12.2 is shown. Start time: 441.05 End time: 450.56
+Visual Event 21: The video concludes with a summary and recommendation. Start time: 450.56 End time: 479.729

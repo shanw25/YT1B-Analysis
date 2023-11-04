@@ -1,0 +1,18 @@
+Subtitle Segmentation 1: {start words: "thank you that's right I'm", end words: "with him for life"}
+Subtitle Segmentation 2: {start words: "and so as I moved", end words: "body being burned"}
+Subtitle Segmentation 3: {start words: "10 years ago this month", end words: "scars will never leave him"}
+Subtitle Segmentation 4: {start words: "so as a surgeon when", end words: "interface to the world"}
+Subtitle Segmentation 5: {start words: "we look at this we", end words: "begin in 18 minutes to talk about"}
+Subtitle Segmentation 6: {start words: "so how what do we", end words: "if it were communicated visually"}
+Subtitle Segmentation 7: {start words: "once that person has engaged", end words: "if it were communicated visually"}
+
+Visual Key Event 1(non-visual): Fiona Wood, a plastic and reconstructive surgeon, introduces herself and shares her 30-year experience in treating burn injuries, recalling a particular case of a young child severely scarred from a coffee burn.
+Visual Key Event 2(non-visual): Fiona discusses the pain and suffering of burn victims, including the long and painful healing process.
+Visual Key Event 3(visual): Fiona recounts the story of a survivor of the Bali bombings, who suffered severe burns and injuries but managed to recover over several years.
+Visual Key Event 4(non-visual): Fiona discusses the importance and functions of skin, and the challenges of repairing it when it's damaged.
+Visual Key Event 5(visual): Fiona explains the process of skin grafting and how they've managed to grow skin cells into sheets to treat burn victims.
+Visual Key Event 6(visual): Fiona discusses the development of a method to deliver viable skin cells to the surface of a burn wound using a syringe.
+Visual Key Event 7(non-visual): Fiona discusses the future of burn treatment, including the potential of self-organizing systems and the role of the brain in healing.
+
+Classification:
+Good.

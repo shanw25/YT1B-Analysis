@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "what's up guys so the", end words: "liquid nitrogen and see if they survived"}
+Subtitle Segmentation 2: {start words: "for how long really in", end words: "crunch it up just like that interesting"}
+Subtitle Segmentation 3: {start words: "here is a sponge I", end words: "that's crazy and the iPhone sturdy nothing really wrong"}
+Subtitle Segmentation 4: {start words: "we'll the clone iPhone anyways", end words: "I guess not enough with the tests"}
+Subtitle Segmentation 5: {start words: "let's do the final one", end words: "I think it's toast Oh battery died connect the battery"}
+Subtitle Segmentation 6: {start words: "look it has the camera", end words: "really really frosty time for you Samsung Galaxy"}
+Subtitle Segmentation 7: {start words: "see if we cannot get", end words: "the whole front of the phone cracked"}
+Subtitle Segmentation 8: {start words: "check this out it just", end words: "I can't even physically press it out I guess will give me some time"}
+Subtitle Segmentation 9: {start words: "the both are still absolutely", end words: "no such luck anymore let's try this one now"}
+Subtitle Segmentation 10: {start words: "I think that's it I", end words: "more or less it's warmed up"}
+Subtitle Segmentation 11: {start words: "alright so it's been about", end words: "a bunch of spiderweb cracks very interesting"}
+Subtitle Segmentation 12: {start words: "but alright guys so there", end words: "how it shatters"}
+Subtitle Segmentation 13: {start words: "so this is the Samsung", end words: "alright guys peace"}
+
+Visual Key Event 1(non-visual): The speaker introduces the Samsung Galaxy S8 and plans to test its durability with liquid nitrogen.
+Visual Key Event 2(visual): The speaker demonstrates the effects of liquid nitrogen on a flower and a sponge, showing how it freezes and breaks them.
+Visual Key Event 3(visual): The speaker tests the iPhone with liquid nitrogen, observing its reactions.
+Visual Key Event 4(non-visual): The speaker expresses surprise at the iPhone's resilience and decides to proceed with the final test.
+Visual Key Event 5(visual): The speaker immerses the iPhone 7 in liquid nitrogen, observing its reactions and eventual shutdown.
+Visual Key Event 6(visual): The speaker observes the iPhone's camera logo burn-in and sets it aside to recover.
+Visual Key Event 7(visual): The speaker immerses the Samsung Galaxy in liquid nitrogen, observing its reactions and eventual shutdown.
+Visual Key Event 8(visual): The speaker observes the physical damage to the Samsung Galaxy, including a cracked front and detached cover.
+Visual Key Event 9(non-visual): The speaker allows both phones to thaw and attempts to power them on.
+Visual Key Event 10(non-visual): The speaker allows more time for the phones to recover.
+Visual Key Event 11(visual): The speaker powers on both phones, observing their conditions and noting the Samsung Galaxy's need for a new display.
+Visual Key Event 12(non-visual): The speaker concludes that liquid nitrogen is not good for the Galaxy or iPhone, but notes the iPhone's resilience.
+Visual Key Event 13(visual): The speaker conducts a final test on the Samsung Galaxy S8 Plus, observing its reactions to liquid nitrogen and its eventual destruction.
+
+Classification:
+Good.

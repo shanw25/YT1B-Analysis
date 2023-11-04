@@ -1,0 +1,21 @@
+Subtitle Segmentation 1: {start words: "hi my sweet friends and", end words: "pearl and glitter let's take a closer look"}
+Subtitle Segmentation 2: {start words: "miss a close-up there's a", end words: "letting me to open it"}
+Subtitle Segmentation 3: {start words: "hey get in there let's", end words: "little wings on the back and there is the little D"}
+Subtitle Segmentation 4: {start words: "how cute super cute oh", end words: "open it fast oh really"}
+Subtitle Segmentation 5: {start words: "oh my goodness she's adorable", end words: "pile of video shoot so we"}
+Subtitle Segmentation 6: {start words: "I was hoping I would", end words: "this is the greater one"}
+Subtitle Segmentation 7: {start words: "oh we got two blue", end words: "finish and the standard one"}
+Subtitle Segmentation 8: {start words: "oh they're so cute okay", end words: "glitter finish whoa that is awesome"}
+Subtitle Segmentation 9: {start words: "so cute I love it", end words: "standard finish very very cute"}
+Subtitle Segmentation 10: {start words: "so here all ourselves and", end words: "next time bye you"}
+
+Visual Key Event 1(non-visual): The host introduces the video and explains that they will be opening five delft mystery mushrooms, which are collectible toys with different finishes.
+Visual Key Event 2(visual): The host shows a close-up of the mystery mushroom packaging, highlighting its pink and green colors.
+Visual Key Event 3(visual): The host opens the first mystery mushroom, revealing a toy with a heart design and wings.
+Visual Key Event 4(non-visual): The host comments on the cuteness of the toy and mentions a collector's guide.
+Visual Key Event 5(visual): The host opens another mystery mushroom, revealing a different toy and expressing surprise at its appearance.
+Visual Key Event 6(visual): The host opens more mystery mushrooms, comparing the different finishes of the toys.
+Visual Key Event 7(visual): The host reveals two blue toys with different finishes, expressing understanding of the different types.
+Visual Key Event 8(visual): The host opens the final mystery mushrooms, revealing a green toy and a glittery toy, expressing delight at their appearances.
+Visual Key Event 9(non-visual): The host comments on the cuteness of the toys and their different finishes.
+Visual Key Event 10(non-visual): The host concludes the video, expressing satisfaction at having collected all the finishes and asking viewers to share their favorite toy in the comments.

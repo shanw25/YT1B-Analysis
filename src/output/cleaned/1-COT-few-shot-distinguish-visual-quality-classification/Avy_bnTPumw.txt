@@ -1,0 +1,11 @@
+Visual Key Event 2(visual): The group starts fishing and catches a decent-sized fish, which they identify as a calico bass.
+Visual Key Event 3(visual): The group continues fishing, catching another calico bass which they describe as beautiful and fired up.
+Visual Key Event 4(visual): The group loses a fish but hopes it will come back for the bait.
+Visual Key Event 5(visual): The group catches another calico bass after losing it three times.
+Visual Key Event 6(visual): The group continues fishing, catching another calico bass.
+Visual Key Event 7(visual): The group catches another calico bass, commenting on its teeth.
+Visual Key Event 8(visual): The group keeps fishing, catching another fish.
+Visual Key Event 9(visual): The group catches another calico bass.
+Visual Key Event 10(visual): The group catches a barracuda, which they refer to as a "coot."
+Visual Key Event 11(visual): The group releases the barracuda back into the water.
+Visual Key Event 12(visual): The group catches a bat ray, which they refer to as a "mud marlin."

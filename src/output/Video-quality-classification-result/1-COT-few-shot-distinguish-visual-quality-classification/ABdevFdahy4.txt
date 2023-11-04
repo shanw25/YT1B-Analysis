@@ -1,0 +1,38 @@
+Subtitle Segmentation 1: {start words: "I will give a shout", end words: "delve a little bit further into it"}
+Subtitle Segmentation 2: {start words: "right do you want to", end words: "that player was that amazing"}
+Subtitle Segmentation 3: {start words: "so yeah it still to", end words: "don't really need to worry about relegation"}
+Subtitle Segmentation 4: {start words: "I think Danny ings has", end words: "best wingers in the league"}
+Subtitle Segmentation 5: {start words: "I mean Newcastle that with", end words: "he's very good"}
+Subtitle Segmentation 6: {start words: "who else has been greatly", end words: "I thought yeah"}
+Subtitle Segmentation 7: {start words: "I think the the biggest", end words: "most goals in the Premier League"}
+Subtitle Segmentation 8: {start words: "along with all those ball", end words: "best return yeah yeah yeah"}
+Subtitle Segmentation 9: {start words: "so for me he stood", end words: "has so much maturity as well"}
+Subtitle Segmentation 10: {start words: "yeah it's been nuts oh", end words: "been a different animal since they returned"}
+Subtitle Segmentation 11: {start words: "since after the restart he's", end words: "Premier League yeah"}
+Subtitle Segmentation 12: {start words: "I think it's almost there's", end words: "they're blowing it yeah"}
+Subtitle Segmentation 13: {start words: "absolutely gonna absolutely blow it", end words: "the most improved since the restart for sure"}
+Subtitle Segmentation 14: {start words: "I don't know if we", end words: "as he has Raheem Sterling"}
+Subtitle Segmentation 15: {start words: "yeah stood out like I", end words: "I'm gonna go with Kristian portage"}
+Subtitle Segmentation 16: {start words: "yep I think he's been", end words: "them anymore any other names to throw into the mix"}
+Subtitle Segmentation 17: {start words: "I mean a lot of", end words: "they're hanging on there yeah"}
+Subtitle Segmentation 18: {start words: "that's the thing with missing", end words: "they've done pretty good"}
+Subtitle Segmentation 19: {start words: "anyway those are our most", end words: "we will see you guys later"}
+
+Visual Key Event 1(non-visual): The hosts introduce the topic of the video, which is a Q&A session about footballers who have improved since the restart of the Premier League.
+Visual Key Event 2(non-visual): The hosts discuss the fear that some players might not perform as well after the restart, but note that many have continued to be great.
+Visual Key Event 3(non-visual): The hosts highlight the performance of Danny Ings, who has been brilliant before and after the lockdown.
+Visual Key Event 4(non-visual): The hosts discuss the improvement of Alan Saint-Maximin at Newcastle, noting his increasing comfort and confidence in each game.
+Visual Key Event 5(non-visual): The hosts discuss other players who have been great, including Leandro Trossard at Brighton and Mason Greenwood.
+Visual Key Event 6(non-visual): The hosts discuss the surprising performance of Anthony Martial, who has been consistent and is now among the top goal scorers in the Premier League.
+Visual Key Event 7(non-visual): The hosts discuss the performance of Mason Greenwood, who has been impressive since the restart.
+Visual Key Event 8(non-visual): The hosts discuss the performance of Leon Goretzka at Bayern and Sergio Ramos at Real Madrid, noting that they have been brilliant since the restart.
+Visual Key Event 9(non-visual): The hosts discuss the drop-off in performance of some teams since the restart, including Leicester and Liverpool.
+Visual Key Event 10(non-visual): The hosts discuss the improvement of Christian Pulisic, who has become a starter for Chelsea and has been impressive in every game.
+Visual Key Event 11(non-visual): The hosts discuss the consistent performance of Raheem Sterling, who has been scoring many goals.
+Visual Key Event 12(non-visual): The hosts conclude that the most improved player since the restart is Christian Pulisic.
+Visual Key Event 13(non-visual): The hosts discuss other players who have been good, including those from Wolves and Sheffield United.
+Visual Key Event 14(non-visual): The hosts discuss the performance of some teams, noting that Sheffield United has managed to hold on to their position despite some losses.
+Visual Key Event 15(non-visual): The hosts conclude the video by asking viewers to share their thoughts on the most improved players of the season.
+
+Classification:
+Good.

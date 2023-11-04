@@ -1,0 +1,27 @@
+Subtitle Segmentation 1: {start words: "but when a dance with", end words: "likes and subscribes and support it's meant a lot"}
+Subtitle Segmentation 2: {start words: "also last week I took", end words: "so let's kick this off"}
+Subtitle Segmentation 3: {start words: "all right everyone so let's", end words: "let's just dive in and let's make this pasta"}
+Subtitle Segmentation 4: {start words: "alright guys so as I", end words: "pleasant background mode"}
+Subtitle Segmentation 5: {start words: "alright once we've done the", end words: "the rest of the pasta"}
+Subtitle Segmentation 6: {start words: "all right so what I", end words: "my pasta sauce will also be done"}
+Subtitle Segmentation 7: {start words: "the next that's going in", end words: "what that looks like"}
+Subtitle Segmentation 8: {start words: "alright so once we stir", end words: "come together let me give you another view of what this looks like"}
+Subtitle Segmentation 9: {start words: "right so again a little", end words: "look at that beauty"}
+Subtitle Segmentation 10: {start words: "all right so our sauce", end words: "mix that together No so amazing"}
+Subtitle Segmentation 11: {start words: "alright guys so I have", end words: "this amazing creamy sauce"}
+Subtitle Segmentation 12: {start words: "alright guys we have our", end words: "fresh chopped basil amazing"}
+Subtitle Segmentation 13: {start words: "alright guys so I promise", end words: "I'll see you guys on next video"}
+
+Visual Key Event 1(non-visual): The host expresses gratitude for the support and reveals that the viewers voted for a pasta recipe.
+Visual Key Event 2(non-visual): The host introduces the recipe for a five-minute tomato cream pasta.
+Visual Key Event 3(visual): The host lists and shows the ingredients needed for the recipe.
+Visual Key Event 4(visual): The host chops the onion and garlic for the pasta sauce.
+Visual Key Event 5(visual): The host moves to the stove to start cooking the pasta.
+Visual Key Event 6(visual): The host starts cooking the pasta and the sauce simultaneously.
+Visual Key Event 7(visual): The host adds garlic and tomato paste to the pan.
+Visual Key Event 8(visual): The host adds salt, pepper, and cream to the tomato paste mixture.
+Visual Key Event 9(visual): The host continues to add cream to the sauce until it reaches the desired consistency.
+Visual Key Event 10(visual): The host adds grated parmesan to the sauce and reduces the heat.
+Visual Key Event 11(visual): The host adds the cooked pasta to the sauce and mixes it until the pasta is fully coated.
+Visual Key Event 12(visual): The host garnishes the pasta with more parmesan, balsamic glaze, and fresh basil.
+Visual Key Event 13(non-visual): The host tastes the pasta and encourages viewers to try the recipe.

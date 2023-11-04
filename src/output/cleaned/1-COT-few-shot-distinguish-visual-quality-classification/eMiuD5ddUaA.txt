@@ -1,0 +1,15 @@
+Visual Key Event 1(visual): The family is packing their car, preparing for their cruise trip.
+Visual Key Event 2(visual): They are planning to go to Fort Lauderdale and stay at the sister's house which is near the cruise ship.
+Visual Key Event 3(visual): The family is checking and rechecking their belongings, ensuring they have everything they need for the trip.
+Visual Key Event 4(visual): They are packing the car and preparing to leave for the trip.
+Visual Key Event 5(visual): The family is on their way to the cruise, stopping by the mall in Fort Lauderdale.
+Visual Key Event 7(visual): They arrive at Sawgrass mall and explore the area.
+Visual Key Event 8(visual): The family walks around the mall and then goes to Target to pick up some last-minute items for the cruise.
+Visual Key Event 9(visual): They shop at Target, picking out matching pajamas and other items.
+Visual Key Event 10(visual): The family arrives at grandma's house and enjoys some time in the pool.
+Visual Key Event 11(visual): It's cruise day and the family is rushing to get to the ship.
+Visual Key Event 12(visual): The family is waiting to board the ship, playing in a jungle gym to pass the time.
+Visual Key Event 13(visual): They are exploring the ship, checking out the shops, bars, sports courts, theaters, and other amenities.
+Visual Key Event 14(visual): The family is walking through Central Park on the ship and getting ready to eat at the buffet.
+Visual Key Event 15(visual): They are enjoying their first buffet on the ship and marveling at the size of the ship.
+Visual Key Event 16(visual): The family is giving a tour of their room on the ship, showing off the bathroom, bed, closet, and other features.

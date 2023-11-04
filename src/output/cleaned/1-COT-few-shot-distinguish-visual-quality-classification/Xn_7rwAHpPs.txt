@@ -1,0 +1,7 @@
+Visual Key Event 2(visual): The instructor starts the workout with running in place and jumping jacks.
+Visual Key Event 3(visual): The instructor demonstrates jump squats, counting up to 30.
+Visual Key Event 5(visual): The instructor resumes the workout with another set of jump squats.
+Visual Key Event 6(visual): The instructor takes a deep breath and demonstrates a leg stretch.
+Visual Key Event 7(visual): The instructor demonstrates a knee-cross exercise, followed by a Child's Pose stretch.
+Visual Key Event 9(visual): The instructor challenges viewers to do 100 of the previous exercise.
+Visual Key Event 10(visual): The instructor takes a break with side-to-side leg stretches before resuming the workout.

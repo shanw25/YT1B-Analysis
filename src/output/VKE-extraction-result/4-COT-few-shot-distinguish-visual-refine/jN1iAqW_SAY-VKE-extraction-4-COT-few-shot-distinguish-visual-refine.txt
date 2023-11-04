@@ -1,0 +1,27 @@
+Subtitle Segmentation 1: {start words: "but when a dance with", end words: "likes and subscribes and support"}
+Subtitle Segmentation 2: {start words: "it's meant a lot also", end words: "so let's kick this off"}
+Subtitle Segmentation 3: {start words: "[Music] all right everyone so", end words: "let's just dive in and let's make this pasta"}
+Subtitle Segmentation 4: {start words: "alright guys so as I", end words: "pleasant background mode [Music]"}
+Subtitle Segmentation 5: {start words: "alright once we've done the", end words: "the rest of the pasta"}
+Subtitle Segmentation 6: {start words: "all right so what I", end words: "my pasta sauce will also be done"}
+Subtitle Segmentation 7: {start words: "the next that's going in", end words: "what that looks like"}
+Subtitle Segmentation 8: {start words: "alright so once we stir", end words: "come together let me give you another view of what this looks like"}
+Subtitle Segmentation 9: {start words: "right so again a little", end words: "look at that beauty"}
+Subtitle Segmentation 10: {start words: "all right so our sauce", end words: "mix that together No so amazing"}
+Subtitle Segmentation 11: {start words: "alright guys so I have", end words: "this amazing creamy sauce"}
+Subtitle Segmentation 12: {start words: "alright guys we have our", end words: "fresh chopped basil amazing"}
+Subtitle Segmentation 13: {start words: "alright guys so I promise", end words: "I'll see you guys on next video [Music]"}
+
+Visual Key Event 1: The person is dancing and singing to a song.
+Visual Key Event 2: The person thanks the viewers for their support and announces the cooking of a pasta dish.
+Visual Key Event 3: The person introduces the ingredients needed for the pasta dish.
+Visual Key Event 4: The person starts the preparation by chopping onions and garlic.
+Visual Key Event 5: The person finishes the preparation and moves to the stove.
+Visual Key Event 6: The person starts cooking by heating up the pan and boiling the pasta.
+Visual Key Event 7: The person adds garlic and tomato paste to the pan.
+Visual Key Event 8: The person stirs the mixture and adds salt and pepper.
+Visual Key Event 9: The person gradually adds cream to the mixture and stirs until it forms a pink creamy sauce.
+Visual Key Event 10: The person adds grated parmesan to the sauce and stirs.
+Visual Key Event 11: The person adds the cooked pasta to the sauce and mixes until the pasta is covered with sauce.
+Visual Key Event 12: The person garnishes the pasta with more parmesan, balsamic glaze, and fresh basil.
+Visual Key Event 13: The person tastes the pasta and encourages viewers to try the recipe.

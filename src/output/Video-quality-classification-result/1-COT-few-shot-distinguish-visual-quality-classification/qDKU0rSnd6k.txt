@@ -1,0 +1,27 @@
+Subtitle Segmentation 1: {start words: "what is up everyone if", end words: "we're gonna go get those credits yes"}
+Subtitle Segmentation 2: {start words: "but if you're new to", end words: "you want to do"}
+Subtitle Segmentation 3: {start words: "so today like I said", end words: "we're gonna get him today"}
+Subtitle Segmentation 4: {start words: "and that's and so if", end words: "some goodies inside all right let's go get them"}
+Subtitle Segmentation 5: {start words: "alright guys it's time to", end words: "look at home that's a keeper"}
+Subtitle Segmentation 6: {start words: "stoked right now now I'm", end words: "it's still moving because opening there's a little nerve systems pretty cool"}
+Subtitle Segmentation 7: {start words: "but they grow back so", end words: "push off okay [Music] [Music]"}
+Subtitle Segmentation 8: {start words: "all right trap number two", end words: "see what happens okay we get some more"}
+Subtitle Segmentation 9: {start words: "oh my god oh my", end words: "be a bunch of your stone crab"}
+Subtitle Segmentation 10: {start words: "all right guys don't do", end words: "cut myself all right"}
+Subtitle Segmentation 11: {start words: "our story hurt herself so", end words: "the next trip out"}
+Subtitle Segmentation 12: {start words: "but I am so stoked", end words: "keep on catching don't tie your finger [Music]"}
+
+Visual Key Event 1(non-visual): Darcy Zell introduces herself and her boyfriend, Brian, and they discuss their plans to check their stone crab traps.
+Visual Key Event 2(non-visual): Darcy and Brian discuss their roles as full-time content creators and their goal to inspire their viewers.
+Visual Key Event 3(non-visual): Darcy expresses her excitement about checking the stone crab traps and apologizes for a delay in doing so.
+Visual Key Event 4(visual): Darcy and Brian set off to check their stone crab traps, hoping to find some crabs inside.
+Visual Key Event 5(visual): Darcy retrieves the first crab trap and finds a crab inside, which she determines is a keeper.
+Visual Key Event 6(visual): Darcy removes the crab's claw and releases it back into the water, explaining that the claw will grow back.
+Visual Key Event 7(visual): Darcy checks the second trap, which is empty, and then moves on to the third trap.
+Visual Key Event 8(visual): Darcy retrieves the third trap, which contains three stone crabs, and removes the claws of the keeper crabs.
+Visual Key Event 9(visual): Darcy accidentally cuts herself while preparing bait for the crab traps.
+Visual Key Event 10(non-visual): Darcy and Brian decide to return home due to Darcy's injury, leaving one trap unchecked.
+Visual Key Event 11(non-visual): Darcy wraps up the video, expressing her excitement about the successful crabbing trip and asking viewers for feedback.
+
+Classification:
+Good.

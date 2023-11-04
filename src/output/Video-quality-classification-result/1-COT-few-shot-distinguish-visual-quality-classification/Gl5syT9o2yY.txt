@@ -1,0 +1,115 @@
+Subtitle Segmentation 1: {start words: "[Music] he's going to give", end words: "me people make up yes"}
+Subtitle Segmentation 2: {start words: "no I'm not lucky I'm", end words: "you make a week and then plus you"}
+Subtitle Segmentation 3: {start words: "after you see and stuff", end words: "video is going to be lengthy because I have a makeup tutorial plus a hair styling video at the end"}
+Subtitle Segmentation 4: {start words: "this video here that I'm", end words: "to show you how to make a week"}
+Subtitle Segmentation 5: {start words: "so we just showed the", end words: "she is getting so much better"}
+Subtitle Segmentation 6: {start words: "I hope that you enjoyed", end words: "I am sick about anyone will talk over"}
+Subtitle Segmentation 7: {start words: "but um I want to", end words: "I lay down la girl point to similar in bond"}
+Subtitle Segmentation 8: {start words: "and what I'm thinking now", end words: "I just love these shadows"}
+Subtitle Segmentation 9: {start words: "I'm just using my BH", end words: "I was using while doing my makeup"}
+Subtitle Segmentation 10: {start words: "and then the next shadow", end words: "right above that crease is what I'm doing up in the right industries"}
+Subtitle Segmentation 11: {start words: "and then I were back", end words: "that is the reason I'm using"}
+Subtitle Segmentation 12: {start words: "now I'm gonna go with", end words: "it gets intense when you go from light to dark"}
+Subtitle Segmentation 13: {start words: "so you get a big", end words: "more pigment onto the lid"}
+Subtitle Segmentation 14: {start words: "now taking my eye FX", end words: "to make those pop okay"}
+Subtitle Segmentation 15: {start words: "I excuse me I am", end words: "that is the flower brush for Walmart"}
+Subtitle Segmentation 16: {start words: "I'm just cutting my crease", end words: "I just really low-cut creases"}
+Subtitle Segmentation 17: {start words: "but um and I just", end words: "I just added black on the ends"}
+Subtitle Segmentation 18: {start words: "because it didn't look right", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 19: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 20: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 21: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 22: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 23: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 24: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 25: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 26: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 27: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 28: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 29: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 30: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 31: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 32: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 33: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 34: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 35: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 36: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 37: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 38: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 39: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 40: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 41: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 42: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 43: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 44: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 45: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 46: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 47: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 48: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 49: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 50: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 51: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 52: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 53: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 54: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 55: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 56: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 57: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 58: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 59: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 60: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 61: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 62: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 63: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 64: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 65: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 66: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 67: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 68: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 69: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 70: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 71: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 72: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 73: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 74: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 75: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 76: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 77: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 78: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 79: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 80: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 81: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 82: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 83: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 84: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 85: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 86: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 87: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 88: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 89: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 90: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 91: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 92: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 93: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 94: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 95: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 96: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 97: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 98: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 99: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 100: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 101: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 102: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 103: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 104: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 105: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 106: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 107: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 108: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 109: {start words: "and added some of that", end words: "I just can't get into it to the UM not cut crease look"}
+Subtitle Segmentation 110: {start words: "I just regular shadows so", end words: "I placed in there right in the beginning of the layer right by the inner tear duct"}
+Subtitle Segmentation 111: {start words: "and I'm one half way", end words: "it's not going to look right"}
+Subtitle Segmentation 112: {start words: "and you want to be", end words: "I'm checking so beauty slackbridge which is the peach shade"}
+Subtitle Segmentation 113: {start words: "and I actually love this", end words: "I don't know it was giving me a hard time"}
+Subtitle Segmentation 114: {start words: "because it was like really", end words: "I just took a smaller brush from makeup geek"}
+Subtitle Segmentation 115: {start words: "

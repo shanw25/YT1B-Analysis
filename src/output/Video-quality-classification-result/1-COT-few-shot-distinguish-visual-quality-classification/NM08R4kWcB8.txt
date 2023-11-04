@@ -1,0 +1,50 @@
+Subtitle Segmentation 1: {start words: "oh my goodness I didn't", end words: "we've got to give and this together"}
+Subtitle Segmentation 2: {start words: "guys I'm running a little", end words: "we gotta go very steep stairs"}
+Subtitle Segmentation 3: {start words: "we keep the morning God", end words: "cat yowling in the car"}
+Subtitle Segmentation 4: {start words: "oh gosh it's so cute", end words: "glory of God otherwise it is meaningless"}
+Subtitle Segmentation 5: {start words: "hey maybe your man here", end words: "I love you make you love me"}
+Subtitle Segmentation 6: {start words: "your mom in every look", end words: "it's also really pretty and like girly"}
+Subtitle Segmentation 7: {start words: "what is the general theme", end words: "worked out so perfectly because all this is closed off to the public"}
+Subtitle Segmentation 8: {start words: "Wellesley that is you know", end words: "this is Juliet's lunch it's pureed cauliflower"}
+Subtitle Segmentation 9: {start words: "it smells amazing I want", end words: "we need any oil from the oil"}
+Subtitle Segmentation 10: {start words: "she has taught me everything", end words: "you guys glad I got in case your voice is real deal"}
+Subtitle Segmentation 11: {start words: "oh you're simply no that's", end words: "we don't really know what actually has got a lot of backlash on go"}
+Subtitle Segmentation 12: {start words: "but they thought they were", end words: "look at that that's a beautiful boat"}
+Subtitle Segmentation 13: {start words: "lunch is great but I", end words: "what yeah well thank you variable on you something"}
+Subtitle Segmentation 14: {start words: "I know certain Logan oh", end words: "all right cake that's the Gateway to get through"}
+Subtitle Segmentation 15: {start words: "they're all walk like that", end words: "I'm home you guys a really great day"}
+Subtitle Segmentation 16: {start words: "now I'm making dinner we", end words: "you guys have to see Abram he is stalling today"}
+Subtitle Segmentation 17: {start words: "dananana dananana you look awesome", end words: "come on in what you guys don't come by here"}
+Subtitle Segmentation 18: {start words: "you crazy come on man", end words: "simply not feelin to you guys"}
+Subtitle Segmentation 19: {start words: "she's in here doing homework", end words: "oh I'm down watch daddy and Mama God's life"}
+Subtitle Segmentation 20: {start words: "hey guys it about the", end words: "I'll get you another well we got to make sure this thing have mold in it"}
+Subtitle Segmentation 21: {start words: "no mold maybe we could", end words: "it's just so beautiful it really tugs at your heartstrings"}
+Subtitle Segmentation 22: {start words: "he's a great writer also", end words: "we're also sloths my life doesn't say 10 a.m. for him also about noon for me"}
+Subtitle Segmentation 23: {start words: "I'm not a sloth like", end words: "all right guys we ready in a number two the last trucker"}
+
+Visual Key Event 1(non-visual): The speaker expresses surprise and discusses the importance of unity.
+Visual Key Event 2(visual): The speaker is running late due to Juliet's long nap and they are preparing to meet a friend, Nicole.
+Visual Key Event 3(visual): The speaker and a friend discuss using time wisely and hear a cat yowling in the car.
+Visual Key Event 4(non-visual): The speaker discusses the importance of doing things for the glory of God.
+Visual Key Event 5(visual): The speaker interacts with a man and expresses love.
+Visual Key Event 6(visual): The speaker is having lunch at a new place and describes the unique atmosphere.
+Visual Key Event 7(visual): The speaker explores a closed-off area and identifies an anchor.
+Visual Key Event 8(visual): The speaker is having lunch and describes Juliet's pureed cauliflower lunch.
+Visual Key Event 9(non-visual): The speaker discusses learning about oils from a friend, Nicole.
+Visual Key Event 10(non-visual): The speaker discusses a beautiful scene and the authenticity of a voice.
+Visual Key Event 11(non-visual): The speaker discusses a misunderstanding and the backlash it caused.
+Visual Key Event 12(visual): The speaker admires a beautiful boat.
+Visual Key Event 13(visual): The speaker enjoys lunch and dessert, and discusses the color of an anchor on a boat.
+Visual Key Event 14(visual): The speaker discusses a painful walk and a gateway.
+Visual Key Event 15(non-visual): The speaker arrives home after a great day.
+Visual Key Event 16(visual): The speaker is making dinner and shows Abram stalling.
+Visual Key Event 17(visual): The speaker interacts with Abram and discusses watching TV.
+Visual Key Event 18(non-visual): The speaker invites others in and discusses a big meal.
+Visual Key Event 19(non-visual): The speaker discusses homework and watching a life event.
+Visual Key Event 20(visual): The speaker discusses cutting open a toy and checking for mold.
+Visual Key Event 21(non-visual): The speaker discusses the possibility of melting the toy back together and admires a beautiful scene.
+Visual Key Event 22(non-visual): The speaker praises a great writer and discusses sleep schedules.
+Visual Key Event 23(non-visual): The speaker discusses the need for a nap and prepares for a trucker event.
+
+Classification:
+Good.

@@ -1,0 +1,36 @@
+Subtitle Segmentation 1: {start words: "would you follow me to", end words: "smart casual dress attire cuz you know I'm a lady boss"}
+Subtitle Segmentation 2: {start words: "and all that I like", end words: "glam but like really sophisticated I like I mean business"}
+Subtitle Segmentation 3: {start words: "at the same time this", end words: "looks really good black taupe black jeans"}
+Subtitle Segmentation 4: {start words: "and this is look a", end words: "very elegant classy style"}
+Subtitle Segmentation 5: {start words: "I thought you could maybe", end words: "striking so like don't mess with me vibes"}
+Subtitle Segmentation 6: {start words: "which is what I'd want", end words: "it's like bad I'm here"}
+Subtitle Segmentation 7: {start words: "so this time of year", end words: "inject some happiness into your life"}
+Subtitle Segmentation 8: {start words: "do what you do you", end words: "it's so good so this next one"}
+Subtitle Segmentation 9: {start words: "is a pinafore slash jumpsuit", end words: "designer ask kind of like this"}
+Subtitle Segmentation 10: {start words: "[Music] [Music] so here it", end words: "it's so versatile and I just love the pockets"}
+Subtitle Segmentation 11: {start words: "they're my favorite bit I", end words: "good to go but you do"}
+Subtitle Segmentation 12: {start words: "you know that all the", end words: "a long time actually I'd love to know"}
+Subtitle Segmentation 13: {start words: "if you have let me", end words: "look a lot more expensive than it is"}
+Subtitle Segmentation 14: {start words: "so whenever I see like", end words: "I just knew if I like got a load more"}
+Subtitle Segmentation 15: {start words: "I'd wear them so much", end words: "absolutely amazing so guys that is it"}
+Subtitle Segmentation 16: {start words: "I hoped you enjoyed it", end words: "I'll see you soon like what you do"}
+
+Visual Key Event 1(non-visual): The speaker introduces the topic of the video, which is about office wear, and shares her preference for smart casual dress attire.
+Visual Key Event 2(visual): The speaker presents a blazer with a tie around the middle, describing it as a power outfit suitable for important meetings or presentations.
+Visual Key Event 3(visual): The speaker shows a floor-length maxi dress, suggesting it could be paired with black jeans and boots.
+Visual Key Event 4(visual): The speaker presents a piece from Sheen with a gold button detail, suggesting it could be cinched at the waist for a more flattering fit.
+Visual Key Event 5(visual): The speaker shows how the piece from Sheen can be styled with high boots for a striking look.
+Visual Key Event 6(visual): The speaker presents a skirt, styled with black trousers, boots, and a belt from Primark.
+Visual Key Event 7(visual): The speaker presents a coat from Oasis, suggesting it as a way to inject color into an office wardrobe.
+Visual Key Event 8(visual): The speaker shows how the vibrant blue coat can be styled with a shirt, black jeans, and a black bag.
+Visual Key Event 9(visual): The speaker presents a pinafore/jumpsuit from Nasty Gal, suggesting it could be styled with a shirt, blouse, or knit depending on the weather.
+Visual Key Event 10(visual): The speaker shows how the pinafore/jumpsuit can be styled with white loafers and a black bag with a Gucci scarf.
+Visual Key Event 11(non-visual): The speaker presents a shirt from Nasty Gal, suggesting it could be paired with black trousers for a suited and booted look.
+Visual Key Event 12(visual): The speaker shows how the shirt can be styled with black trousers, emphasizing the flattering fit at the waist.
+Visual Key Event 13(non-visual): The speaker shares her love for studs on shoes and bags, suggesting they make items look more expensive.
+Visual Key Event 14(non-visual): The speaker presents a selection of wide waist belts from Nasty Gal, suggesting they can be used to cinch in the waist of various outfits.
+Visual Key Event 15(non-visual): The speaker concludes the video, asking viewers for feedback on what types of styling videos they would like to see in the future.
+Visual Key Event 16(non-visual): The speaker encourages viewers to follow her on Instagram for daily fashion content.
+
+Classification:
+Good.

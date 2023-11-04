@@ -1,0 +1,18 @@
+Subtitle Segmentation 1: {start words: "so this morning I want", end words: "little thing so today we're gonna try to do one or the other"}
+Subtitle Segmentation 2: {start words: "I'm not really sure which", end words: "813 I have to get on the road"}
+Subtitle Segmentation 3: {start words: "so I will catch up", end words: "it's deep oh my God look at this"}
+Subtitle Segmentation 4: {start words: "whew dude look at this", end words: "it's pretty wide"}
+Subtitle Segmentation 5: {start words: "so that second day was", end words: "go out of the third time"}
+Subtitle Segmentation 6: {start words: "anyway I wanted to go", end words: "starting off in the future I would like to get an airbag"}
+Subtitle Segmentation 7: {start words: "that being said I really", end words: "see you guys in the next"}
+
+Visual Key Event 1(non-visual): The speaker expresses his long-time desire to go snowboarding in Colorado, either through hitchhiking or coordinating rides.
+Visual Key Event 2(non-visual): The speaker discusses the plan for the day and the need to get on the road early.
+Visual Key Event 3(visual): The speaker arrives at the snowboarding location, commenting on the depth of the snow.
+Visual Key Event 4(visual): The speaker admires the wide snowboarding area.
+Visual Key Event 5(non-visual): The speaker reflects on the second day of snowboarding, discussing the decision to alternate rides instead of hitchhiking and the intention to return for a third day.
+Visual Key Event 6(non-visual): The speaker emphasizes the seriousness of backcountry snowboarding, advising on the necessary equipment and apps for safety.
+Visual Key Event 7(non-visual): The speaker concludes the video, expressing appreciation for the viewers and encouraging them to subscribe for more content.
+
+Classification:
+Good.

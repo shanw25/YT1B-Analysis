@@ -1,0 +1,26 @@
+Subtitle Segmentation 1: {start words: "[Music] well Captain's Log I've", end words: "ain't got no gripe"}
+Subtitle Segmentation 2: {start words: "who does great hi cousin", end words: "are only a hundred fifty"}
+Subtitle Segmentation 3: {start words: "you feel better than a", end words: "normal price of $150 is how much these were"}
+Subtitle Segmentation 4: {start words: "can I just tell you", end words: "had a great laugh then you and guess what I do with it [Laughter] [Music]"}
+Subtitle Segmentation 5: {start words: "but I didn't get these", end words: "white to white [Music]"}
+Subtitle Segmentation 6: {start words: "this is so heavy my", end words: "let's see how they taste"}
+Subtitle Segmentation 7: {start words: "let's do a regular grape", end words: "tastes like melon will up honey"}
+Subtitle Segmentation 8: {start words: "but this tastes like grape", end words: "deprive the audience of that experience"}
+Subtitle Segmentation 9: {start words: "yes imma stick to my", end words: "grapes are going to be fine again yeah"}
+Subtitle Segmentation 10: {start words: "in comparison between you two", end words: "rest of the month is even starting to see screams of how expensive"}
+Subtitle Segmentation 11: {start words: "and you know what you're", end words: "go for three I'm going for a third slice"}
+
+Visual Key Event 1(non-visual): The speaker discusses a transaction he made, which he believes his wife will not be pleased with.
+Visual Key Event 2(non-visual): The speaker and his wife discuss the price of grapes, revealing that they purchased grapes for $150.
+Visual Key Event 3(non-visual): The speaker explains the process of purchasing the grapes and the reaction of the store employees when they realized the price.
+Visual Key Event 4(non-visual): The speaker discusses the price of the grapes and compares them to other grapes available in the store.
+Visual Key Event 5(visual): The speaker and his wife prepare to taste the grapes, commenting on their size and weight.
+Visual Key Event 6(visual): The speaker and his wife taste a regular grape and comment on its taste.
+Visual Key Event 7(visual): The speaker and his wife taste the expensive grape and compare its taste to that of a green apple.
+Visual Key Event 8(non-visual): The speaker and his wife discuss the possibility of trying other expensive fruits.
+Visual Key Event 9(non-visual): The speaker and his wife discuss the difference in taste between the regular and expensive grapes after having tasted both.
+Visual Key Event 10(visual): The speaker prepares a sandwich using the expensive grapes.
+Visual Key Event 11(visual): The speaker completes the sandwich and decides to add a third slice of grape.
+
+Classification:
+Good.

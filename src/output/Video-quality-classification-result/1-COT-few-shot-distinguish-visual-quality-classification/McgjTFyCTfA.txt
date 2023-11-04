@@ -1,0 +1,24 @@
+Subtitle Segmentation 1: {start words: "hello everybody hit a chick's", end words: "let's go so I bought it"}
+Subtitle Segmentation 2: {start words: "and I'm so surprised with", end words: "ready to style and I'm just I'm so impressed by this by this wig"}
+Subtitle Segmentation 3: {start words: "I will leave a link", end words: "how I made the rest of his costume"}
+Subtitle Segmentation 4: {start words: "I am making his fantasy", end words: "instead of just the gauntlet hello gasping they get in my trash can my cat one moment"}
+Subtitle Segmentation 5: {start words: "[Music] are you done no", end words: "important to keep checking back"}
+Subtitle Segmentation 6: {start words: "alright now that I have", end words: "soft fibers looks going"}
+Subtitle Segmentation 7: {start words: "yeah I'm gonna go grab", end words: "holds its shape [Music] [Music] [Music]"}
+Subtitle Segmentation 8: {start words: "I'm just going to try", end words: "fixing so it turns out teasing the absolute crap out of a wig works"}
+Subtitle Segmentation 9: {start words: "so I definitely have some", end words: "what I was going for I guess I should say"}
+Subtitle Segmentation 10: {start words: "so this definitely gave me", end words: "keep on cosplaying hi everybody"}
+
+Visual Key Event 1(non-visual): The cosplayer introduces herself and explains her plan to style a Kirishima wig from My Hero Academia, mentioning her nervousness about the process.
+Visual Key Event 2(visual): The cosplayer shows the wig she bought, expressing her surprise at its high quality and readiness for styling.
+Visual Key Event 3(non-visual): The cosplayer mentions her ongoing Kirishima cosplay project and the videos she has made about it.
+Visual Key Event 4(visual): The cosplayer begins the wig styling process, pinning the wig in place and sectioning off parts for spiking.
+Visual Key Event 5(visual): The cosplayer tries the wig on her head to check the placement of the spikes.
+Visual Key Event 6(visual): The cosplayer starts spiking the wig using hairspray, a hairdryer, and craft glue.
+Visual Key Event 7(visual): The cosplayer continues to style the wig, using a comb to fluff up the front and applying glue to the ends of the spikes.
+Visual Key Event 8(visual): The cosplayer evaluates her work, noting the asymmetry of the spikes and deciding to tease the wig more.
+Visual Key Event 9(visual): The cosplayer finalizes the wig styling, deciding not to worry too much about certain parts because she plans to add horns for her fantasy AU cosplay.
+Visual Key Event 10(non-visual): The cosplayer concludes the video, thanking the viewers and encouraging them to keep cosplaying.
+
+Classification:
+Good.

@@ -1,0 +1,18 @@
+Visual Key Event 2(visual): The speaker shows the first gift for their daughter Kennedy, a large, bunny-shaped surprise toy with a doll and accessories inside.
+Visual Key Event 3(visual): The speaker shows a similar gift for their other daughter Chloe, also a surprise toy with a different doll and accessories.
+Visual Key Event 4(visual): The speaker presents a Rainbow High surprise toy for Chloe, explaining that they chose the blue one because it's Chloe's favorite color.
+Visual Key Event 5(visual): The speaker shows a Barbie color reveal surprise pack for Chloe, themed around a carnival and concert.
+Visual Key Event 6(visual): The speaker presents an Itty Bitty Pretty surprise tea cup toy for Chloe.
+Visual Key Event 7(visual): The speaker shows a large Lego set that Chloe has been asking for.
+Visual Key Event 9(visual): The speaker presents a Rainbow High doll for Kennedy, choosing a yellow one because Kennedy likes yellow and gold.
+Visual Key Event 10(visual): The speaker shows a Barbie color reveal surprise pack for Kennedy, themed around a beach and party.
+Visual Key Event 11(visual): The speaker presents a Baby Born Magic Potty Surprise toy for Kennedy.
+Visual Key Event 12(visual): The speaker shows an Itty Bitty Pretty surprise tea cup toy for Kennedy.
+Visual Key Event 13(visual): The speaker presents a jewelry box for Kennedy, themed around Ariel, the Little Mermaid.
+Visual Key Event 15(visual): The speaker shows small Barbie color reveal mermaid dolls for both girls.
+Visual Key Event 16(visual): The speaker presents Minnie Mouse bracelets from Pandora for both girls, originally intended as a memento of their cancelled Disney World trip.
+Visual Key Event 17(visual): The speaker shows a shared karaoke machine gift for both girls.
+Visual Key Event 18(visual): The speaker presents a V-Tech camera for both girls, complete with a selfie stick and green screen studio.
+Visual Key Event 19(visual): The speaker shows an LOL Remix video game for both girls.
+Visual Key Event 20(visual): The speaker presents an LOL Remix CD for both girls.
+Visual Key Event 21(visual): The speaker shows an LOL Remix Super Surprise toy for both girls.

@@ -1,0 +1,54 @@
+Subtitle Segmentation 1: {start words: "what is up youtubers if", end words: "explicit content warning"}
+Subtitle Segmentation 2: {start words: "and these are the various", end words: "the hockey mask so Friday 13th"}
+Subtitle Segmentation 3: {start words: "we have Bruce Campbell Bruce", end words: "it's glow-in-the-dark"}
+Subtitle Segmentation 4: {start words: "so obviously those those four", end words: "to screw up I guess"}
+Subtitle Segmentation 5: {start words: "the only thing they screw", end words: "there we go as you can see"}
+Subtitle Segmentation 6: {start words: "he's got a kitchen knife", end words: "house of a thousand corpses"}
+Subtitle Segmentation 7: {start words: "and just because he's like", end words: "that's actually really cool I like the detail of that"}
+Subtitle Segmentation 8: {start words: "still hoping for any kind", end words: "so let's see what what's up with that"}
+Subtitle Segmentation 9: {start words: "but I was saying I", end words: "better nothing there's our little Hannibal Lecter"}
+Subtitle Segmentation 10: {start words: "again great details they did", end words: "decomposing brain hockey mask"}
+Subtitle Segmentation 11: {start words: "and he's got a bloody", end words: "every single one of these uh horror movies when they came out"}
+Subtitle Segmentation 12: {start words: "so I'm a pretty big", end words: "bloody michael myers is not special"}
+Subtitle Segmentation 13: {start words: "it's just they messed up", end words: "oh cool I got a rare one"}
+Subtitle Segmentation 14: {start words: "finally this is actually Billy", end words: "they relatively new I think in the last like two three years"}
+Subtitle Segmentation 15: {start words: "oh cool I got Bruce", end words: "these two guys are special yes we will see"}
+Subtitle Segmentation 16: {start words: "so no dupes no dupes", end words: "another Jason Voorhees because I can feel straps on the hockey mask"}
+Subtitle Segmentation 17: {start words: "so sadly I got another", end words: "a Hello Kitty series so that's pretty cool"}
+Subtitle Segmentation 18: {start words: "I don't know what this", end words: "which is the one I really want to get because he is one of the top rarest ones"}
+Subtitle Segmentation 19: {start words: "let's see up we got", end words: "you get an A on the vinyl so over the hard non-moving while I'm not articulated"}
+Subtitle Segmentation 20: {start words: "huh got another Chucky Chucky", end words: "so that means I think these cases are 24"}
+Subtitle Segmentation 21: {start words: "so you get two for", end words: "another super rare one in this usually you all get like one super rare per gates"}
+Subtitle Segmentation 22: {start words: "ah it's the killer from", end words: "I don't need to open him because there's no variant for him"}
+Subtitle Segmentation 23: {start words: "um Malik I'm sealed come", end words: "all right ah Hannibal Lecter don't need to open him this we already have him and there's no very into him"}
+Subtitle Segmentation 24: {start words: "all right let's see the", end words: "three jason voorhees one of them being the d whatchamacallit variant glow-in-the-dark"}
+Subtitle Segmentation 25: {start words: "and then we have our", end words: "and you will be able to find them okay alright guys thanks for watching we'll see it's the next video bye bye"}
+
+Visual Key Event 1(non-visual): The YouTuber introduces the video and explains that they will be unboxing Funko mystery minis from the horror classics vinyl series.
+Visual Key Event 2(visual): The YouTuber shows the box and lists the various figures that can be found inside.
+Visual Key Event 3(non-visual): The YouTuber discusses the rarity of certain figures and expresses hope for finding them.
+Visual Key Event 4(visual): The YouTuber begins unboxing the figures, starting with a Chucky figure.
+Visual Key Event 5(visual): The YouTuber continues unboxing, finding a figure from Texas Chainsaw Massacre and commenting on the detail.
+Visual Key Event 6(visual): The YouTuber unboxes a bloody Michael Myers figure and questions its rarity.
+Visual Key Event 7(non-visual): The YouTuber discusses where they purchased the boxes and the sale that was happening at the time.
+Visual Key Event 8(visual): The YouTuber unboxes a Hannibal Lecter figure and a Jason Voorhees figure, commenting on the details.
+Visual Key Event 9(non-visual): The YouTuber discusses their love for horror movies and their history with the genre.
+Visual Key Event 10(visual): The YouTuber unboxes another bloody Michael Myers figure and questions its rarity again.
+Visual Key Event 11(visual): The YouTuber unboxes a rare Billy figure from Saw and discusses the rarity of the figure.
+Visual Key Event 12(visual): The YouTuber unboxes a figure from Army of Darkness and comments on the details.
+Visual Key Event 13(visual): The YouTuber unboxes another Jason Voorhees figure and expresses disappointment at getting a duplicate.
+Visual Key Event 14(visual): The YouTuber unboxes another Chucky figure and expresses disappointment at not getting the bloody variant.
+Visual Key Event 15(visual): The YouTuber unboxes a Freddy Krueger figure and comments on the details.
+Visual Key Event 16(visual): The YouTuber unboxes another Chucky figure and a glow-in-the-dark Jason Voorhees figure.
+Visual Key Event 17(visual): The YouTuber unboxes a figure from Scream and comments on the details.
+Visual Key Event 18(visual): The YouTuber unboxes another Freddy Krueger figure and another Hannibal Lecter figure, expressing disappointment at getting duplicates.
+Visual Key Event 19(visual): The YouTuber unboxes another Chucky figure and expresses hope for getting the bloody variant.
+Visual Key Event 20(visual): The YouTuber unboxes another bloody Michael Myers figure and a glow-in-the-dark Jason Voorhees figure, commenting on their rarity.
+Visual Key Event 21(visual): The YouTuber unboxes a figure from Scream and expresses disappointment at getting a duplicate.
+Visual Key Event 22(visual): The YouTuber unboxes another Freddy Krueger figure and another Hannibal Lecter figure, expressing disappointment at getting duplicates.
+Visual Key Event 23(visual): The YouTuber unboxes another Chucky figure and expresses hope for getting the bloody variant.
+Visual Key Event 24(visual): The YouTuber unboxes another bloody Michael Myers figure and a glow-in-the-dark Jason Voorhees figure, commenting on their rarity.
+Visual Key Event 25(non-visual): The YouTuber concludes the video, showing their collection of unboxed figures and expressing satisfaction with the rare Billy figure.
+
+Classification:
+Good.

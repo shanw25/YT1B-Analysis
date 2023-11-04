@@ -1,0 +1,26 @@
+Subtitle Segmentation 1: {start words: "like I grew up with", end words: "huge project"}
+Subtitle Segmentation 2: {start words: "so I was a builder", end words: "learn Morse code"}
+Subtitle Segmentation 3: {start words: "and then by then I", end words: "fewer parts and I got to where I cadiz almost any computer in the world in two days"}
+Subtitle Segmentation 4: {start words: "while I was in high", end words: "I'm gonna live in an apartment"}
+Subtitle Segmentation 5: {start words: "it's like threw down the", end words: "you know along those lines"}
+Subtitle Segmentation 6: {start words: "the vision for navigation really", end words: "like it to be seamless"}
+Subtitle Segmentation 7: {start words: "think you might avail in", end words: "the guidance all the way there"}
+Subtitle Segmentation 8: {start words: "yeah Steve what do you", end words: "part of our life in all of the products we buy"}
+Subtitle Segmentation 9: {start words: "and everything will search then", end words: "you're not driving"}
+Subtitle Segmentation 10: {start words: "well sure if you have", end words: "that's dangerous dangerous stuff"}
+Subtitle Segmentation 11: {start words: "so you do not want", end words: "make life a little safer"}
+
+Visual Key Event 1(visual): The speaker recalls his childhood interest in technology and electronics, culminating in a large project involving switches and lights.
+Visual Key Event 2(non-visual): The speaker discusses his progression into more complex electronics, including obtaining a ham radio license and building parts with hundreds of transistors.
+Visual Key Event 3(visual): The speaker recounts his high school experience of designing computers, reducing the number of parts required, and his ambition to own a computer.
+Visual Key Event 4(non-visual): The speaker shares his determination to own a computer, even if it means living in an apartment.
+Visual Key Event 5(non-visual): The speaker discusses the concept of seamless navigation, from the user to the car, and from the car to the final destination.
+Visual Key Event 6(non-visual): The speaker expresses the desire for a navigation system that provides guidance all the way to the destination.
+Visual Key Event 7(non-visual): The speaker discusses the importance of an open platform for cars, allowing for universal connectivity.
+Visual Key Event 8(non-visual): The speaker discusses the potential for technology to enhance the driving experience, but warns against the dangers of distraction.
+Visual Key Event 9(non-visual): The speaker discusses the potential for automated vehicles and the space this could free up for technology displays.
+Visual Key Event 10(non-visual): The speaker discusses the complexity of car systems, with numerous processors and sensors, and the potential for these to improve safety.
+Visual Key Event 11(non-visual): The speaker discusses the advancements in voice recognition technology and its potential applications in car systems.
+
+Classification:
+Good.

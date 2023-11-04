@@ -1,0 +1,24 @@
+Subtitle Segmentation 1: {start words: "I am sitting outside of", end words: "this experience building"}
+Subtitle Segmentation 2: {start words: "[Music] you [Music] more to", end words: "the Big Lake which doesn't look like much"}
+Subtitle Segmentation 3: {start words: "because I missed the colors", end words: "stretch my legs a little bit"}
+Subtitle Segmentation 4: {start words: "I missed the collars around", end words: "put that in I don't know"}
+Subtitle Segmentation 5: {start words: "I was so excited to", end words: "massive town of Manitowoc highways"}
+Subtitle Segmentation 6: {start words: "I know that it wasn't", end words: "that's a bonus okay"}
+Subtitle Segmentation 7: {start words: "so I got like I", end words: "I have cash for some reason"}
+Subtitle Segmentation 8: {start words: "but anyways so that's the", end words: "attached to my head"}
+Subtitle Segmentation 9: {start words: "Oh for the record I", end words: "really tough to sleep"}
+Subtitle Segmentation 10: {start words: "so but probably about halfway", end words: "you guys in the next one and as always happy planting"}
+
+Visual Key Event 1(non-visual): The speaker is waiting outside Lilith's Locks in Manitowoc, preparing for her hair appointment to get dreadlocks.
+Visual Key Event 2(visual): The speaker shows the process of getting her hair dreaded and decides to leave her bangs out.
+Visual Key Event 3(visual): The speaker stops at a wayside by the lake to stretch her legs after sitting in the car.
+Visual Key Event 4(visual): The speaker admires the lobby of a place with a brick floor and plans to get a video of it during her next visit.
+Visual Key Event 5(visual): The speaker regrets not bringing her tripod and shutter button to capture the skyline of Manitowoc.
+Visual Key Event 6(non-visual): The speaker discusses the content of the video and mentions that she forgot to take some pictures.
+Visual Key Event 7(non-visual): The speaker shares her experience of people's reactions to her new hairstyle at a gas station.
+Visual Key Event 8(visual): The speaker shows a hair tie made out of recycled copper that she got and mentions that she has 44 dreadlocks.
+Visual Key Event 9(non-visual): The speaker anticipates that it will be difficult to sleep with her new hairstyle but looks forward to the built-in pillow.
+Visual Key Event 10(non-visual): The speaker concludes the vlog and wishes her viewers happy planting.
+
+Classification:
+Good.

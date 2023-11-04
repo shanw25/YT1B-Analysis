@@ -1,0 +1,10 @@
+Visual Key Event 2(visual): The speaker presents a blazer with a tie around the middle, describing it as a power outfit suitable for important meetings or presentations.
+Visual Key Event 3(visual): The speaker shows a floor-length maxi dress, suggesting it could be paired with black jeans and boots.
+Visual Key Event 4(visual): The speaker presents a piece from Sheen with a gold button detail, suggesting it could be cinched at the waist for a more flattering fit.
+Visual Key Event 5(visual): The speaker shows how the piece from Sheen can be styled with high boots for a striking look.
+Visual Key Event 6(visual): The speaker presents a skirt, styled with black trousers, boots, and a belt from Primark.
+Visual Key Event 7(visual): The speaker presents a coat from Oasis, suggesting it as a way to inject color into an office wardrobe.
+Visual Key Event 8(visual): The speaker shows how the vibrant blue coat can be styled with a shirt, black jeans, and a black bag.
+Visual Key Event 9(visual): The speaker presents a pinafore/jumpsuit from Nasty Gal, suggesting it could be styled with a shirt, blouse, or knit depending on the weather.
+Visual Key Event 10(visual): The speaker shows how the pinafore/jumpsuit can be styled with white loafers and a black bag with a Gucci scarf.
+Visual Key Event 12(visual): The speaker shows how the shirt can be styled with black trousers, emphasizing the flattering fit at the waist.

@@ -1,0 +1,25 @@
+Subtitle Segmentation 1: {start words: "okay all right guys um", end words: "I think I'm not ghosts"}
+Subtitle Segmentation 2: {start words: "oh he's heizak go something", end words: "one sexy y'all find Rey stuff"}
+Subtitle Segmentation 3: {start words: "I'm told it's the way", end words: "this little relic IV he spinner"}
+Subtitle Segmentation 4: {start words: "well what I yeah I", end words: "Florence and found it"}
+Subtitle Segmentation 5: {start words: "okay guys okay guys I'm", end words: "a sovereign in it right there"}
+Subtitle Segmentation 6: {start words: "look at that [Music] that", end words: "gold coin over the chain 1893"}
+Subtitle Segmentation 7: {start words: "for what is an inscription", end words: "finding this a gold coin for two years in a row"}
+Subtitle Segmentation 8: {start words: "hang up all right Oh", end words: "see you then"}
+Subtitle Segmentation 9: {start words: "so we're picking up now", end words: "it's gonna be really funny all right so I'll see you there"}
+Subtitle Segmentation 10: {start words: "okay guys and we've got", end words: "the bottle capper [Music] [Music] [Laughter] [Music]"}
+Subtitle Segmentation 11: {start words: "so you can run up", end words: "see on the next video [Music]"}
+
+Visual Key Event 1(non-visual): The speaker and his team are digging and searching for something, possibly treasure.
+Visual Key Event 2(visual): The speaker and his team find something interesting, possibly a relic or artifact.
+Visual Key Event 3(visual): The speaker and his team continue their search, using a metal detector and finding more items.
+Visual Key Event 4(visual): The speaker and his team find something significant, possibly a gold ring with a sovereign in it.
+Visual Key Event 5(visual): The speaker and his team examine their find, a gold coin over a chain from 1893.
+Visual Key Event 6(non-visual): The speaker reflects on the significance of their find, highlighting it as a major event in their treasure hunting journey.
+Visual Key Event 7(non-visual): The speaker concludes their search for the day, promising to show the finds, especially the gold coin, at home.
+Visual Key Event 8(visual): The speaker and his team plan a prank on a friend, involving their finds from the day.
+Visual Key Event 9(visual): The speaker and his team execute their prank, surprising their friend with the gold ring coin among other items.
+Visual Key Event 10(non-visual): The speaker concludes the video, asking viewers to share their reactions and promising more content in the next video.
+
+Classification:
+Good.

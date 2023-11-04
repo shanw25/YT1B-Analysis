@@ -1,0 +1,28 @@
+Subtitle Segmentation 1: {start words: "without any further ado the", end words: "I have a little extra time"}
+Subtitle Segmentation 2: {start words: "I've pastors rabbis Christians Jews", end words: "I will not keep silent"}
+Subtitle Segmentation 3: {start words: "I'd yet Seconal guard zipcar", end words: "gift from god in truly Wallace and it truly remains"}
+Subtitle Segmentation 4: {start words: "my friends miracles are not", end words: "the miracle of the rebuilding of Jerusalem right before our eyes"}
+Subtitle Segmentation 5: {start words: "the Bible has come alive", end words: "miracle of jewish-christian Brotherhood"}
+Subtitle Segmentation 6: {start words: "who would have believed that", end words: "the Land of Israel as prophesied in the Bible"}
+Subtitle Segmentation 7: {start words: "my friends that heavenly gift", end words: "the land of israel"}
+Subtitle Segmentation 8: {start words: "and therefore my friends we", end words: "for Israel and for Jerusalem"}
+Subtitle Segmentation 9: {start words: "my friends it says in", end words: "Israel to thrive and to flourish"}
+Subtitle Segmentation 10: {start words: "my dear friend my brother", end words: "to the Land of Israel may God bless him"}
+Subtitle Segmentation 11: {start words: "and all of those who", end words: "years of darkness and hate"}
+Subtitle Segmentation 12: {start words: "you and me we're going", end words: "all be in thank you"}
+
+Visual Key Event 1(non-visual): The speaker, a Rabbi, is introduced and begins his speech, joking about the remaining time from the previous speaker.
+Visual Key Event 2(non-visual): The Rabbi calls for unity among different religious groups for the sake of Jerusalem and Israel, quoting from the prophet Isaiah.
+Visual Key Event 3(non-visual): The Rabbi discusses the history of Jerusalem, highlighting its desolation and the exclusion of Jews.
+Visual Key Event 4(non-visual): The Rabbi speaks about the miracles and prophecies that have come to pass in recent times, including the rebuilding of Jerusalem.
+Visual Key Event 5(non-visual): The Rabbi talks about the miracle of Jewish-Christian brotherhood and how it has led to the gifting of the Land of Israel and Jerusalem to the Jews.
+Visual Key Event 6(non-visual): The Rabbi reflects on the surprising dissolution of enmity between Christians and Jews after the Holocaust and the return of Jews to Israel.
+Visual Key Event 7(non-visual): The Rabbi emphasizes that the gift of Israel and Jerusalem is irrevocable, despite the resurgence of anti-Semitism.
+Visual Key Event 8(non-visual): The Rabbi discusses the task of combating the denial of Israel's connection to the land of Israel.
+Visual Key Event 9(non-visual): The Rabbi quotes from Isaiah, emphasizing the importance of unity among Jews and Gentiles for the prosperity of Israel.
+Visual Key Event 10(non-visual): The Rabbi praises a Christian bishop for his efforts in promoting love for Israel and friendship with Jews.
+Visual Key Event 11(non-visual): The Rabbi thanks the audience for their presence, calling them soldiers in the Army of God and part of the process for peace in Israel.
+Visual Key Event 12(non-visual): The Rabbi concludes his speech by expressing hope for the future and saluting the Christians present.
+
+Classification:
+Bad.

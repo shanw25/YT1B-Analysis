@@ -1,0 +1,6 @@
+Visual Key Event 4(visual): The team begins their climb, heading up the snow field to Camp Muir.
+Visual Key Event 5(visual): The team continues their climb, passing through Camp Muir and approaching Disappointment Cleaver.
+Visual Key Event 7(visual): The team continues their climb, navigating around other climbers and crossing ladders.
+Visual Key Event 8(visual): The team reaches the summit of Rainier, expressing satisfaction and relief.
+Visual Key Event 9(visual): The team begins their descent, stopping at Camp Muir to change into shorts.
+Visual Key Event 10(visual): The team completes their descent, reflecting on their journey and the crowds at the trailhead.

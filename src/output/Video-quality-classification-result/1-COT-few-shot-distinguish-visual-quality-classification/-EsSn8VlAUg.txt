@@ -1,0 +1,34 @@
+Subtitle Segmentation 1: {start words: "what it is would have", end words: "whole lotta gang [ __ ] you know what I mean"}
+Subtitle Segmentation 2: {start words: "you ever wanted me to", end words: "and all that good stuff man"}
+Subtitle Segmentation 3: {start words: "and without further ado let's", end words: "so good you know I'm saying but that's gotta say"}
+Subtitle Segmentation 4: {start words: "[Applause] [Music] okay I got", end words: "you dig what I'm sayin man"}
+Subtitle Segmentation 5: {start words: "I gotta go ahead finish", end words: "or no you know say"}
+Subtitle Segmentation 6: {start words: "oh what am I wearing", end words: "th ing you know Sam"}
+Subtitle Segmentation 7: {start words: "but let's go ahead continued", end words: "in the comment section below"}
+Subtitle Segmentation 8: {start words: "okay we know he talking", end words: "in the comment section below will greatly appreciated"}
+Subtitle Segmentation 9: {start words: "sorry about them we'll go", end words: "do the stupid dance the music you wear"}
+Subtitle Segmentation 10: {start words: "I think I [Applause] are", end words: "you dig what I'm saying"}
+Subtitle Segmentation 11: {start words: "y'all go ahead like the", end words: "let me know in the comment section below"}
+Subtitle Segmentation 12: {start words: "how was it you know", end words: "I really want to know how y'all feel"}
+Subtitle Segmentation 13: {start words: "and maybe I hear you", end words: "you know what let me make it done there right now"}
+Subtitle Segmentation 14: {start words: "there we go there we", end words: "before May 20th which is my birthday"}
+Subtitle Segmentation 15: {start words: "so it would be a", end words: "tell me in the comment section below greatly appreciate it"}
+
+Visual Key Event 1(non-visual): The speaker introduces himself and celebrates reaching 6k subscribers, setting a goal to reach 10k by his birthday.
+Visual Key Event 2(non-visual): The speaker introduces the video as a reaction to Youngster CPT's song and encourages viewers to like, share, comment, and subscribe.
+Visual Key Event 3(non-visual): The speaker starts the reaction, commenting on the music and joking about potential copyright issues due to his singing.
+Visual Key Event 4(non-visual): The speaker comments on Youngster CPT's flow and how he switches it up, expressing his appreciation for it.
+Visual Key Event 5(non-visual): The speaker discusses the lyrics and asks viewers to comment on who might be stealing Youngster CPT's flow.
+Visual Key Event 6(non-visual): The speaker talks about his clothing, promoting a brand called Crooks Clothing.
+Visual Key Event 7(non-visual): The speaker continues his reaction, asking viewers to explain the meaning of "yasss" in the comments.
+Visual Key Event 8(non-visual): The speaker continues his reaction, commenting on the lyrics and asking viewers to explain the meaning of "yasss" in the comments.
+Visual Key Event 9(non-visual): The speaker continues his reaction, commenting on the music and Youngster CPT's flow.
+Visual Key Event 10(non-visual): The speaker expresses his appreciation for the artist and encourages viewers to like the video.
+Visual Key Event 11(non-visual): The speaker discusses his school experience and asks viewers to share their experiences in the comments.
+Visual Key Event 12(non-visual): The speaker continues to ask viewers about their high school experiences and offers to give advice.
+Visual Key Event 13(non-visual): The speaker concludes his reaction, expressing his enjoyment of the song.
+Visual Key Event 14(non-visual): The speaker concludes the video, reiterating his goal to reach 10k subscribers by his birthday and asking for likes.
+Visual Key Event 15(non-visual): The speaker asks viewers about their high school experiences and how they're doing, expressing his appreciation for their comments.
+
+Classification:
+Bad.

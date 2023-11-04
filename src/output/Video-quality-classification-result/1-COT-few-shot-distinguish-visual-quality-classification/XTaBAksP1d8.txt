@@ -1,0 +1,20 @@
+Subtitle Segmentation 1: {start words: "good morning [Music] [Music] outside", end words: "that's what you hear good"}
+Subtitle Segmentation 2: {start words: "so right now we are", end words: "how today goes good luck to Elizabeth"}
+Subtitle Segmentation 3: {start words: "what's up guys so everything", end words: "she explodes and and you know change a diaper"}
+Subtitle Segmentation 4: {start words: "and then when we get", end words: "let's see what else happens hi [Music]"}
+Subtitle Segmentation 5: {start words: "hello everyone so right now", end words: "we get to go home yay"}
+Subtitle Segmentation 6: {start words: "we survived their first day", end words: "here we are so we decided to test yes"}
+Subtitle Segmentation 7: {start words: "so Elizabeth was not a", end words: "to go home yes it's been a long day"}
+Subtitle Segmentation 8: {start words: "hi finally home I relaxing", end words: "see you next time"}
+
+Visual Key Event 1(visual): The video starts with a morning routine, including preparing breakfast.
+Visual Key Event 2(visual): The family is on their way to church, hoping that their baby, Elizabeth, will fall asleep during the journey.
+Visual Key Event 3(visual): The mother has to return to the car to feed Elizabeth as the church doesn't have a suitable room available.
+Visual Key Event 4(visual): The mother anticipates returning to the church in time for the children's story time.
+Visual Key Event 5(visual): The mother finds a suitable room in the church to feed Elizabeth and socialize.
+Visual Key Event 6(visual): The family successfully completes their first day at church with Elizabeth, who behaved well throughout the day.
+Visual Key Event 7(visual): The family enjoys a day out at the park, noting the pleasant weather.
+Visual Key Event 8(visual): The family returns home, where Elizabeth is changed and ready to relax and watch a movie.
+
+Classification:
+Good.

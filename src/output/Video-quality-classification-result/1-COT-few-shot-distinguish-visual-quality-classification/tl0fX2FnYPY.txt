@@ -1,0 +1,32 @@
+Subtitle Segmentation 1: {start words: "hey everybody my name is", end words: "omelet and whatnot"}
+Subtitle Segmentation 2: {start words: "so yeah they giving me", end words: "nap and then gonna go out"}
+Subtitle Segmentation 3: {start words: "and then you know in", end words: "this is a done wrapped up"}
+Subtitle Segmentation 4: {start words: "here looking good clothes on", end words: "30 minutes left"}
+Subtitle Segmentation 5: {start words: "no what's feeling good right", end words: "Nova daddy's leaving"}
+Subtitle Segmentation 6: {start words: "I'm about to go home", end words: "clean yourself off oh yeah"}
+Subtitle Segmentation 7: {start words: "I got a little something", end words: "delete waving it you see"}
+Subtitle Segmentation 8: {start words: "we know here she waving", end words: "all right so we are back home"}
+Subtitle Segmentation 9: {start words: "just got back from Wendy's", end words: "and all that good stuff"}
+Subtitle Segmentation 10: {start words: "yeah yeah yeah I told", end words: "for the day"}
+Subtitle Segmentation 11: {start words: "all right what's up say", end words: "this handled today you know"}
+Subtitle Segmentation 12: {start words: "yeah okay [Music] [Music] he's", end words: "just doing adulting things"}
+Subtitle Segmentation 13: {start words: "you know just like everybody", end words: "let you know that made this rapid the vlog"}
+Subtitle Segmentation 14: {start words: "for these two days so", end words: "give me that"}
+
+Visual Key Event 1(non-visual): The vlogger introduces himself and shares his plans for the day, including a visit to the High Art Museum of Atlanta.
+Visual Key Event 2(visual): The vlogger shows his daughter eating breakfast and talks about their plans for the day.
+Visual Key Event 3(visual): The vlogger is getting his daughter ready to go to the High Museum of Art.
+Visual Key Event 4(visual): The vlogger and his daughter arrive at the High Museum of Art.
+Visual Key Event 5(visual): The vlogger and his daughter explore the museum and take pictures.
+Visual Key Event 6(visual): The vlogger and his daughter leave the museum and go to Wendy's for dinner.
+Visual Key Event 7(visual): The vlogger and his daughter eat dinner at Wendy's.
+Visual Key Event 8(visual): The vlogger and his daughter return home from Wendy's.
+Visual Key Event 9(non-visual): The vlogger discusses his plans for the rest of the evening, including going to the gym.
+Visual Key Event 10(visual): The vlogger returns from the gym and puts his daughter to bed.
+Visual Key Event 11(visual): The vlogger cleans up the house and does laundry.
+Visual Key Event 12(non-visual): The vlogger discusses his plans for the day, including meal prepping and possibly doing something with his back.
+Visual Key Event 13(non-visual): The vlogger wraps up the vlog for the day.
+Visual Key Event 14(visual): The vlogger's partner arrives home from work and they discuss a new snack bar she found.
+
+Classification:
+Good.

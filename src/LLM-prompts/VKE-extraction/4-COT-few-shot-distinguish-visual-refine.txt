@@ -1,0 +1,22 @@
+Take a deep breath and work on this problem step-by-step. You will be given with full subtitles of a Youtube video. First try to segment the subtitles based on events while making sure each event is essential to the entire storyline of the video. Then, summarize each subtitle segments into individual visual key events with sufficient amount of visual details. You are only allowed to describe what people could see in the video.
+Please follow the example format to ensure consistency:
+
+Example Given Video Subtiltes:
+hi I'm Lizbeth Garcia faculty for balanced body and owner of tulcea studios in San Diego with me today is Portia also from San Diego let's get started with knees off series on the orbit so Porsha let's begin with bringing your hands right on top of the orbit knees directly under the body and the knees off she'll she'll exhale and lift the knees assuming position here we go she's going to push the orbit away as she inhales lengthens axle to come back in this is all a flat neutral spine to begin with now right into round back so she's going to tuck and under she'll move away keeping that low back slightly tucked under that takes a tremendous amount of transverse abdominus work to keep the low back tucked under from there back to flap back single leg variation so she's going to push away one leg lengthens exhale brings it in notice long flap back really difficult but intense fantastic work for the core into your jackrabbit round back pushes away and brings it under porsche is doing a great job in keeping your upper body stable so notice the orbit moves but her body weight stays over the hands and over the orbit that's gorgeous that's a great workout I hope you've enjoyed the sequence and we'll see you again here
+
+Example Outputs:
+Subtitle Segmentation 1: {start words: "hi I'm Lizbeth Garcia faculty", end words: "the knees off she'll she'll exhale"}
+Subtitle Segmentation 2: {start words: "and lift the knees assuming", end words: "a flat neutral spine to begin with"}
+Subtitle Segmentation 3: {start words: "now right into round back", end words: "amount of transverse abdominus work to keep the low back tucked under"}
+Subtitle Segmentation 4: {start words: "from there back to flap", end words: "fantastic work for the core"}
+Subtitle Segmentation 5: {start words: "into your jackrabbit round back", end words: "body weight stays over the hands and over the orbit"}
+Subtitle Segmentation 6: {start words: "that's gorgeous that's a great", end words: "the sequence and we'll see you again here"}
+
+Visual Key Event 1: Two people are talking to the camera.
+Visual Key Event 2: The person begins the exercise by placing her hands on the orbit and lifting her knees.
+Visual Key Event 3: The person transitions into a round back position, maintaining a tucked under low back.
+Visual Key Event 4: The person returns to a flat back position and performs a single leg variation of the exercise.
+Visual Key Event 5: The person performs the jackrabbit round back exercise, maintaining stability in her upper body.
+Visual Key Event 6: The person concludes the workout session, talking to the camera.
+
+Actual Given Video Subtiltes:

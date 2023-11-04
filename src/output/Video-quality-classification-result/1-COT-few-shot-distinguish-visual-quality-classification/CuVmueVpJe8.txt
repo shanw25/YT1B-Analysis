@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "youtubers poppin y'all - avoidy", end words: "it's all good I"}
+Subtitle Segmentation 2: {start words: "the reason for this giveaway", end words: "lot to me man"}
+Subtitle Segmentation 3: {start words: "I'm truly honored blessed humbled", end words: "content I can possibly put out"}
+Subtitle Segmentation 4: {start words: "alright now before I get", end words: "likes and what it doesn't like"}
+Subtitle Segmentation 5: {start words: "now like I said man", end words: "a lot more"}
+Subtitle Segmentation 6: {start words: "now the condition there was", end words: "the Pantene I will go back to the Pantene conditioner"}
+Subtitle Segmentation 7: {start words: "I tried some different conditioners", end words: "the best results"}
+Subtitle Segmentation 8: {start words: "okay because at the end", end words: "a happy beard man"}
+Subtitle Segmentation 9: {start words: "it's crazy because when I", end words: "way better then when I initially tried it on my beard"}
+Subtitle Segmentation 10: {start words: "well my beard was dry", end words: "to make your beard happy"}
+Subtitle Segmentation 11: {start words: "now fellas besides the products", end words: "about having a happy beard man"}
+Subtitle Segmentation 12: {start words: "now let's get into the", end words: "for one of you guys"}
+Subtitle Segmentation 13: {start words: "alright alright fella so now", end words: "on the channel next week Friday"}
+
+Visual Key Event 1(non-visual): The YouTuber welcomes viewers back to the channel and teases a giveaway at the end of the video.
+Visual Key Event 2(non-visual): The YouTuber expresses gratitude for reaching 20,000 subscribers and thanks his viewers for their support.
+Visual Key Event 3(non-visual): The YouTuber reflects on his YouTube journey and his initial expectations when he started the channel.
+Visual Key Event 4(non-visual): The YouTuber reflects on his two-year journey of growing his beard and the various products he has used.
+Visual Key Event 5(visual): The YouTuber discusses his experience with different hair products and how they affected his beard.
+Visual Key Event 6(non-visual): The YouTuber discusses his experience with different conditioners and his preference for Pantene conditioner.
+Visual Key Event 7(non-visual): The YouTuber advises viewers to use products that give them the best results, as everyone's experience with different products can vary.
+Visual Key Event 8(non-visual): The YouTuber shares his initial disappointment with using oil and balm on his beard and how he learned to use them effectively.
+Visual Key Event 9(non-visual): The YouTuber shares his experience with using balm on his beard and how he learned to use it effectively.
+Visual Key Event 10(non-visual): The YouTuber emphasizes the importance of finding products and routines that make your beard happy.
+Visual Key Event 11(non-visual): The YouTuber discusses the importance of having a proper routine for beard care.
+Visual Key Event 12(visual): The YouTuber reveals the first giveaway, a box of products from Spartan's Den.
+Visual Key Event 13(visual): The YouTuber reveals the second giveaway, a collection of products from Scotch Porter, and explains how viewers can enter to win.
+
+Classification:
+Good.

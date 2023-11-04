@@ -1,0 +1,20 @@
+Visual Event 1: The video starts with the presenter introducing the Samsung Galaxy S8.
+Start Time: 0.03 End Time: 4.08
+
+Visual Event 2: The presenter introduces the concept of the freeze test with liquid nitrogen.
+Start Time: 4.11 End Time: 8.37
+
+Visual Event 3: The presenter starts the experiment by dunking objects into liquid nitrogen.
+Start Time: 11.099 End Time: 36.54
+
+Visual Event 4: The presenter tests the durability of the iPhone by dunking it into liquid nitrogen.
+Start Time: 97.229 End Time: 182.4
+
+Visual Event 5: The presenter tests the durability of the Samsung Galaxy by dunking it into liquid nitrogen.
+Start Time: 223.799 End Time: 328.66
+
+Visual Event 6: The presenter concludes the experiment by comparing the effects of liquid nitrogen on both the iPhone and Samsung Galaxy.
+Start Time: 433.699 End Time: 650.46
+
+Visual Event 7: The presenter concludes the video by summarizing the results of the experiment.
+Start Time: 655.84 End Time: 683.2

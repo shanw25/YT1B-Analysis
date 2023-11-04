@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "good evening everybody I'm going", end words: "an embodiment of all these goddesses"}
+Subtitle Segmentation 2: {start words: "ladies and gentlemen I would", end words: "could complete her education"}
+Subtitle Segmentation 3: {start words: "she was not allowed to", end words: "I am the girl"}
+Subtitle Segmentation 4: {start words: "there are millions of girls", end words: "never to give up"}
+Subtitle Segmentation 5: {start words: "ladies and gentlemen I believe", end words: "can become three and even more"}
+Subtitle Segmentation 6: {start words: "the way it happened with", end words: "if it were communicated visually"}
+Subtitle Segmentation 7: {start words: "now why am I here", end words: "a little less than 1.5 trillion"}
+Subtitle Segmentation 8: {start words: "there is a huge gap", end words: "is it making a difference"}
+Subtitle Segmentation 9: {start words: "my answer would be yes", end words: "economic development of our country"}
+Subtitle Segmentation 10: {start words: "that is the sad state", end words: "we educated women of our country"}
+Subtitle Segmentation 11: {start words: "now when we talk about", end words: "big change in the value system"}
+Subtitle Segmentation 12: {start words: "this big change has to", end words: "bring about that huge mindset"}
+Subtitle Segmentation 13: {start words: "I'm sure we are one", end words: "work towards achieving that dream number by 2020"}
+
+Visual Key Event 1(non-visual): The speaker introduces herself and her passion for women's empowerment, referencing Indian goddesses as symbols of strength and power.
+Visual Key Event 2(non-visual): The speaker shares a personal story about a girl from Mumbai who was denied opportunities due to her gender.
+Visual Key Event 3(non-visual): The speaker reveals that she is the girl from the story and discusses the struggles she faced due to societal norms.
+Visual Key Event 4(non-visual): The speaker credits her parents, particularly her father, for instilling in her the values of grit and determination.
+Visual Key Event 5(non-visual): The speaker discusses the potential of men and women working together, using her own successful partnership with her husband as an example.
+Visual Key Event 6(non-visual): The speaker discusses the importance of visual communication and the opportunities it opens up once a person is engaged.
+Visual Key Event 7(non-visual): The speaker discusses India's economic goals and the current gap between the vision and reality.
+Visual Key Event 8(non-visual): The speaker discusses the importance of education and questions whether the investment in education is making a difference.
+Visual Key Event 9(non-visual): The speaker discusses the underrepresentation of women in employment and the low literacy rate among women in India.
+Visual Key Event 10(non-visual): The speaker sees the current state of affairs as an opportunity for educated women in India to contribute to the country's economic development.
+Visual Key Event 11(non-visual): The speaker discusses the need for a big change in the value system to allow educated women to contribute positively to the nation.
+Visual Key Event 12(non-visual): The speaker discusses the need for a change in mindset and the responsibility of men and society to bring about this change.
+Visual Key Event 13(non-visual): The speaker encourages the audience to work towards achieving India's dream number by 2020, emphasizing the importance of gender equality.
+
+Classification:
+Good.

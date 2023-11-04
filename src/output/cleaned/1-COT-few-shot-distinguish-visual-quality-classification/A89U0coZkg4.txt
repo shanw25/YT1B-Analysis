@@ -1,0 +1,6 @@
+Visual Key Event 2(visual): The speaker and his team find something interesting, possibly a relic or artifact.
+Visual Key Event 3(visual): The speaker and his team continue their search, using a metal detector and finding more items.
+Visual Key Event 4(visual): The speaker and his team find something significant, possibly a gold ring with a sovereign in it.
+Visual Key Event 5(visual): The speaker and his team examine their find, a gold coin over a chain from 1893.
+Visual Key Event 8(visual): The speaker and his team plan a prank on a friend, involving their finds from the day.
+Visual Key Event 9(visual): The speaker and his team execute their prank, surprising their friend with the gold ring coin among other items.

@@ -1,0 +1,23 @@
+Visual Event 1: Two men meet and greet each other.
+Start Time: 1.49 End Time: 11.639
+
+Visual Event 2: The men are seen in a gym, preparing for a workout.
+Start Time: 11.639 End Time: 35.01
+
+Visual Event 3: The men start their workout with a horizontal chest press machine.
+Start Time: 35.01 End Time: 74.93
+
+Visual Event 4: The men continue their workout with a lateral raise machine.
+Start Time: 99.11 End Time: 137.85
+
+Visual Event 5: The men proceed with cable chest flys.
+Start Time: 196.819 End Time: 243.079
+
+Visual Event 6: The men perform cable tricep extensions.
+Start Time: 412.159 End Time: 486.62
+
+Visual Event 7: The men conclude their workout and share their thoughts.
+Start Time: 498.139 End Time: 553.49
+
+Visual Event 8: One of the men is seen performing on American Ninja Warrior.
+Start Time: 557.63 End Time: 595.21

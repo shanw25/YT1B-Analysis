@@ -1,0 +1,22 @@
+Visual Event 1: The video starts with a Volkswagen Golf car being shown.
+Start Time: 0.08 End Time: 4.239
+Visual Event 2: The video shows the interior of the Volkswagen Golf car.
+Start Time: 20.56 End Time: 29.76
+Visual Event 3: The video demonstrates the air conditioning controls of the car.
+Start Time: 43.36 End Time: 49.28
+Visual Event 4: The video shows the large glove box and door bins of the car.
+Start Time: 78.32 End Time: 85.04
+Visual Event 5: The video shows the touchscreen and infotainment system of the car.
+Start Time: 87.439 End Time: 110.96
+Visual Event 6: The video shows the back seats and the practicality of the car.
+Start Time: 116.0 End Time: 152.56
+Visual Event 7: The video shows the boot of the car and its practicality.
+Start Time: 163.2 End Time: 192.879
+Visual Event 8: The video shows the Volkswagen Golf car being driven.
+Start Time: 218.319 End Time: 230.14
+Visual Event 9: The video shows the front passenger seat and door pockets of the car.
+Start Time: 360.24 End Time: 373.36
+Visual Event 10: The video shows the boot dividers and the parcel shelf of the car.
+Start Time: 330.88 End Time: 346.16
+Visual Event 11: The video ends with the Volkswagen Golf car being shown again.
+Start Time: 396.639 End Time: 429.039

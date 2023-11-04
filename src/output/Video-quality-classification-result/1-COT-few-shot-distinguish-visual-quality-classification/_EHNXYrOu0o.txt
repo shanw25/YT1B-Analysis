@@ -1,0 +1,34 @@
+Subtitle Segmentation 1: {start words: "this is my Harry Potter", end words: "this bit added on to it"}
+Subtitle Segmentation 2: {start words: "I thought very difficult but", end words: "and it's fabulous and I loved it"}
+Subtitle Segmentation 3: {start words: "so much and I can't", end words: "that I couldn't pass up"}
+Subtitle Segmentation 4: {start words: "now this isn't really the", end words: "before Christmas so that I can find"}
+Subtitle Segmentation 5: {start words: "so I did actually technically", end words: "ones a little bit itchy"}
+Subtitle Segmentation 6: {start words: "I do have the are", end words: "live my Hogwarts wheezy life"}
+Subtitle Segmentation 7: {start words: "so these are those two", end words: "one of them but didn't buy it"}
+Subtitle Segmentation 8: {start words: "that time we had the", end words: "my with my scarf I measure my gloves"}
+Subtitle Segmentation 9: {start words: "so the next higher coated", end words: "a perfect no prop replica which I love"}
+Subtitle Segmentation 10: {start words: "this next item I was", end words: "that was a really unique gift that I'd never seen before"}
+Subtitle Segmentation 11: {start words: "so I thought that was", end words: "it would get dusty"}
+Subtitle Segmentation 12: {start words: "so this is actually a", end words: "didn't receive someone's and actually our two ones"}
+Subtitle Segmentation 13: {start words: "as Christmas say lucky lucky", end words: "might be a Weasley because this is very similar"}
+Subtitle Segmentation 14: {start words: "to either combo far the", end words: "I've got no space"}
+Subtitle Segmentation 15: {start words: "so that's it for this", end words: "is just one spell away"}
+
+Visual Key Event 1(non-visual): The speaker introduces her Harry Potter Christmas haul, showing a vest that was handmade by her mother, based on a vest from the Harry Potter series.
+Visual Key Event 2(visual): The speaker shows the details of the vest, including the fabric and the letter "R" that was traced and made by her mother.
+Visual Key Event 3(non-visual): The speaker discusses how she purchased two jumpers during Black Friday deals at the Platform 9 ¾ shop at London Kings Cross station.
+Visual Key Event 4(non-visual): The speaker explains that she wanted to use the jumpers for videos before Christmas, so she technically got them for Christmas.
+Visual Key Event 5(visual): The speaker shows the jumpers, which are based on the original ones made from lamb's wool, but these are made from acrylic and are thinner and more wearable.
+Visual Key Event 6(non-visual): The speaker expresses her excitement about wearing the jumpers and living her "Hogwarts Weasley life."
+Visual Key Event 7(visual): The speaker shows a Hufflepuff vintage scarf, which she also bought for a friend who wanted one.
+Visual Key Event 8(visual): The speaker shows gloves that match her scarf, which she asked for Christmas.
+Visual Key Event 9(visual): The speaker shows a Skellig water bottle, which she received as a gift and plans to feature on her shelves as a prop replica.
+Visual Key Event 10(visual): The speaker shows a Harry Potter desk calendar, which she had never seen before and finds unique.
+Visual Key Event 11(non-visual): The speaker discusses a Daily Prophet tea towel, which she finds useful for dishes in her home.
+Visual Key Event 12(non-visual): The speaker expresses her excitement about receiving two wands for Christmas.
+Visual Key Event 13(visual): The speaker shows the first wand she received, which is Fleur Delacour's wand, and discusses its unique design.
+Visual Key Event 14(visual): The speaker shows the second wand she received, which is Bunty's wand, and discusses its beautiful design.
+Visual Key Event 15(non-visual): The speaker concludes her Harry Potter Christmas haul, asking viewers to comment on their favorite items and what Harry Potter items they received for Christmas.
+
+Classification:
+Good.

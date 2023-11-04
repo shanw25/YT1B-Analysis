@@ -1,0 +1,8 @@
+Visual Key Event 1(visual): The speaker is preparing to go out on the ice, checking it with a spud bar and expressing nervousness about the cracks on the edges.
+Visual Key Event 2(visual): The speaker successfully drills three holes in the ice and begins fishing, catching a small fish.
+Visual Key Event 4(visual): The speaker catches another fish, commenting on how it swallowed the bait because it was probably hungry.
+Visual Key Event 6(visual): The speaker catches another fish, admiring its pink and purple colors.
+Visual Key Event 7(visual): The speaker catches a fish infested with parasites, showing the black and white dots on the fish.
+Visual Key Event 8(visual): The speaker tries to remove the parasites from the fish, commenting on how it's fun to catch but not to eat.
+Visual Key Event 9(visual): The speaker continues fishing, catching several more fish and commenting on the presence of big bass in the area.
+Visual Key Event 10(visual): The speaker catches a darker fish, commenting on the presence of turkeys in the area.

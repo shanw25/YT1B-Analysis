@@ -1,0 +1,29 @@
+Visual Event 1: The video starts with a close-up of five mystery mushrooms toys.
+Start Time: 0.03 End Time: 5.94
+
+Visual Event 2: The host shows the mushrooms toys, emphasizing their adorable design and unique features.
+Start Time: 5.97 End Time: 17.699
+
+Visual Event 3: The host begins to unbox the first mushroom toy, revealing a mystery toy inside.
+Start Time: 19.38 End Time: 26.99
+
+Visual Event 4: The host opens the mystery toy, revealing a beautiful toy with a heart design.
+Start Time: 64.659 End Time: 75.909
+
+Visual Event 5: The host places the opened toy on top of the mushroom.
+Start Time: 99.76 End Time: 102.67
+
+Visual Event 6: The host continues to unbox the remaining mushrooms, revealing more toys.
+Start Time: 133.7 End Time: 174.01
+
+Visual Event 7: The host compares the different finishes of the toys - standard, pearl, and glitter.
+Start Time: 235.4 End Time: 273.0
+
+Visual Event 8: The host shows the final collection of unboxed toys, expressing her happiness with the variety.
+Start Time: 334.62 End Time: 390.56
+
+Visual Event 9: The host asks viewers to share their favorite toy in the comments.
+Start Time: 401.72 End Time: 404.629
+
+Visual Event 10: The video ends with a farewell from the host.
+Start Time: 406.28 End Time: 406.28

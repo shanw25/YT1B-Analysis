@@ -1,0 +1,25 @@
+Subtitle Segmentation 1: {start words: "all right let's talk compact", end words: "call that a draw"}
+Subtitle Segmentation 2: {start words: "both speakers are made with", end words: "for their various inputs"}
+Subtitle Segmentation 3: {start words: "both speakers are fan-cooled with", end words: "the DX r8 has 100 120 Hertz"}
+Subtitle Segmentation 4: {start words: "the Yamaha does power on", end words: "very clear for speech"}
+Subtitle Segmentation 5: {start words: "but the new K dot", end words: "mostly lay flat on the ground"}
+Subtitle Segmentation 6: {start words: "now of course you can't", end words: "at peak volumes"}
+Subtitle Segmentation 7: {start words: "the Yamaha DX r8 has", end words: "not too shabby the slight edge goes to Yamaha"}
+Subtitle Segmentation 8: {start words: "the k8 2's have locking", end words: "nice to have"}
+Subtitle Segmentation 9: {start words: "the inputs are a little", end words: "that on both lines"}
+Subtitle Segmentation 10: {start words: "the digital signal processing is", end words: "contrast of your screen"}
+Subtitle Segmentation 11: {start words: "this is also where you", end words: "that's just personal preference"}
+Subtitle Segmentation 12: {start words: "here's a quick size comparison", end words: "quality sound thanks for watching subscribe for more content see you next time"}
+
+Visual Key Event 1(non-visual): The speaker introduces the 2012 Yamaha DX r8 and the 2017 QSC k 8.2 compact speakers, highlighting their similarities.
+Visual Key Event 2(visual): The speaker discusses the physical features of both speakers, including their construction, handles, rubber feet, and dual pull cups.
+Visual Key Event 3(visual): The speaker talks about the fan-cooling system and subwoofer crossovers of both speakers.
+Visual Key Event 4(non-visual): The speaker shares his experience with the Yamaha DX r8, praising its versatility, portability, and clarity for speech.
+Visual Key Event 5(visual): The speaker discusses the unique features of the K dot 2 Series, including its wedge design for use as a monitor.
+Visual Key Event 6(visual): The speaker compares the power output of both speakers, noting that the QSC k 8.2 series has a higher peak power output.
+Visual Key Event 7(non-visual): The speaker compares the warranties of both speakers, giving a slight edge to Yamaha.
+Visual Key Event 8(visual): The speaker discusses the locking connectors of the k8 2's and the lack of these locks in the DX r8.
+Visual Key Event 9(visual): The speaker compares the input options of both speakers.
+Visual Key Event 10(visual): The speaker discusses the digital signal processing options of both speakers, highlighting the additional options provided by QSC.
+Visual Key Event 11(visual): The speaker discusses the settings area of the QSC speaker, including the LED selection and contrast adjustment.
+Visual Key Event 12(visual): The speaker provides a size comparison between the k8 2 and a K 12.2, and gives a final recommendation based on the user's needs.

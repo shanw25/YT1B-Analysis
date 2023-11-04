@@ -1,0 +1,48 @@
+Subtitle Segmentation 1: {start words: "Richard I am so glad", end words: "forward to your report it Richard thank you"}
+Subtitle Segmentation 2: {start words: "well thanks Rachel and thanks", end words: "has lost its biggest city"}
+Subtitle Segmentation 3: {start words: "the self-declared Caliphate the so-called", end words: "without us"}
+Subtitle Segmentation 4: {start words: "the question we will try", end words: "promised to be broken"}
+Subtitle Segmentation 5: {start words: "Isis first rolled into Mosul", end words: "bears forever"}
+Subtitle Segmentation 6: {start words: "there has been a massive", end words: "back on its feet and put American firepower behind it"}
+Subtitle Segmentation 7: {start words: "late last year the Iraqi", end words: "to try to hold on"}
+Subtitle Segmentation 8: {start words: "by late June Isis fighters", end words: "people of Mosul would have to pay"}
+Subtitle Segmentation 9: {start words: "this is what victory in", end words: "just draws deeper into a failed state"}
+Subtitle Segmentation 10: {start words: "we left Iraq once before", end words: "the so-called caliphate his men raised their black flag"}
+Subtitle Segmentation 11: {start words: "on the ancient leaning minaret", end words: "the next several days"}
+Subtitle Segmentation 12: {start words: "what's the pipe been like", end words: "the fight up close"}
+Subtitle Segmentation 13: {start words: "we joined a unit from", end words: "they're fighting to rescue"}
+Subtitle Segmentation 14: {start words: "when we got back to", end words: "discipline his officers"}
+Subtitle Segmentation 15: {start words: "how are you outside he", end words: "all there for them"}
+Subtitle Segmentation 16: {start words: "as we climbed into his", end words: "advantages for Isis"}
+Subtitle Segmentation 17: {start words: "but what possible benefit military", end words: "so much devastation"}
+Subtitle Segmentation 18: {start words: "because the Islamic state fighters", end words: "destruction of Mosul at this point"}
+Subtitle Segmentation 19: {start words: "and we applaud and we", end words: "support and encouragement"}
+Subtitle Segmentation 20: {start words: "it still wouldn't have been", end words: "continue to help them attack Isis"}
+Subtitle Segmentation 21: {start words: "when does the United States", end words: "can't do without us"}
+Subtitle Segmentation 22: {start words: "Isis lost Mosul but where", end words: "out of the shadows"}
+
+Visual Key Event 1(non-visual): Richard and the host discuss the recent developments in the war against Isis in Iraq.
+Visual Key Event 2(visual): The host describes the location of their broadcast from Erbil in northern Iraq and the ongoing fight against Isis in Mosul.
+Visual Key Event 3(visual): The host explains the role of the American troops in the battle against Isis and the potential implications of the end of Isis in Mosul.
+Visual Key Event 4(visual): The host recounts the history of Isis's invasion of Mosul and the subsequent failure of the Iraqi army and police.
+Visual Key Event 5(visual): The host describes the establishment of the Islamic state by Isis and their declaration of Mosul as their territory.
+Visual Key Event 6(visual): The host discusses the return of American troops to Iraq and their mission to train and equip the Iraqi army.
+Visual Key Event 7(visual): The host describes the intense battle for Mosul, with Isis using various tactics to hold their ground.
+Visual Key Event 8(visual): The host describes the aftermath of the battle for Mosul, with the city in ruins and its people suffering.
+Visual Key Event 9(non-visual): The host questions whether the end of Isis in Mosul brings the US any closer to ending its commitment in Iraq.
+Visual Key Event 10(visual): The host recounts the rise of Isis and their declaration of a caliphate from the grand on nuri mosque in Mosul.
+Visual Key Event 11(visual): The host interviews Colonel Patrick Work about the ongoing battle against Isis in Mosul.
+Visual Key Event 12(visual): The host joins a unit from the Iraqi army to witness the fight against Isis up close.
+Visual Key Event 13(visual): The host describes the difficult situation faced by the Iraqi soldiers, who are under attack by some of the very people they're trying to rescue.
+Visual Key Event 14(non-visual): The host attends a meeting where the senior Iraqi general is urging his commanders to push harder in the fight against Isis.
+Visual Key Event 15(non-visual): The host discusses with Colonel Work about the challenges faced by the Iraqi soldiers in distinguishing between insurgents and civilians.
+Visual Key Event 16(non-visual): The host questions the military benefit of Isis using women and children as cover.
+Visual Key Event 17(visual): The host questions the extent of devastation caused by the so-called precision fire.
+Visual Key Event 18(non-visual): The host discusses the responsibility of Isis for the destruction of Mosul.
+Visual Key Event 19(non-visual): The host discusses the role of American servicemen in the fight against Isis in Mosul.
+Visual Key Event 20(non-visual): The host discusses the ongoing commitment of the US to help Iraq in its fight against Isis.
+Visual Key Event 21(non-visual): The host questions when the US's commitment to Iraq will finally end.
+Visual Key Event 22(non-visual): The host discusses the uncertainty surrounding the whereabouts of the Isis leader, Abu Bakr al-baghdadi.
+
+Classification:
+Good.

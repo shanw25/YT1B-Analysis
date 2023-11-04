@@ -1,0 +1,7 @@
+Visual Key Event 2(visual): The artist sketches the concept, incorporating curving lines reminiscent of a swan's neck.
+Visual Key Event 4(visual): The artist completes the line work and begins adding color to the painting.
+Visual Key Event 9(visual): The artist finishes up the patterns on the character and adds more patterning to the background.
+Visual Key Event 11(visual): The artist completes the painting, adding more patterns to the background and finishing the character.
+Visual Key Event 14(visual): The artist completes the painting, adding more patterns to the background and finishing the character.
+Visual Key Event 15(visual): The artist completes the painting, adding more patterns to the background and finishing the character.
+Visual Key Event 17(visual): The artist completes the painting, adding more patterns to the background and finishing the character.

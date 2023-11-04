@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "[Music] how's it going you", end words: "catch you guys on the water [Music] [Music]"}
+Subtitle Segmentation 2: {start words: "now I'm thinking we dip", end words: "there we go there's a stud right there"}
+Subtitle Segmentation 3: {start words: "I mean that's a beauty", end words: "oh my god that's a beautiful calico fired up and ready to eat"}
+Subtitle Segmentation 4: {start words: "what up baby right here", end words: "see if he comes back for it [Music]"}
+Subtitle Segmentation 5: {start words: "oh yeah they're just just", end words: "buuuut long another calico"}
+Subtitle Segmentation 6: {start words: "oh we got one straight", end words: "going going going going point going going going"}
+Subtitle Segmentation 7: {start words: "almost stuck one of the", end words: "that's the calc of teeth dude is crazy"}
+Subtitle Segmentation 8: {start words: "keep him just keep it", end words: "fish on fish on fish on fish on"}
+Subtitle Segmentation 9: {start words: "fish on hung up on", end words: "another beautiful calico bass"}
+Subtitle Segmentation 10: {start words: "oh actually that be nice", end words: "got a CUDA on coot on"}
+Subtitle Segmentation 11: {start words: "we're fighting a hard cooter", end words: "let's get him back"}
+Subtitle Segmentation 12: {start words: "JP right here do we", end words: "they're gross but we'll get this guy off the hook"}
+Subtitle Segmentation 13: {start words: "how's it going you guys", end words: "I will catch you guys later peace [Music]"}
+
+Visual Key Event 1(non-visual): The group introduces themselves and their plan for the day, which includes bass fishing at a local reef.
+Visual Key Event 2(visual): The group starts fishing and catches a decent-sized fish, which they identify as a calico bass.
+Visual Key Event 3(visual): The group continues fishing, catching another calico bass which they describe as beautiful and fired up.
+Visual Key Event 4(visual): The group loses a fish but hopes it will come back for the bait.
+Visual Key Event 5(visual): The group catches another calico bass after losing it three times.
+Visual Key Event 6(visual): The group continues fishing, catching another calico bass.
+Visual Key Event 7(visual): The group catches another calico bass, commenting on its teeth.
+Visual Key Event 8(visual): The group keeps fishing, catching another fish.
+Visual Key Event 9(visual): The group catches another calico bass.
+Visual Key Event 10(visual): The group catches a barracuda, which they refer to as a "coot."
+Visual Key Event 11(visual): The group releases the barracuda back into the water.
+Visual Key Event 12(visual): The group catches a bat ray, which they refer to as a "mud marlin."
+Visual Key Event 13(non-visual): The group wraps up their day, reflecting on their catches and encouraging viewers to subscribe for a future giveaway.
+
+Classification:
+Good.

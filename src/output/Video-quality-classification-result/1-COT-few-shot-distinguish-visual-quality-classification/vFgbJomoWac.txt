@@ -1,0 +1,32 @@
+Subtitle Segmentation 1: {start words: "[Music] [Music] [Music] 200 miles", end words: "too bad of a deal"}
+Subtitle Segmentation 2: {start words: "however of course I'm I'm", end words: "pluses and minuses"}
+Subtitle Segmentation 3: {start words: "so last night was lo", end words: "completely shitty on another news"}
+Subtitle Segmentation 4: {start words: "I with my knee been", end words: "easy right so yeah here we go"}
+Subtitle Segmentation 5: {start words: "that was my first bear", end words: "dangerous and next like that"}
+Subtitle Segmentation 6: {start words: "once I distinctly remember thinking", end words: "a comment below"}
+Subtitle Segmentation 7: {start words: "all right I don't know", end words: "a little bit about myself"}
+Subtitle Segmentation 8: {start words: "so I'm gonna try to", end words: "feed it beer I thought yeah sounds appropriate"}
+Subtitle Segmentation 9: {start words: "I'll go with that broad", end words: "a degree for you uh"}
+Subtitle Segmentation 10: {start words: "so graduated from u-dub then", end words: "the audience but I digress"}
+Subtitle Segmentation 11: {start words: "so I got out moved", end words: "a cohesive and an understandable format that doesn't lose the audience"}
+Subtitle Segmentation 12: {start words: "so I got out moved", end words: "a cohesive and an understandable format that doesn't lose the audience"}
+Subtitle Segmentation 13: {start words: "so I got out I", end words: "this journey together into the wild yeah"}
+Subtitle Segmentation 14: {start words: "all right thank you so", end words: "you're contributing to that organization I thank you"}
+
+Visual Key Event 1(non-visual): The speaker reflects on his decision to start his journey in May, avoiding the large group of people starting in April.
+Visual Key Event 2(non-visual): The speaker discusses his current pace and the need to increase it to meet his timeline.
+Visual Key Event 3(visual): The speaker talks about his knee problems and shows the KT Tape he uses for support.
+Visual Key Event 4(visual): The speaker recounts his first encounters with a bear and a rattlesnake on the trail.
+Visual Key Event 5(non-visual): The speaker reflects on a missing-persons report he had been thinking about.
+Visual Key Event 6(non-visual): The speaker begins to share personal details about himself, including his real name and trail name.
+Visual Key Event 7(non-visual): The speaker shares his educational background and how he paid for his education.
+Visual Key Event 8(non-visual): The speaker discusses his military service and his move to Los Angeles to pursue a career in the entertainment industry.
+Visual Key Event 9(non-visual): The speaker talks about his experience working on the TV show ER and his subsequent deployment to Iraq.
+Visual Key Event 10(non-visual): The speaker shares his experience working in the military science department at USC and his return to the military.
+Visual Key Event 11(non-visual): The speaker discusses his decision to leave the DGA training program and his subsequent promotion and move to Europe.
+Visual Key Event 12(non-visual): The speaker talks about his decision to hike the Appalachian Trail and the delay in his start date due to a military assignment in Korea.
+Visual Key Event 13(non-visual): The speaker concludes his personal introduction and thanks the viewers for joining him on his journey.
+Visual Key Event 14(non-visual): The speaker encourages viewers to subscribe and announces his plan to donate all proceeds from the video to the Wounded Warrior organization.
+
+Classification:
+Good.

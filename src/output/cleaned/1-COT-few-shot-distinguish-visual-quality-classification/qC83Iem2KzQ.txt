@@ -1,0 +1,5 @@
+Visual Key Event 2(visual): Louise shows a box where she keeps her finished projects, indicating that it's starting to fill up.
+Visual Key Event 4(visual): Louise shows some of her finished projects, including a dynamic air piece.
+Visual Key Event 5(visual): Louise shows a blue sweater she's knitting, indicating that she's already finished a few balls of yarn for it.
+Visual Key Event 9(visual): Louise shows a two-colored dishcloth she made, expressing her satisfaction with the result.
+Visual Key Event 11(visual): Louise shows her pile of finished dishcloths, expressing her satisfaction with her progress.

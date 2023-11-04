@@ -1,0 +1,28 @@
+Subtitle Segmentation 1: {start words: "hi guys al Maloney and", end words: "I upload a video"}
+Subtitle Segmentation 2: {start words: "so let's talk about this", end words: "on the screen so you can see that"}
+Subtitle Segmentation 3: {start words: "and there will be a", end words: "I shopped so let's get started"}
+Subtitle Segmentation 4: {start words: "so the first thing I", end words: "got it for 1,200"}
+Subtitle Segmentation 5: {start words: "the next thing that I", end words: "for nine hundred and eighty rupees"}
+Subtitle Segmentation 6: {start words: "so yeah this is the", end words: "I got a 1039"}
+Subtitle Segmentation 7: {start words: "so the next hour to", end words: "for 1,800 rupees"}
+Subtitle Segmentation 8: {start words: "so this is how it", end words: "alter this dress and wear it"}
+Subtitle Segmentation 9: {start words: "the next thing that I", end words: "perfect for that and you go boom"}
+Subtitle Segmentation 10: {start words: "to reflect your infant wear", end words: "important things in it"}
+Subtitle Segmentation 11: {start words: "so the last thing that", end words: "this way so you this is the bag"}
+Subtitle Segmentation 12: {start words: "and now let's start with", end words: "xoxo bye [Music]"}
+
+Visual Key Event 1(non-visual): Al Maloney introduces herself and her channel, asking viewers to subscribe and turn on notifications.
+Visual Key Event 2(non-visual): Al discusses the topic of the video, which is a sale she took advantage of, and mentions that she will include prices on the screen.
+Visual Key Event 3(visual): Al reveals the first item she bought, a long maxi dress from a boutique in Pune, and describes its features.
+Visual Key Event 4(visual): Al shows the second item, an olive green bomber jacket from Lulu and Skye, and explains why she likes bomber jackets.
+Visual Key Event 5(visual): Al presents the third item, a grey dress from Coos, and suggests how it could be styled.
+Visual Key Event 6(visual): Al displays the fourth item, a green and white gingham print dress from Coos, and discusses its features.
+Visual Key Event 7(visual): Al talks about the fit of the dress and her plans to alter it.
+Visual Key Event 8(visual): Al shows the fifth item, a golden bag from Forever New, and shares her tips for buying bags from the brand.
+Visual Key Event 9(visual): Al presents the sixth item, a blue bag from Forever New, and discusses its features.
+Visual Key Event 10(visual): Al reveals the final item, a brick-colored bag from 4JD, and demonstrates how it opens.
+Visual Key Event 11(visual): Al starts the try-on portion of the video, showing how each item looks when worn.
+Visual Key Event 12(non-visual): Al concludes the video, asking viewers to comment their favorite item and subscribe to her channel.
+
+Classification:
+Good.

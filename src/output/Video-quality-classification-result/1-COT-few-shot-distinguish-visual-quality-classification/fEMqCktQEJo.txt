@@ -1,0 +1,26 @@
+Subtitle Segmentation 1: {start words: "well what's up YouTube I", end words: "my dash camera protect yourselves"}
+Subtitle Segmentation 2: {start words: "but but yeah so some", end words: "the lady was insured so I mean just just just really good things"}
+Subtitle Segmentation 3: {start words: "so they make you pass", end words: "I am now back my accounts back active but I do not have an eligible vehicle"}
+Subtitle Segmentation 4: {start words: "this vehicle though as it", end words: "back on the road in a rental or you know"}
+Subtitle Segmentation 5: {start words: "so yeah so this kind", end words: "obstacles are just hills to climb on to get a better view"}
+Subtitle Segmentation 6: {start words: "I was like I like", end words: "you got to work with what you got in life guys"}
+Subtitle Segmentation 7: {start words: "you know this could have", end words: "my lost wages you know and there's just there's just a lot a lot to it"}
+Subtitle Segmentation 8: {start words: "I feel like I've there's", end words: "could happen to anyone at any time so definitely be safe out here guys"}
+Subtitle Segmentation 9: {start words: "my rideshare days are not", end words: "that is my saving grace for any kind of you know even when I showed the police they were like oh she was soem fault I'm like yeah well there you go"}
+Subtitle Segmentation 10: {start words: "so definitely protect yourselves let's", end words: "that needs to be done and as of right now my quote my quotes for how long the car is gonna be out of commission is probably about a month"}
+Subtitle Segmentation 11: {start words: "so like I said guys", end words: "I will see you guys on Tuesday and until next time definitely make me proud out here"}
+
+Visual Key Event 1(non-visual): The speaker introduces himself and shares an incident where a lady ran a stop sign and hit his car, emphasizing the importance of having a dash camera.
+Visual Key Event 2(non-visual): The speaker discusses the insurance and protection he had during the accident, highlighting the importance of having such coverage.
+Visual Key Event 3(non-visual): The speaker talks about the process of passing a drug test after the accident and the inconvenience it caused.
+Visual Key Event 4(non-visual): The speaker discusses the current state of his vehicle and his plans to get back on the road.
+Visual Key Event 5(non-visual): The speaker shares his philosophy on dealing with obstacles in life, using a quote about obstacles being hills to climb for a better view.
+Visual Key Event 6(non-visual): The speaker shares his determination to keep working despite the accident, discussing his plans to help out at a bar and his hustle mentality.
+Visual Key Event 7(non-visual): The speaker discusses the inconvenience of the accident and the potential for lost wages, mentioning that the son of his passenger is a lawyer and eager to help.
+Visual Key Event 8(non-visual): The speaker emphasizes the unpredictability of accidents and the importance of safety.
+Visual Key Event 9(non-visual): The speaker reaffirms his commitment to rideshare driving and discusses the importance of his dash camera footage in proving the other driver's fault.
+Visual Key Event 10(visual): The speaker shows the damage to his vehicle from the accident, discussing the extent of the damage and the estimated time for repairs.
+Visual Key Event 11(non-visual): The speaker encourages his viewers to stay strong and shares the good news of his channel being monetized, expressing his appreciation for his viewers and his pride in their achievements.
+
+Classification:
+Good.

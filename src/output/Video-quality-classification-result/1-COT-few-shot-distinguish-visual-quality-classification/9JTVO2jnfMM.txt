@@ -1,0 +1,28 @@
+Subtitle Segmentation 1: {start words: "hi guys thanks for stopping", end words: "into my next video"}
+Subtitle Segmentation 2: {start words: "so as always i'm going", end words: "my nails again i bought a really cute purple colors"}
+Subtitle Segmentation 3: {start words: "so but anyways so this", end words: "I melted that ok"}
+Subtitle Segmentation 4: {start words: "I also an altered this", end words: "it under porsche is doing a great job in keeping your upper body stable"}
+Subtitle Segmentation 5: {start words: "that's gorgeous that's a great", end words: "the sequence and we'll see you again here"}
+Subtitle Segmentation 6: {start words: "so when you are first", end words: "message in a stronger way"}
+Subtitle Segmentation 7: {start words: "by showing the sky more", end words: "wants further details here"}
+Subtitle Segmentation 8: {start words: "the roadside imagery sparked the", end words: "saying this in a sentence"}
+Subtitle Segmentation 9: {start words: "could this be any more", end words: "most important message"}
+Subtitle Segmentation 10: {start words: "at the street fighter' media", end words: "ways that others can't"}
+Subtitle Segmentation 11: {start words: "and I can get into", end words: "alienating a potential client"}
+Subtitle Segmentation 12: {start words: "once that person has engaged", end words: "if it were communicated visually"}
+
+Visual Key Event 1(non-visual): The speaker introduces herself and explains that she will be discussing her weekly wax melt.
+Visual Key Event 2(non-visual): The speaker discusses her first wax melt, Kane Elliot passion fruit Mac Apple cotton candy and french vanilla, and her experience with it.
+Visual Key Event 3(visual): The speaker shows the clamshell of the wax melt and explains how she used it in her bathroom.
+Visual Key Event 4(non-visual): The speaker discusses another wax melt, Stay Puft, and her experience with it.
+Visual Key Event 5(non-visual): The speaker discusses another wax melt, Spencer, and her experience with it.
+Visual Key Event 6(non-visual): The speaker discusses another wax melt, Amy's pawn coconut and sugar cookies, and her experience with it.
+Visual Key Event 7(non-visual): The speaker discusses another wax melt, Fake and bake, and her experience with it.
+Visual Key Event 8(non-visual): The speaker discusses another wax melt, Fighting the 13th, and her experience with it.
+Visual Key Event 9(non-visual): The speaker discusses another wax melt, Charming, and her experience with it.
+Visual Key Event 10(non-visual): The speaker discusses another wax melt, Leonardo, and her experience with it.
+Visual Key Event 11(non-visual): The speaker discusses another wax melt, Potion pack, and her experience with it.
+Visual Key Event 12(non-visual): The speaker concludes her video, summarizing her experiences with the various wax melts.
+
+Classification:
+Good.

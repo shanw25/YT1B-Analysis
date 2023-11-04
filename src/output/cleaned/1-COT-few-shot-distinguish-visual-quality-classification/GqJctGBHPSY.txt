@@ -1,0 +1,10 @@
+Visual Key Event 2(visual): They enter the casino, noting its food offerings and expressing uncertainty about what to expect.
+Visual Key Event 3(visual): They explore the casino, noting the availability of penny games and the presence of a seemingly unoccupied restaurant.
+Visual Key Event 4(visual): The speaker tries out a new game called spin poker and finds it interesting.
+Visual Key Event 5(visual): The speaker continues to explore the casino, noting the bar area and the gaming options available there.
+Visual Key Event 6(visual): The speaker plays a 10-play game, betting one penny on 10 cards.
+Visual Key Event 7(visual): The speaker moves to play some slots in keno, expressing her boredom with the previous games.
+Visual Key Event 8(visual): The speaker wins a round of the game, earning eight free spins and expressing confusion about what just happened.
+Visual Key Event 10(visual): The speaker continues to play and win, expressing surprise at her winnings.
+Visual Key Event 11(visual): The speaker takes Stevo's advice and cashes out her winnings again, leaving 20 dollars to continue playing.
+Visual Key Event 15(visual): The speaker ends her gaming session, leaving behind a five-cent voucher for the next player.

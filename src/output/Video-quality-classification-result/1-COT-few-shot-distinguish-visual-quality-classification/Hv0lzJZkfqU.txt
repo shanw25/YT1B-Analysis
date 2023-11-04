@@ -1,0 +1,32 @@
+Subtitle Segmentation 1: {start words: "hello there music lovers thank", end words: "the point it was to join a band with Chris Squire and Alan White"}
+Subtitle Segmentation 2: {start words: "who were just basically looking", end words: "hit with owner of a lonely heart"}
+Subtitle Segmentation 3: {start words: "and it's pretty interesting to", end words: "a masterful hit single with owner"}
+Subtitle Segmentation 4: {start words: "and John Anderson talks about", end words: "came into the fold during this time"}
+Subtitle Segmentation 5: {start words: "so anyway the night I", end words: "I really do like it"}
+Subtitle Segmentation 6: {start words: "the album also has like", end words: "blown away I mean I love that stuff much much more"}
+Subtitle Segmentation 7: {start words: "but 901 to 5 I", end words: "a bit too much noodling and too much production work"}
+Subtitle Segmentation 8: {start words: "Trevor Horn even left during", end words: "the Anderson Bruford Wakeman how album"}
+Subtitle Segmentation 9: {start words: "and Trevor Rabin was doing", end words: "kind of keep it as a cohesive album"}
+Subtitle Segmentation 10: {start words: "but you know in terms", end words: "crazy about that song"}
+Subtitle Segmentation 11: {start words: "after the Union thing kind", end words: "album they wrote most of the songs"}
+Subtitle Segmentation 12: {start words: "Trevor Rabin was really in", end words: "that's just not the way that yes works"}
+Subtitle Segmentation 13: {start words: "I don't like the album", end words: "that ended The Trevor Rabin era"}
+Subtitle Segmentation 14: {start words: "after that album kind of", end words: "probably in the next six months or so"}
+
+Visual Key Event 1(non-visual): The speaker introduces the topic of the video, which is about Trevor Rabin's time with the band Yes.
+Visual Key Event 2(non-visual): The speaker discusses how Trevor Rabin joined the band and their successful album "90125" with the hit "Owner of a Lonely Heart".
+Visual Key Event 3(non-visual): The speaker discusses the evolution of the song "Owner of a Lonely Heart" from its demo to the final version.
+Visual Key Event 4(non-visual): The speaker mentions an interview with John Anderson about his involvement in the song "Owner of a Lonely Heart".
+Visual Key Event 5(non-visual): The speaker shares his opinion on the album "90125" and its mix of pop and progressive rock elements.
+Visual Key Event 6(non-visual): The speaker discusses his personal journey with Yes's music, from the 80s era to discovering their 70s classics.
+Visual Key Event 7(non-visual): The speaker discusses the album "Big Generator" and its struggles with production and creative differences.
+Visual Key Event 8(non-visual): The speaker discusses the formation of the band Anderson Bruford Wakeman Howe and the departure of Trevor Horn.
+Visual Key Event 9(non-visual): The speaker discusses the album "Union" and its combination of different projects and band members.
+Visual Key Event 10(non-visual): The speaker shares his opinion on Trevor Rabin's contributions to the album "Union".
+Visual Key Event 11(non-visual): The speaker discusses the aftermath of the "Union" tour and the formation of the album "Talk".
+Visual Key Event 12(non-visual): The speaker shares his opinion on the album "Talk" and its lack of a band dynamic.
+Visual Key Event 13(non-visual): The speaker discusses the end of Trevor Rabin's era with Yes and his transition to film scoring.
+Visual Key Event 14(non-visual): The speaker discusses Trevor Rabin's return to music and his upcoming work with John Anderson and Rick Wakeman.
+
+Classification:
+Good.

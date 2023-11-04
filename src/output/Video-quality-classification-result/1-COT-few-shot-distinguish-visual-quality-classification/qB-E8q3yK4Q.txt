@@ -1,0 +1,40 @@
+Subtitle Segmentation 1: {start words: "what is going on guys", end words: "look of the car just a tiny bit"}
+Subtitle Segmentation 2: {start words: "so I'm gonna go ahead", end words: "get rid of them soon"}
+Subtitle Segmentation 3: {start words: "so they're just gonna spray", end words: "it's gonna work"}
+Subtitle Segmentation 4: {start words: "now I'm not going to", end words: "and get started"}
+Subtitle Segmentation 5: {start words: "one more thing I'm missing", end words: "15% off your order"}
+Subtitle Segmentation 6: {start words: "so no unit some agitation", end words: "revive the suspension up a little bit"}
+Subtitle Segmentation 7: {start words: "and as you can see", end words: "get it looking better"}
+Subtitle Segmentation 8: {start words: "at the new sway bar", end words: "it wasn't worth it in my opinion"}
+Subtitle Segmentation 9: {start words: "pressure just one with OEM", end words: "stuff like that"}
+Subtitle Segmentation 10: {start words: "I'm just gonna get this", end words: "they did before"}
+Subtitle Segmentation 11: {start words: "so let me go ahead", end words: "enjoy the time-lapse"}
+Subtitle Segmentation 12: {start words: "okay then oh that should", end words: "content"}
+Subtitle Segmentation 13: {start words: "okay so since I let", end words: "so much better"}
+Subtitle Segmentation 14: {start words: "I do the same thing", end words: "that's basically it"}
+Subtitle Segmentation 15: {start words: "and this video is gonna", end words: "another show comes ahead"}
+Subtitle Segmentation 16: {start words: "but I definitely am gonna", end words: "enhance the look of this car a little bit"}
+Subtitle Segmentation 17: {start words: "man I'm seriously regretting selling", end words: "I need a mortgage back"}
+Subtitle Segmentation 18: {start words: "definitely definitely need to get", end words: "a couple minutes ago"}
+
+Visual Key Event 1(non-visual): The speaker expresses his intention to clean up the suspension of his car, focusing on the front part.
+Visual Key Event 2(visual): The speaker begins the cleaning process by spraying down the suspension and using a wheel cleaner and a microfiber cloth.
+Visual Key Event 3(visual): The speaker sprays the inner liner of the car, which is already lifted from a previous operation.
+Visual Key Event 4(non-visual): The speaker decides not to remove the wheel for the cleaning process, focusing on the springs and the fender liner.
+Visual Key Event 5(non-visual): The speaker uses a specific cleaning product and sprays it down.
+Visual Key Event 6(visual): The speaker uses a degreaser and a professional base cleaner to clean the suspension.
+Visual Key Event 7(visual): The speaker wipes down the suspension, noting the remaining contamination.
+Visual Key Event 8(non-visual): The speaker discusses his decision to replace the sway bars and end links on his car.
+Visual Key Event 9(non-visual): The speaker advises not to worry about getting the suspension wet during the cleaning process, but to be careful not to scrub too hard on certain parts.
+Visual Key Event 10(visual): The speaker gives the suspension a second wipe down and dries it up, noting the improvement in its appearance.
+Visual Key Event 11(visual): The speaker proceeds to clean the other side of the car, showing a time-lapse of the process.
+Visual Key Event 12(non-visual): The speaker lets the car dry for a few minutes and plans to check the height of the suspension.
+Visual Key Event 13(visual): The speaker uses a trim detailer to dress up the trim of the car, noting the improvement in its appearance.
+Visual Key Event 14(visual): The speaker repeats the process on the other side of the car, noting that some parts are broken.
+Visual Key Event 15(non-visual): The speaker concludes the cleaning process, noting that the car looks better and is ready for any upcoming shows.
+Visual Key Event 16(non-visual): The speaker discusses his plans to get new wheels for the car to enhance its look.
+Visual Key Event 17(non-visual): The speaker expresses regret over selling his previous wheels and considers getting another set.
+Visual Key Event 18(visual): The speaker concludes the video, noting that the car looks much better after the cleaning process.
+
+Classification:
+Good.

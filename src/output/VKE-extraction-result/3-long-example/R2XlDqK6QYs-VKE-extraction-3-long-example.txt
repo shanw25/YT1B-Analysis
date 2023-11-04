@@ -1,0 +1,7 @@
+Visual Event 1: The video starts with a woman introducing herself and the topic of the video.
+Start Time: 0.0 End Time: 4.98
+
+Visual Event 2: The woman starts to show the ingredients needed for the vegan chocolate chip cookies.
+Start Time: 22.17 End Time: 31.71
+
+Visual Event 3: The woman begins to prepare the ingredients, starting with melting the

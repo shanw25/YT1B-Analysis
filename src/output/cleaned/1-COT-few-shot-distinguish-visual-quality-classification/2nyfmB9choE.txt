@@ -1,0 +1,4 @@
+Visual Key Event 5(visual): The speaker and his wife prepare to taste the grapes, commenting on their size and weight.
+Visual Key Event 6(visual): The speaker and his wife taste a regular grape and comment on its taste.
+Visual Key Event 7(visual): The speaker and his wife taste the expensive grape and compare its taste to that of a green apple.
+Visual Key Event 10(visual): The speaker prepares a sandwich using the expensive grapes.

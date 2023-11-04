@@ -1,0 +1,29 @@
+Visual Event 1: The video starts with a person dancing.
+Start Time: 0.03 End Time: 15.43
+
+Visual Event 2: The person transitions to a kitchen setting, indicating a cooking show.
+Start Time: 15.43 End Time: 25.97
+
+Visual Event 3: The person starts talking to the camera, likely introducing the cooking show.
+Start Time: 25.97 End Time: 57.23
+
+Visual Event 4: The person starts preparing ingredients for a pasta dish.
+Start Time: 57.23 End Time: 162.75
+
+Visual Event 5: The person starts chopping onions and garlic.
+Start Time: 162.75 End Time: 185.69
+
+Visual Event 6: The person moves to the stove and starts cooking.
+Start Time: 185.69 End Time: 385.2
+
+Visual Event 7: The person adds pasta to the sauce and mixes them together.
+Start Time: 385.2 End Time: 417.88
+
+Visual Event 8: The person adds final touches to the pasta dish, including parmesan and balsamic glaze.
+Start Time: 417.88 End Time: 469.48
+
+Visual Event 9: The person presents the finished pasta dish.
+Start Time: 469.48 End Time: 529.55
+
+Visual Event 10: The person tastes the pasta dish and gives a closing statement.
+Start Time: 529.55 End Time: 557.539

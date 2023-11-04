@@ -1,0 +1,35 @@
+Subtitle Segmentation 1: {start words: "[Music] hey guys welcome back", end words: "do a big haul"}
+Subtitle Segmentation 2: {start words: "so I'm gonna flip you", end words: "stretch them further so I got that"}
+Subtitle Segmentation 3: {start words: "I got two rotisserie chickens", end words: "those for myself"}
+Subtitle Segmentation 4: {start words: "back here I got a", end words: "another one while it was on sale"}
+Subtitle Segmentation 5: {start words: "down here I got a", end words: "so I picked those up"}
+Subtitle Segmentation 6: {start words: "I picked up these Uncrustables", end words: "happy to see that"}
+Subtitle Segmentation 7: {start words: "we got some more at", end words: "ready for snacking"}
+Subtitle Segmentation 8: {start words: "we needed some more dishwasher", end words: "always use that kind"}
+Subtitle Segmentation 9: {start words: "I picked up these Milano", end words: "those for them"}
+Subtitle Segmentation 10: {start words: "I picked up some more", end words: "my regular kind"}
+Subtitle Segmentation 11: {start words: "I got these little sausages", end words: "in the pantry for backup"}
+Subtitle Segmentation 12: {start words: "I got the kids some", end words: "picked those up"}
+Subtitle Segmentation 13: {start words: "I got two things of", end words: "I've got those"}
+Subtitle Segmentation 14: {start words: "same with broccoli we love", end words: "cook them up really quickly"}
+Subtitle Segmentation 15: {start words: "I got another five pack", end words: "can do one night"}
+Subtitle Segmentation 16: {start words: "so I got those I", end words: "on all kinds of meals"}
+Subtitle Segmentation 17: {start words: "so I like to keep", end words: "in the next one bye you [Music]"}
+
+Visual Key Event 1(non-visual): The speaker introduces the video and explains that she will be doing a large Costco haul due to receiving an unexpected check.
+Visual Key Event 2(visual): The speaker shows the meat products she bought, including ground beef and chicken breasts.
+Visual Key Event 3(visual): The speaker shows the rotisserie chickens, Nutella with breadsticks, and fruit snacks she bought.
+Visual Key Event 4(visual): The speaker shows the Starbucks Frappuccino, Coke Zero, and mayonnaise she bought.
+Visual Key Event 5(visual): The speaker shows the croissants, milk, and Angus beef patties she bought.
+Visual Key Event 6(visual): The speaker shows the Uncrustables, guacamole, and Kerrygold butter she bought.
+Visual Key Event 7(visual): The speaker shows the cantaloupes and dishwasher detergent pods she bought.
+Visual Key Event 8(visual): The speaker shows the Milano cookies, Hello Panda snacks, and sliced cheese she bought.
+Visual Key Event 9(visual): The speaker shows the laundry beads, Duke's sausages, and ranch dressing she bought.
+Visual Key Event 10(visual): The speaker shows the vitamins, strawberries, and broccoli she bought.
+Visual Key Event 11(visual): The speaker shows the pizzas, romaine lettuce, and eggs she bought.
+Visual Key Event 12(visual): The speaker shows the Greek yogurt bars, breakfast burritos, and Mexican blend cheese she bought.
+Visual Key Event 13(visual): The speaker shows the macaroni and cheese she bought.
+Visual Key Event 14(non-visual): The speaker concludes the video, summarizing her purchases and the total cost.
+
+Classification:
+Good.

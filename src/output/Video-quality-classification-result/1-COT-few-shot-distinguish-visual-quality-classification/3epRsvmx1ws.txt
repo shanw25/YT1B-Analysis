@@ -1,0 +1,31 @@
+Subtitle Segmentation 1: {start words: "[Music] hey guys I've got", end words: "we'll tell you more [Music]"}
+Subtitle Segmentation 2: {start words: "oh look there's a beam", end words: "one way to find out"}
+Subtitle Segmentation 3: {start words: "come on guys dude what", end words: "cheap one here no"}
+Subtitle Segmentation 4: {start words: "and as is well it's", end words: "a track now there is driving embargo Nathan"}
+Subtitle Segmentation 5: {start words: "which means we can't tell", end words: "listen to a scat pack [Music]"}
+Subtitle Segmentation 6: {start words: "you know what I can", end words: "at least not until next Wednesday"}
+Subtitle Segmentation 7: {start words: "okay they come back at", end words: "get your best lap time because you just trying to keep the car under you"}
+Subtitle Segmentation 8: {start words: "and the 392 scat pack", end words: "a bunch of you know shocks and wider tires yeah"}
+Subtitle Segmentation 9: {start words: "yeah yeah it's a lot", end words: "what is he reverses what it's not here"}
+Subtitle Segmentation 10: {start words: "okay so think about this", end words: "the Hellcat ah"}
+Subtitle Segmentation 11: {start words: "so there are a couple", end words: "the difference in the display oh look there's a being Nathan you're right [Music]"}
+Subtitle Segmentation 12: {start words: "you're designing a kind of", end words: "reinvent it every time"}
+Subtitle Segmentation 13: {start words: "well let's talk about colors", end words: "pretty vibrant as well"}
+Subtitle Segmentation 14: {start words: "I want to keep developing", end words: "taken exactly hey guys thanks for watching remember to check out TfL CARICOM for more news views and real world reviews see you guys next time ciao [Music]"}
+
+Visual Key Event 1(non-visual): The hosts introduce themselves and the 2019 Dodge Challenger r/t scat pack they will be driving from New Hampshire to Portland, Maine.
+Visual Key Event 2(visual): The hosts show the car and discuss its features, comparing it to a "neutered Hellcat."
+Visual Key Event 3(visual): The hosts discuss the car's horsepower and cost, highlighting that it is the cheapest, most powerful muscle car available.
+Visual Key Event 4(non-visual): The hosts discuss the car's performance on a track, explaining that more rubber on the ground means more power to the ground and a better suspension setup.
+Visual Key Event 5(visual): The hosts let the audience listen to the sound of the scat pack.
+Visual Key Event 6(non-visual): The hosts discuss the Hellcat and the changes made to its suspension to make it a track-worthy beast.
+Visual Key Event 7(non-visual): The hosts discuss the tuning and adjustments made to the car to improve its track performance.
+Visual Key Event 8(visual): The hosts discuss the car's lack of a supercharger and the difference it makes in the driving experience.
+Visual Key Event 9(non-visual): The hosts discuss the cost of the car and the additional cost of the wide-body package.
+Visual Key Event 10(visual): The hosts show the interior of the car, pointing out the differences between this model and the Hellcat.
+Visual Key Event 11(non-visual): The hosts discuss the design of the car and its long and storied history.
+Visual Key Event 12(visual): The hosts discuss the car's color options, showing several examples.
+Visual Key Event 13(non-visual): The hosts conclude their journey, encouraging viewers to follow their route on the Drive Line app and check out their website for more reviews.
+
+Classification:
+Good.

@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "no Fonua finola is the", end words: "this village is called Lara"}
+Subtitle Segmentation 2: {start words: "Lara yes no what did", end words: "a thousand years ago really"}
+Subtitle Segmentation 3: {start words: "and there is also a", end words: "wish will be granted oh good"}
+Subtitle Segmentation 4: {start words: "so you have to try", end words: "two small lakes there"}
+Subtitle Segmentation 5: {start words: "in this village here there", end words: "you'll see that when you get there"}
+Subtitle Segmentation 6: {start words: "thank you I really appreciate", end words: "thank you god bless"}
+Subtitle Segmentation 7: {start words: "and now we're gonna make", end words: "is 600 years old okay"}
+Subtitle Segmentation 8: {start words: "so let's look at this", end words: "tour inside of st. kevin's church in lara"}
+Subtitle Segmentation 9: {start words: "as we look over the", end words: "from the 1800s let's go inside"}
+Subtitle Segmentation 10: {start words: "and check out the beauty", end words: "Saint John here we are in st. kevin's Church"}
+Subtitle Segmentation 11: {start words: "the simplicity of the architecture", end words: "holding a basket of bread"}
+Subtitle Segmentation 12: {start words: "and what's interesting is that", end words: "love and service until we come to know and praise you forever with Laurence and all the saints"}
+Subtitle Segmentation 13: {start words: "image of st. Laurence old", end words: "attack by the Vikings so this is a very beautiful historic area and that we continue our journey in Glen Tulloch"}
+
+Visual Key Event 1(non-visual): The speaker is introduced to Fiona, the owner of a shop in the village of Lara.
+Visual Key Event 2(visual): Fiona recommends visiting Glendalock, a nearby valley famous for its sixth-century monastery and a tall round tower dating back a thousand years.
+Visual Key Event 3(visual): Fiona explains the tradition of the Celtic Cross, where if one can reach their arms around it and touch their fingers, their wish will be granted.
+Visual Key Event 4(visual): Fiona describes the beautiful location of Glendalock, named after the two small lakes found there.
+Visual Key Event 5(visual): Fiona points out the modern-day Saint Catherine's Church in the village and mentions another church, St. Kevin's, in the valley.
+Visual Key Event 6(non-visual): The speaker thanks Fiona for her information and prepares to make a purchase.
+Visual Key Event 7(visual): The speaker visits St. Kevin's Church, comparing it to the older church in Glendarrick.
+Visual Key Event 8(visual): The speaker tours the grounds of St. Kevin's Church, admiring the cemetery, shrine, and stonework.
+Visual Key Event 9(visual): The speaker enters St. Kevin's Church, describing the white walls, simple decorations, and stained-glass windows.
+Visual Key Event 10(visual): The speaker admires the simplicity of the architecture and decorations inside St. Kevin's Church.
+Visual Key Event 11(visual): The speaker examines an icon and a baptismal font featuring images made from local pottery.
+Visual Key Event 12(non-visual): The speaker reads a prayer from a card featuring an image of St. Laurence holding a basket of bread.
+Visual Key Event 13(visual): The speaker observes an image of St. Kevin sitting outside a cave, reminiscent of his monastic life, and mentions the historic significance of the area.
+
+Classification:
+Good.

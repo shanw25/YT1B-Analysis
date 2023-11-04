@@ -1,0 +1,22 @@
+Visual Event 1: A person is dancing alone
+Start Time: 0.03 End Time: 15.43
+Visual Event 2: The person is in a kitchen, possibly preparing to cook
+Start Time: 15.43 End Time: 57.23
+Visual Event 3: The person is showing and explaining the ingredients for a recipe
+Start Time: 57.23 End Time: 120.98
+Visual Event 4: The person is chopping onions and garlic
+Start Time: 120.98 End Time: 162.75
+Visual Event 5: The person is chopping more ingredients
+Start Time: 162.75 End Time: 185.69
+Visual Event 6: The person is at the stove, cooking
+Start Time: 185.69 End Time: 259.54
+Visual Event 7: The person is adding tomato paste and other ingredients to a pan
+Start Time: 259.54 End Time: 385.2
+Visual Event 8: The person is adding pasta to the sauce
+Start Time: 385.2 End Time: 417.88
+Visual Event 9: The person is adding final touches to the pasta dish
+Start Time: 417.88 End Time: 529.55
+Visual Event 10: The person is tasting the pasta and expressing satisfaction
+Start Time: 529.55 End Time: 541.49
+Visual Event 11: The person is encouraging viewers to try the recipe and subscribe to the channel
+Start Time: 541.49 End Time: 557.539

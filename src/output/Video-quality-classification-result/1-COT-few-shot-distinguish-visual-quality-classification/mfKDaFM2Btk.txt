@@ -1,0 +1,44 @@
+Subtitle Segmentation 1: {start words: "today is the day i'm", end words: "preparing what we're eating"}
+Subtitle Segmentation 2: {start words: "so i'll talk about that", end words: "one egg for scott"}
+Subtitle Segmentation 3: {start words: "i always try to save", end words: "up to 24 hours before you use them"}
+Subtitle Segmentation 4: {start words: "where things change for us", end words: "it's gonna taste amazing"}
+Subtitle Segmentation 5: {start words: "and then i'm leaving one", end words: "made with honey and applesauce"}
+Subtitle Segmentation 6: {start words: "so we're crock potting our", end words: "spices and whatever you like"}
+Subtitle Segmentation 7: {start words: "so i like balsamic vinegar", end words: "second hand eating all of that"}
+Subtitle Segmentation 8: {start words: "not meal time but i'm", end words: "continue harvesting them until they're done"}
+Subtitle Segmentation 9: {start words: "so i am now getting", end words: "digest them"}
+Subtitle Segmentation 10: {start words: "so um i looked up", end words: "and peanut butter"}
+Subtitle Segmentation 11: {start words: "our oats are heating up", end words: "if it were communicated visually"}
+Subtitle Segmentation 12: {start words: "i thought i would tell", end words: "hydrating ourselves"}
+Subtitle Segmentation 13: {start words: "and i am sharing all", end words: "be the healthiest we can be"}
+Subtitle Segmentation 14: {start words: "it helps us handle stress", end words: "reproduce"}
+Subtitle Segmentation 15: {start words: "so i had never heard", end words: "a lunch"}
+Subtitle Segmentation 16: {start words: "it's about we usually eat", end words: "two or three"}
+Subtitle Segmentation 17: {start words: "these are all the ingredients", end words: "smoothie at all"}
+Subtitle Segmentation 18: {start words: "which is why we add", end words: "that's what we eat"}
+Subtitle Segmentation 19: {start words: "i almost forgot about our", end words: "see if they have any"}
+Subtitle Segmentation 20: {start words: "sometimes they don't sometimes they", end words: "that's what we eat"}
+Subtitle Segmentation 21: {start words: "okay now it is time", end words: "we have dinner"}
+Subtitle Segmentation 22: {start words: "also i forgot to mention", end words: "we have dinner"}
+Subtitle Segmentation 23: {start words: "also while we're in the", end words: "it shuts easy"}
+Subtitle Segmentation 24: {start words: "and to finish this lovely", end words: "they're really good frankly bless you guys"}
+
+Visual Key Event 1(non-visual): The speaker describes their morning routine, including stretching and drinking tea, and discusses changes in their eating habits.
+Visual Key Event 2(visual): The speaker prepares breakfast, which includes eggs on sourdough with leftover meat from the previous night.
+Visual Key Event 3(visual): The speaker shows how they prepare for the next day by soaking rice and oats.
+Visual Key Event 4(visual): The speaker serves breakfast and prepares a piece of toast with butter and strawberry jam for later.
+Visual Key Event 5(visual): The speaker prepares dinner in a crock pot, using meat and various spices.
+Visual Key Event 6(non-visual): The speaker discusses the importance of eating grass-fed meat and the potential health risks of consuming meat with hormones and antibiotics.
+Visual Key Event 7(visual): The speaker picks wild raspberries for a snack.
+Visual Key Event 8(visual): The speaker prepares oats for lunch, adding various ingredients including coconut butter and peanut butter.
+Visual Key Event 9(non-visual): The speaker discusses their beverage choices throughout the day, including tea and infused water.
+Visual Key Event 10(non-visual): The speaker discusses the importance of eating nutrient-rich foods and their journey to understanding their body's needs.
+Visual Key Event 11(non-visual): The speaker discusses the negative effects of intermittent fasting, especially for those trying to get pregnant.
+Visual Key Event 12(visual): The speaker prepares a smoothie with various ingredients, including fruits, vegetables, and raw liver.
+Visual Key Event 13(visual): The speaker collects bee pollen to add to their smoothie.
+Visual Key Event 14(visual): The speaker prepares dinner, which includes rice with fresh herbs and meat from the crock pot.
+Visual Key Event 15(visual): The speaker shows their organized towel drawer.
+Visual Key Event 16(visual): The speaker ends the day with a dessert of black bean brownies and raw cream.
+
+Classification:
+Good.

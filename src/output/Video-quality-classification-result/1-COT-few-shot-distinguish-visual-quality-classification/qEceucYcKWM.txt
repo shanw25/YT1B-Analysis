@@ -1,0 +1,46 @@
+Subtitle Segmentation 1: {start words: "what's up everyone today we", end words: "the body is gliding across the water effortlessly"}
+Subtitle Segmentation 2: {start words: "because you can't really see", end words: "the idea started from"}
+Subtitle Segmentation 3: {start words: "so in terms of colors", end words: "trying different things"}
+Subtitle Segmentation 4: {start words: "so i'm going to be", end words: "progress on this painting so far"}
+Subtitle Segmentation 5: {start words: "i've also started waking up", end words: "how things could be better"}
+Subtitle Segmentation 6: {start words: "and what i've done right", end words: "consume a little bit less content"}
+Subtitle Segmentation 7: {start words: "i don't mind consuming like", end words: "see where this is going"}
+Subtitle Segmentation 8: {start words: "the painting so far it's", end words: "see what happens tomorrow"}
+Subtitle Segmentation 9: {start words: "all right day two i", end words: "that's been kind of a struggle today"}
+Subtitle Segmentation 10: {start words: "i just like i feel", end words: "i feel happy where it is at right now"}
+Subtitle Segmentation 11: {start words: "like those lines feel good", end words: "i'm all right"}
+Subtitle Segmentation 12: {start words: "i've been feeling kind of", end words: "i can stay like this for the next six months"}
+Subtitle Segmentation 13: {start words: "i'll definitely improve a lot", end words: "i need to make sure that i don't keep unrealistic expectations"}
+Subtitle Segmentation 14: {start words: "especially like if you look", end words: "that's it for today"}
+Subtitle Segmentation 15: {start words: "i i know i always", end words: "added more patterning to the background"}
+Subtitle Segmentation 16: {start words: "so initially i wasn't going", end words: "i did do something wrong"}
+Subtitle Segmentation 17: {start words: "you know if i did", end words: "pops off the page"}
+Subtitle Segmentation 18: {start words: "and then when you look", end words: "i'm really surprised i finished this painting today"}
+Subtitle Segmentation 19: {start words: "because i spent time with", end words: "i have mixed feelings about the finish"}
+Subtitle Segmentation 20: {start words: "i the concept was really", end words: "i'm gonna i'm gonna get better"}
+Subtitle Segmentation 21: {start words: "like i'm so sad on", end words: "i'll see you guys in the next one bye bye"}
+
+Visual Key Event 1(non-visual): The artist introduces the concept of the painting, inspired by the elegance of swans gliding across water.
+Visual Key Event 2(visual): The artist sketches the concept, incorporating curving lines reminiscent of a swan's neck.
+Visual Key Event 3(non-visual): The artist discusses the color scheme for the painting, planning to use vibrant magenta and a green background.
+Visual Key Event 4(visual): The artist completes the line work and begins adding color to the painting.
+Visual Key Event 5(non-visual): The artist discusses lifestyle changes they've made to increase productivity, such as waking up earlier and eating healthier.
+Visual Key Event 6(non-visual): The artist reflects on their progress and sets goals for the future, aiming to improve their painting skills.
+Visual Key Event 7(visual): The artist evaluates the painting's progress, noting the bright colors and anticipating the addition of the background color.
+Visual Key Event 8(visual): The artist begins adding color to the background and expresses doubts about the minimal approach.
+Visual Key Event 9(visual): The artist finishes up the patterns on the character and adds more patterning to the background.
+Visual Key Event 10(non-visual): The artist reflects on their feelings about the painting, expressing satisfaction with the patterns but uncertainty about the colors.
+Visual Key Event 11(visual): The artist completes the painting, adding more patterns to the background and finishing the character.
+Visual Key Event 12(non-visual): The artist reflects on their progress and sets goals for the future, aiming to improve their painting skills.
+Visual Key Event 13(non-visual): The artist reflects on their progress and sets goals for the future, aiming to improve their painting skills.
+Visual Key Event 14(visual): The artist completes the painting, adding more patterns to the background and finishing the character.
+Visual Key Event 15(visual): The artist completes the painting, adding more patterns to the background and finishing the character.
+Visual Key Event 16(non-visual): The artist reflects on their process, identifying areas for improvement in their approach to color.
+Visual Key Event 17(visual): The artist completes the painting, adding more patterns to the background and finishing the character.
+Visual Key Event 18(non-visual): The artist reflects on their progress and sets goals for the future, aiming to improve their painting skills.
+Visual Key Event 19(non-visual): The artist reflects on their progress and sets goals for the future, aiming to improve their painting skills.
+Visual Key Event 20(non-visual): The artist reflects on their progress and sets goals for the future, aiming to improve their painting skills.
+Visual Key Event 21(non-visual): The artist concludes the video, inviting viewers to join them on their creative journey and promising more painting videos in the future.
+
+Classification:
+Good.

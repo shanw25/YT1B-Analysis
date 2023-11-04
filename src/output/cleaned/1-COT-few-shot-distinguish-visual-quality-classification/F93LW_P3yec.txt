@@ -1,0 +1,5 @@
+Visual Key Event 3(visual): The speaker begins the cleaning process by washing the cups with regular household washing up liquid.
+Visual Key Event 4(visual): The speaker continues to wash the cups, noting the presence of polish or other substances on the cups.
+Visual Key Event 6(visual): The speaker degreases the cups, explaining the importance of this step in achieving an even patina.
+Visual Key Event 9(visual): The speaker prepares a solution of salt and vinegar to soak the cups in, aiming to remove the remaining dirt and grime.
+Visual Key Event 10(visual): The speaker begins to clean the cups with the salt and vinegar solution, expressing surprise and satisfaction with the results.

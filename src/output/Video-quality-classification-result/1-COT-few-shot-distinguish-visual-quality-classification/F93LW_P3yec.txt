@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "well so here we are", end words: "catered with polish"}
+Subtitle Segmentation 2: {start words: "so we're going to try", end words: "solution of salt and vinegar"}
+Subtitle Segmentation 3: {start words: "so that's what we're going", end words: "the whole process"}
+Subtitle Segmentation 4: {start words: "so um all up in", end words: "the copper of the cut"}
+Subtitle Segmentation 5: {start words: "will have to I've only", end words: "quite happy for the way"}
+Subtitle Segmentation 6: {start words: "here we go let's give", end words: "is even I believe"}
+Subtitle Segmentation 7: {start words: "if anybody knows any different", end words: "don't know what's going to happen"}
+Subtitle Segmentation 8: {start words: "I'm a while room in", end words: "too much cuz I like nobody cook"}
+Subtitle Segmentation 9: {start words: "so what we're going to", end words: "abrasive pull without there we go"}
+Subtitle Segmentation 10: {start words: "let's give it a go", end words: "that's quite amazing wow"}
+Subtitle Segmentation 11: {start words: "that was magical in itself", end words: "let you all know"}
+Subtitle Segmentation 12: {start words: "you can join the mailing", end words: "reviews and things that we have"}
+Subtitle Segmentation 13: {start words: "oops there we go let", end words: "some wax to help protect up finish"}
+
+Visual Key Event 1(non-visual): The speaker introduces the task of cleaning up some copper cups, describing their condition and the materials used to clean them.
+Visual Key Event 2(non-visual): The speaker explains the cleaning process, which involves washing, degreasing, and using a solution of salt and vinegar.
+Visual Key Event 3(visual): The speaker begins the cleaning process by washing the cups with regular household washing up liquid.
+Visual Key Event 4(visual): The speaker continues to wash the cups, noting the presence of polish or other substances on the cups.
+Visual Key Event 5(non-visual): The speaker comments on the quality of the cups and expresses satisfaction with their weight.
+Visual Key Event 6(visual): The speaker degreases the cups, explaining the importance of this step in achieving an even patina.
+Visual Key Event 7(non-visual): The speaker invites viewers to contact him with any additional information about the cleaning process.
+Visual Key Event 8(non-visual): The speaker expresses concern about removing too much of the copper layer during the cleaning process.
+Visual Key Event 9(visual): The speaker prepares a solution of salt and vinegar to soak the cups in, aiming to remove the remaining dirt and grime.
+Visual Key Event 10(visual): The speaker begins to clean the cups with the salt and vinegar solution, expressing surprise and satisfaction with the results.
+Visual Key Event 11(non-visual): The speaker mentions upcoming reviews on his website and invites viewers to join his mailing list.
+Visual Key Event 12(non-visual): The speaker assures viewers that their email addresses will be kept confidential and used only for updates about reviews and other content.
+Visual Key Event 13(visual): The speaker concludes the cleaning process and previews the next part of the video, which will involve polishing the cups and applying wax to protect the finish.
+
+Classification:
+Good.

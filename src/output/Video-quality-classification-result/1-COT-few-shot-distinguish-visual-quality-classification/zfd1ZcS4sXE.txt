@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "I doubt people and welcome", end words: "that's not my intention anyway"}
+Subtitle Segmentation 2: {start words: "I'm going to be publishing", end words: "mixed in there"}
+Subtitle Segmentation 3: {start words: "I can't see myself doing", end words: "to finish it"}
+Subtitle Segmentation 4: {start words: "however I want to talk", end words: "comfortable with mr. super quick"}
+Subtitle Segmentation 5: {start words: "so mr. super clear one", end words: "it's actually met"}
+Subtitle Segmentation 6: {start words: "they generally have these locked", end words: "tooth of mr. super clear"}
+Subtitle Segmentation 7: {start words: "mr. super clear you can", end words: "it always happens like that"}
+Subtitle Segmentation 8: {start words: "if you get a whole", end words: "years and years and years to come"}
+Subtitle Segmentation 9: {start words: "I do that but for", end words: "tattoos and such I like to use this stuff"}
+Subtitle Segmentation 10: {start words: "this is liquitex professional varnish", end words: "it's a really good feeling"}
+Subtitle Segmentation 11: {start words: "it virtually makes your your", end words: "any of these different types of sealing"}
+Subtitle Segmentation 12: {start words: "this stuff it does get", end words: "chemical reaction to happen in between the sealants"}
+Subtitle Segmentation 13: {start words: "which has happened to me", end words: "I'll try and help you but yeah that's it"}
+
+Visual Key Event 1(non-visual): The speaker introduces the video as a paint with me tutorial, explaining that it was not intended to be a tutorial but has become one due to the inclusion of explanatory notes.
+Visual Key Event 2(non-visual): The speaker discusses the upcoming release of the first part of the video series and mentions three types of sealant used in their doll-making process.
+Visual Key Event 3(non-visual): The speaker explains their process of using the sealants, stating that they do not switch between them during a single doll's creation.
+Visual Key Event 4(non-visual): The speaker discusses the first sealant, Mr. Super Clear, and its popularity in the doll community.
+Visual Key Event 5(non-visual): The speaker discusses the second sealant, a UV-resistant clear acrylic coating, and warns about the potential for confusion between matte and gloss versions of the product.
+Visual Key Event 6(non-visual): The speaker provides advice on using the UV-resistant clear acrylic coating, including a recommendation to test it on a non-essential part of the doll first.
+Visual Key Event 7(non-visual): The speaker compares the UV-resistant clear acrylic coating to Mr. Super Clear, discussing the differences in drying and curing times.
+Visual Key Event 8(non-visual): The speaker discusses their different sealing processes for personal dolls and commissioned dolls, explaining that commissioned dolls receive more layers of sealant for longevity.
+Visual Key Event 9(non-visual): The speaker introduces the third sealant, Liquitex Professional Varnish, and mentions its use on larger dolls with extensive work like tattoos.
+Visual Key Event 10(non-visual): The speaker discusses the use of Liquitex Professional Varnish on dyed dolls, explaining that it provides a matte finish and makes the dye job feel permanent.
+Visual Key Event 11(non-visual): The speaker compares the matte finish of the Liquitex Professional Varnish to that of Mr. Super Clear and another sealant, Crayon's UV-resistant clear acrylic coating.
+Visual Key Event 12(non-visual): The speaker discusses potential issues with mixing sealants, sharing a past experience of a gummy, sticky result from spraying too much at once.
+Visual Key Event 13(non-visual): The speaker concludes the video by inviting viewers to ask questions about the sealants used, mentioning that they have experience with a variety of sealants on different types of dolls.
+
+Classification:
+Good.

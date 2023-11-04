@@ -1,0 +1,66 @@
+Subtitle Segmentation 1: {start words: "hi everyone its Claire I'm", end words: "but the bathrooms"}
+Subtitle Segmentation 2: {start words: "I also found something that", end words: "they were gonna be there number one"}
+Subtitle Segmentation 3: {start words: "and also I just thought", end words: "dive right in"}
+Subtitle Segmentation 4: {start words: "so I picked up this", end words: "my husband's brother they're both Star Wars fans"}
+Subtitle Segmentation 5: {start words: "this tiny bag of canine", end words: "once a year for her stocking"}
+Subtitle Segmentation 6: {start words: "so her toes I found", end words: "kind that was working so I picked up one of those"}
+Subtitle Segmentation 7: {start words: "I also picked up this", end words: "my daughter's stocking she's really into her animals lately"}
+Subtitle Segmentation 8: {start words: "so I thought she'd really", end words: "foil inside so I figured why not"}
+Subtitle Segmentation 9: {start words: "yeah okay sorry about that", end words: "also has 30 in it"}
+Subtitle Segmentation 10: {start words: "I picked up this two", end words: "his stocking the Armand hits armor-all a extreme will and tire cleaner"}
+Subtitle Segmentation 11: {start words: "and then I also picked", end words: "jelly bean like obsession lately so she'll walk that"}
+Subtitle Segmentation 12: {start words: "little jingle bells' bracelets that's", end words: "this in my husband's stocking"}
+Subtitle Segmentation 13: {start words: "and these I was pretty", end words: "pretty good shelf life on them"}
+Subtitle Segmentation 14: {start words: "let's see I finally found", end words: "Mickey Mouse and Donald Duck Goofy"}
+Subtitle Segmentation 15: {start words: "um so I picked this", end words: "sheets in it so like there's the honeycomb and yellow dots"}
+Subtitle Segmentation 16: {start words: "these would be perfect for", end words: "picked up this Apple Cinnamon body oil"}
+Subtitle Segmentation 17: {start words: "I found this magnet and", end words: "but this was just so cute"}
+Subtitle Segmentation 18: {start words: "a few wishlist items looking", end words: "the Christmas pickle basically you hide the pickle in the tree"}
+Subtitle Segmentation 19: {start words: "the first person to find", end words: "picked up this clear shower curtain liner"}
+Subtitle Segmentation 20: {start words: "these are great to buy", end words: "minions tissue by the yeah okay"}
+Subtitle Segmentation 21: {start words: "then I picked up these", end words: "you want to hold that okay"}
+Subtitle Segmentation 22: {start words: "and now for the wishlist", end words: "the Disney Princess washi tape so there's that"}
+Subtitle Segmentation 23: {start words: "now before I could are", end words: "give it a try another one get the remote"}
+Subtitle Segmentation 24: {start words: "so I thought that was", end words: "I finally found him so don't ever give up hope"}
+Subtitle Segmentation 25: {start words: "that you will find an", end words: "the donut fix box but not least over the rainbow in the floral"}
+Subtitle Segmentation 26: {start words: "so that is it but", end words: "setting it up and everything so we will see how that goes"}
+Subtitle Segmentation 27: {start words: "ok one quick little announcement", end words: "last a long time you guys"}
+Subtitle Segmentation 28: {start words: "they last about two weeks", end words: "can use them later so you can possibly get two full manicures added"}
+Subtitle Segmentation 29: {start words: "what so giving these away", end words: "color street nails giveaway time so yeah comment below favorite Christmas memory"}
+Subtitle Segmentation 30: {start words: "and I will see you", end words: "bye bye see you next time"}
+Subtitle Segmentation 31: {start words: "okay guys I just Lilly's", end words: "I will see you guys on my next video bye"}
+
+Visual Key Event 1(non-visual): Claire introduces herself and expresses her excitement about finding wishlist items at Dollar Tree.
+Visual Key Event 2(non-visual): Claire talks about a cool item she found and bought two of, without specifying what it is.
+Visual Key Event 3(non-visual): Claire starts showing the items she bought, starting with a teddy bear for her daughter's stocking.
+Visual Key Event 4(visual): Claire shows Star Wars puzzles she bought for her brother and husband's brother.
+Visual Key Event 5(non-visual): Claire talks about buying canine carry out beef flavored dog treats for her dog's stocking.
+Visual Key Event 6(non-visual): Claire talks about buying bolero products, including apple cinnamon body cream and terminal hi dry skin lotion.
+Visual Key Event 7(non-visual): Claire talks about buying a Noah's Ark book for her daughter's stocking.
+Visual Key Event 8(non-visual): Claire talks about buying Reynolds baked for you stay bright baking cups.
+Visual Key Event 9(non-visual): Claire talks about buying good and clean disinfectant wipes in two different scents.
+Visual Key Event 10(non-visual): Claire talks about buying a two pack of dog toys for her dog's stocking and car detailing products for her husband's stocking.
+Visual Key Event 11(non-visual): Claire talks about buying a candy cane with starburst jellybeans and a jingle bells bracelet for her daughter's stocking.
+Visual Key Event 12(non-visual): Claire talks about buying a snowman Hershey's bar for her husband's stocking.
+Visual Key Event 13(non-visual): Claire talks about buying Krusty's baked bakery style cookie mix in the shortbread flavor.
+Visual Key Event 14(non-visual): Claire talks about finding a Christmas countdown featuring Mickey Mouse, Donald Duck, and Goofy.
+Visual Key Event 15(non-visual): Claire talks about finding a notepad with decorative sheets.
+Visual Key Event 16(non-visual): Claire talks about buying more facial wipes from bolero and an apple cinnamon body oil.
+Visual Key Event 17(non-visual): Claire talks about finding a cute magnet featuring a food festival grapefruit.
+Visual Key Event 18(non-visual): Claire talks about finding the Christmas pickle, a tradition where the first person to find the pickle in the tree gets to open their gift first.
+Visual Key Event 19(non-visual): Claire talks about buying a clear shower curtain liner.
+Visual Key Event 20(non-visual): Claire talks about buying minion stickers and a prayer book for her daughter's stocking.
+Visual Key Event 21(non-visual): Claire talks about finding boot socks and minion and Disney Princess washi tape.
+Visual Key Event 22(non-visual): Claire talks about finding a virtual reality headset and buying two of them.
+Visual Key Event 23(non-visual): Claire talks about finding bath bombs in various scents and shapes.
+Visual Key Event 24(non-visual): Claire concludes the haul, expressing her excitement about finding the bath bombs and her interest in trying the virtual reality headset.
+Visual Key Event 25(non-visual): Claire announces a giveaway of color street nails, asking viewers to comment their favorite Christmas memory to enter.
+Visual Key Event 26(non-visual): Claire says goodbye, promising to post a video of her trying the virtual reality headset.
+Visual Key Event 27(non-visual): Claire adds some rules for the giveaway, asking viewers to be a subscriber, like the video, and share the video.
+Visual Key Event 28(non-visual): Claire talks about the longevity of the color street nails and how to preserve leftover strips.
+Visual Key Event 29(non-visual): Claire reiterates the giveaway rules and the deadline for entry.
+Visual Key Event 30(non-visual): Claire says goodbye again, with her daughter Lily also saying goodbye.
+Visual Key Event 31(non-visual): Claire adds a postscript about Lily taking a nap and her editing the video, reiterating the giveaway rules and promising to post pictures from Dollar Tree.
+
+Classification:
+Good.

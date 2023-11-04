@@ -1,0 +1,9 @@
+Visual Key Event 2(visual): Brenda measures out the almond meal and other ingredients, and combines them in a bowl.
+Visual Key Event 3(visual): Brenda adds the eggs, oil, and yogurt to the mixture and mixes it all together.
+Visual Key Event 4(visual): Brenda prepares the mini disposable pie plates to shape the hot dog rolls.
+Visual Key Event 5(visual): Brenda shapes the pie plates and fills them with the batter.
+Visual Key Event 6(visual): Brenda bakes the hot dog rolls in the oven.
+Visual Key Event 7(visual): Brenda removes the hot dog rolls from the oven and lets them cool.
+Visual Key Event 8(visual): Brenda shows the finished hot dog rolls.
+Visual Key Event 11(visual): Brenda cooks the hot dogs and prepares the meal.
+Visual Key Event 12(visual): Brenda presents the finished meal with the hot dog rolls.

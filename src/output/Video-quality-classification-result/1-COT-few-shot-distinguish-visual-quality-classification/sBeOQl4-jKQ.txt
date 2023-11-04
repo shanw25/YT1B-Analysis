@@ -1,0 +1,50 @@
+Subtitle Segmentation 1: {start words: "hey guys welcome back to", end words: "I'm gonna get the large size while I'm there"}
+Subtitle Segmentation 2: {start words: "but I need toilet paper", end words: "not too too busy"}
+Subtitle Segmentation 3: {start words: "I should have probably went", end words: "hot in there lately um"}
+Subtitle Segmentation 4: {start words: "yeah so that's what I'm", end words: "clean my bathroom"}
+Subtitle Segmentation 5: {start words: "so this is probably not", end words: "insert Sims thing"}
+Subtitle Segmentation 6: {start words: "alright here are the sweatpants", end words: "will see how that goes"}
+Subtitle Segmentation 7: {start words: "I'm gonna get my shoe", end words: "my fanny pack and I'm vintage leather jacket"}
+Subtitle Segmentation 8: {start words: "I want to be comfortable", end words: "break out my skin"}
+Subtitle Segmentation 9: {start words: "but I don't know it's", end words: "I'm gonna go home"}
+Subtitle Segmentation 10: {start words: "it's actually really nice out", end words: "see you later"}
+Subtitle Segmentation 11: {start words: "so I got a takeout", end words: "sit in the car"}
+Subtitle Segmentation 12: {start words: "hey guys so I have", end words: "Trixie's enjoying the Sun"}
+Subtitle Segmentation 13: {start words: "hey guys almost 11 I've", end words: "I'm going to tuck tape matric Udrih boards"}
+Subtitle Segmentation 14: {start words: "and I'm gonna start putting", end words: "cleaned washed and showered and fitting good"}
+Subtitle Segmentation 15: {start words: "so what let it lets's", end words: "my gloves are here and the wood is there"}
+Subtitle Segmentation 16: {start words: "hello I'm playing The Sims", end words: "one of the worst things ever"}
+Subtitle Segmentation 17: {start words: "all right I'm gonna have", end words: "I usually keep him"}
+Subtitle Segmentation 18: {start words: "hi guys how's it going", end words: "right now"}
+Subtitle Segmentation 19: {start words: "okay so now I am", end words: "so hard to handle"}
+Subtitle Segmentation 20: {start words: "hi guys say hi to", end words: "I'm still on house party"}
+Subtitle Segmentation 21: {start words: "and now I'm dressed up", end words: "I will see you guys tomorrow thanks"}
+Subtitle Segmentation 22: {start words: "hello good morning I am", end words: "I will check in with you guys later ok bye"}
+Subtitle Segmentation 23: {start words: "hi guys I did my", end words: "keep going and now I have anxiety"}
+
+Visual Key Event 1(non-visual): Michaela introduces herself and her plan for the day, which includes going to Walmart to buy a larger size of sweatpants and toilet paper.
+Visual Key Event 2(visual): Michaela discusses her plan to go to Walmart early in the day to avoid crowds and her concerns about wearing a mask.
+Visual Key Event 3(non-visual): Michaela shares her plans for the day, which include working on wood pieces, doing resin art, and cleaning her bathroom.
+Visual Key Event 4(non-visual): Michaela talks about her plans to download the Sims game and shows the sweatpants she dyed.
+Visual Key Event 5(visual): Michaela shows the Amazon package she received and the wood pieces she plans to work on.
+Visual Key Event 6(visual): Michaela shows her outfit for the day, which includes the sweatshirt she made, Lululemon leggings, Air Force Ones, a fanny pack, and a vintage leather jacket.
+Visual Key Event 7(non-visual): Michaela discusses her experience shopping for toilet paper and her decision to wear a mask despite concerns about breaking out.
+Visual Key Event 8(non-visual): Michaela talks about her lunch from Chopped Leaf and her decision to eat it in her car for a change of scenery.
+Visual Key Event 9(visual): Michaela shows her progress on sanding wood pieces.
+Visual Key Event 10(non-visual): Michaela talks about her plans for the day, which include editing a video, playing the Sims, and washing her face.
+Visual Key Event 11(visual): Michaela shows her process of taping matric Udrih boards and preparing to put resin on them.
+Visual Key Event 12(non-visual): Michaela talks about her decision not to wear makeup and her plans to work on her shokudo reboard.
+Visual Key Event 13(visual): Michaela shows her process of setting up her resin and colors, and the wood pieces she plans to work on.
+Visual Key Event 14(visual): Michaela shows her process of playing the Sims and her attempt to eat seven olives.
+Visual Key Event 15(visual): Michaela shows her process of repotting a plant and her hopes that the pebbles she added will prevent mold.
+Visual Key Event 16(non-visual): Michaela talks about her day, which included photographing a table and working with plants.
+Visual Key Event 17(visual): Michaela shows her process of packaging products for Poshmark and writing a note to her buyer.
+Visual Key Event 18(non-visual): Michaela talks about her decision to dress up as Joe Exotic while on a house party.
+Visual Key Event 19(non-visual): Michaela talks about her plans to remove her makeup and shower before going to bed.
+Visual Key Event 20(non-visual): Michaela talks about her plans for the day, which include going for a hike, bleaching outfits, and posting TikToks.
+Visual Key Event 21(visual): Michaela shows her process of doing her hair and makeup, and her plans to work on crafts.
+Visual Key Event 22(visual): Michaela shows her process of bleaching outfits and her hopes that the bottoms will match her jumper.
+Visual Key Event 23(non-visual): Michaela talks about her anxiety after drinking Starbucks cold brew.
+
+Classification:
+Good.

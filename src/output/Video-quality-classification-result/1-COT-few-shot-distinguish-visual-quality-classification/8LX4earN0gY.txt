@@ -1,0 +1,30 @@
+Subtitle Segmentation 1: {start words: "fifteen minutes I'm not getting", end words: "throughout the whole night what"}
+Subtitle Segmentation 2: {start words: "[ __ ] kept leaking", end words: "around 10:30 p.m. and get induced"}
+Subtitle Segmentation 3: {start words: "at the moment yeah I'm", end words: "in labor yet but yeah"}
+Subtitle Segmentation 4: {start words: "I'm excited I still haven't", end words: "5:00 and 6:00 and then yeah I will be induced"}
+Subtitle Segmentation 5: {start words: "so it is now quarter", end words: "gonna be gone soon a little baby"}
+Subtitle Segmentation 6: {start words: "the me and mom are", end words: "lines Oh move it [Music] in my hand"}
+Subtitle Segmentation 7: {start words: "I'm bored I'm bored so", end words: "start to induce me yeah"}
+Subtitle Segmentation 8: {start words: "so it's kind of this", end words: "could not stop owing and then I said a vomiting"}
+Subtitle Segmentation 9: {start words: "so this isn't even the", end words: "I cannot deal with this pain"}
+Subtitle Segmentation 10: {start words: "it's now 6:30 a.m. on", end words: "I'm not excited [Music] [Music] [Music]"}
+Subtitle Segmentation 11: {start words: "I did I was like", end words: "it was freaking painful my mum was there"}
+Subtitle Segmentation 12: {start words: "and she was holding my", end words: "look at the little boy yeah"}
+Subtitle Segmentation 13: {start words: "okay um we have to", end words: "but I'm hoping to go home today"}
+
+Visual Key Event 1(non-visual): The speaker discusses her water breaking and the lack of contractions.
+Visual Key Event 2(visual): The speaker describes the continuous leakage of her waters throughout the night.
+Visual Key Event 3(non-visual): The speaker talks about her current state and plans to induce labor if natural labor doesn't occur.
+Visual Key Event 4(non-visual): The speaker expresses her excitement and shares the plan to be induced at the hospital.
+Visual Key Event 5(visual): The speaker shows her belly and expresses anticipation for the baby's arrival.
+Visual Key Event 6(visual): The speaker and her mom are on their way to the hospital.
+Visual Key Event 7(non-visual): The speaker discusses the waiting process at the hospital and the plan to induce labor in the morning.
+Visual Key Event 8(visual): The speaker describes feeling unwell after the gel application and her subsequent vomiting.
+Visual Key Event 9(visual): The speaker talks about her worsening contractions and her request for gas to manage the pain.
+Visual Key Event 10(visual): The speaker is hooked up to the induction machine and expresses her apprehension.
+Visual Key Event 11(visual): The speaker describes the quick labor process and the intense pain she experienced.
+Visual Key Event 12(visual): The speaker shares the joy of having her baby and the support she received from her mom.
+Visual Key Event 13(non-visual): The speaker discusses the need to stay in the hospital due to the risk of infection for the baby and her hope to go home soon.
+
+Classification:
+Good.

@@ -1,0 +1,38 @@
+Subtitle Segmentation 1: {start words: "[Music] hey guys welcome back", end words: "came in the mail [Music]"}
+Subtitle Segmentation 2: {start words: "so contrary to what I", end words: "crack the garage door open [Music]"}
+Subtitle Segmentation 3: {start words: "[Music] [Music] [Music] [Music] [Music]", end words: "broke loose pretty easily [Music]"}
+Subtitle Segmentation 4: {start words: "[Music] [Music] [Music] [Music] [Music]", end words: "whole block gloss black"}
+Subtitle Segmentation 5: {start words: "for now I'm going", end words: "parts I wanted mask [Music]"}
+Subtitle Segmentation 6: {start words: "[Music] [Music] [Music] [Music] [Music]", end words: "here soon"}
+Subtitle Segmentation 7: {start words: "so I'm also pretty much", end words: "lots of travel"}
+Subtitle Segmentation 8: {start words: "so I took the", end words: "in the next episode"}
+Subtitle Segmentation 9: {start words: "so I picked up", end words: "a ton of time"}
+Subtitle Segmentation 10: {start words: "they give you a", end words: "help out"}
+Subtitle Segmentation 11: {start words: "so I'm gonna fill", end words: "oxidation and rust"}
+Subtitle Segmentation 12: {start words: "okay so the manual", end words: "30 minutes to start"}
+Subtitle Segmentation 13: {start words: "so it's been about", end words: "it's broken"}
+Subtitle Segmentation 14: {start words: "but I'm gonna check", end words: "worked really well"}
+Subtitle Segmentation 15: {start words: "give you a close-up", end words: "live without one"}
+Subtitle Segmentation 16: {start words: "so aside from the", end words: "the new hardware [Music]"}
+Subtitle Segmentation 17: {start words: "[Music] [Music] [Music] thanks", end words: "front end [Music]"}
+
+Visual Key Event 1(non-visual): The host introduces the episode, outlining the tasks to be done including cleaning the engine, testing the ultrasonic parts cleaner, prepping the tank and engine covers for paint, and reviewing new parts that arrived.
+Visual Key Event 2(visual): The host cleans the engine using engine degreaser and brushes, emphasizing the importance of good ventilation when using aerosolized chemicals.
+Visual Key Event 3(visual): The host struggles with removing the airbox bolts, eventually using penetrating oil to loosen them.
+Visual Key Event 4(visual): The host comments on the improved appearance of the engine and plans to paint the whole block gloss black in a future episode.
+Visual Key Event 5(visual): The host removes the engine covers and preps them for powder coating, making sure to clearly indicate which parts should be painted and which should be masked.
+Visual Key Event 6(non-visual): The host mentions that the crankcase and valve cover are prepped for painting and will be taken to the painter the next day.
+Visual Key Event 7(non-visual): The host discusses the preparation of the tank for painting, expressing excitement about the outcome and revealing the chosen color, Mazda sunlight silver.
+Visual Key Event 8(non-visual): The host takes the engine covers to a powder coating company and the tank to an auto body shop, mentioning that the finished parts will be shown in the next episode.
+Visual Key Event 9(non-visual): The host introduces an ultrasonic cleaner purchased from Amazon, explaining how it works and expressing hope that it will save time in cleaning small parts.
+Visual Key Event 10(non-visual): The host expresses skepticism about the quality of the ultrasonic cleaner due to poorly translated instructions.
+Visual Key Event 11(visual): The host fills the ultrasonic cleaner with a cleaning solution and prepares to test it on the crankcase and valve cover bolts.
+Visual Key Event 12(non-visual): The host sets the temperature and timer on the ultrasonic cleaner and waits for it to heat up.
+Visual Key Event 13(visual): The host discovers that the ultrasonic cleaner has broken after only 20 minutes of use.
+Visual Key Event 14(visual): Despite the cleaner breaking, the host checks the parts and is impressed with the cleaning results.
+Visual Key Event 15(non-visual): The host shows the cleaned bolts and expresses disappointment that the cleaner broke, but plans to buy a better quality one due to the effectiveness of the cleaning.
+Visual Key Event 16(visual): The host unboxes new parts that have arrived, excluding the Cognito moto triple tree which has not yet arrived.
+Visual Key Event 17(non-visual): The host concludes the episode, thanking viewers and teasing the next episode where painted parts will be returned and a mock assembly of the front end will be done.
+
+Classification:
+Good.

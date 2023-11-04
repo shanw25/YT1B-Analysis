@@ -1,0 +1,151 @@
+Subtitle Segmentation 1: {start words: "hello everyone welcome to my", end words: "doesn't break the bank [Music]"}
+Subtitle Segmentation 2: {start words: "this video is gonna be", end words: "would benefit off of so yeah"}
+Subtitle Segmentation 3: {start words: "the first thing that I'm", end words: "in the shade 104 golden beige"}
+Subtitle Segmentation 4: {start words: "and I used heart shape", end words: "my skin but better"}
+Subtitle Segmentation 5: {start words: "oh very quickly I don't", end words: "really special occasions and yeah"}
+Subtitle Segmentation 6: {start words: "that's about it for the", end words: "has a mirror on it too so that works"}
+Subtitle Segmentation 7: {start words: "no I'm just keeping this", end words: "the Real Techniques"}
+Subtitle Segmentation 8: {start words: "I feel like you can't", end words: "it works okay it works"}
+Subtitle Segmentation 9: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 10: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 11: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 12: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 13: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 14: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 15: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 16: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 17: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 18: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 19: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 20: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 21: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 22: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 23: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 24: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 25: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 26: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 27: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 28: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 29: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 30: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 31: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 32: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 33: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 34: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 35: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 36: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 37: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 38: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 39: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 40: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 41: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 42: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 43: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 44: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 45: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 46: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 47: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 48: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 49: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 50: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 51: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 52: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 53: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 54: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 55: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 56: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 57: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 58: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 59: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 60: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 61: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 62: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 63: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 64: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 65: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 66: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 67: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 68: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 69: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 70: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 71: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 72: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 73: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 74: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 75: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 76: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 77: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 78: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 79: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 80: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 81: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 82: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 83: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 84: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 85: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 86: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 87: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 88: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 89: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 90: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 91: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 92: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 93: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 94: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 95: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 96: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 97: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 98: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 99: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 100: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 101: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 102: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 103: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 104: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 105: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 106: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 107: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 108: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 109: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 110: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 111: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 112: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 113: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 114: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 115: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 116: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 117: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 118: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 119: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 120: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 121: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 122: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 123: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 124: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 125: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 126: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 127: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 128: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 129: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 130: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 131: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 132: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 133: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 134: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 135: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 136: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 137: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 138: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 139: {start words: "so another important thing that", end words: "the quality is just top-notch"}
+Subtitle Segmentation 140: {start words: "another essential that I try", end words: "it works okay it works"}
+Subtitle Segmentation 141: {start words: "one of the blushes that", end words: "in the shade sadar rose"}
+Subtitle Segmentation 142: {start words: "oh my god I never", end words: "I am so mad but that's just my personal problem"}
+Subtitle Segmentation 143: {start words: "after I got a little", end words: "are going to talk about highlighters yay"}
+Subtitle Segmentation 144: {start words: "and highlighters were like all", end words: "it is a literally bomb calm"}
+Subtitle Segmentation 145: {start words: "like quick dip if you", end words: "holds my eyebrows in place"}
+Subtitle Segmentation 146: {start words: "so for the longest time", end words: "it is not the case"}
+Subtitle Segmentation 147: {start words: "I have better alternatives so", end words: "it's just overhyped for what it is"}
+Subtitle Segmentation 148: {start words: "on the other hand I", end words: "which is which is a gift from God"}
+Subtitle Segmentation 149: {start words: "and now for my favorite", end words: "I just can't physically go and throw it out"}
+Subtitle Segmentation 150: {start words: "but in the recent years", end words: "really like easy and chill"}
+Subtitle Segmentation 151

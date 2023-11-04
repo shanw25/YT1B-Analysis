@@ -1,0 +1,20 @@
+Subtitle Segmentation 1: {start words: "this week on pure bruise", end words: "we'll see you again here"}
+Subtitle Segmentation 2: {start words: "when you arrive at unruly", end words: "a passion for our community for our product"}
+Subtitle Segmentation 3: {start words: "the opportunity to start unruly", end words: "predicted at all what I knew Eric prior"}
+Subtitle Segmentation 4: {start words: "yeah I had brewed with", end words: "a little bit of a community gathering spot"}
+Subtitle Segmentation 5: {start words: "the building really is perfect", end words: "hear anything anyways well we had to find out"}
+Subtitle Segmentation 6: {start words: "this place is haunted for", end words: "it makes the deer better"}
+Subtitle Segmentation 7: {start words: "I think it's a cream", end words: "a beer after that"}
+Subtitle Segmentation 8: {start words: "so we headed upstairs to", end words: "it usually does unruly has turned into one of our favorite places"}
+
+Visual Key Event 1(non-visual): The hosts introduce the episode, mentioning they will be visiting Mountain Town Brewing Company and Unruly Brewing Company.
+Visual Key Event 2(visual): The hosts arrive at Unruly Brewing Company, describing the rock and roll vibe and friendly atmosphere.
+Visual Key Event 3(non-visual): Eric Hoffman, a beer maker, shares his journey from home brewing to becoming a part of Unruly Brewing Company.
+Visual Key Event 4(visual): The hosts discuss the layout of the brewery, mentioning the other businesses within the building and its role as a community gathering spot.
+Visual Key Event 5(non-visual): The hosts discuss the rumors of the brewery being haunted and their experiences with strange occurrences.
+Visual Key Event 6(non-visual): The hosts continue their exploration of the haunted brewery, sharing their experiences and reactions.
+Visual Key Event 7(visual): The hosts are surprised by a scary costume in the bathroom, leading them to need a beer.
+Visual Key Event 8(non-visual): The hosts sample various beers at Unruly Brewing Company, discussing their flavors and the brewery's impact on the local community.
+
+Classification:
+Good.

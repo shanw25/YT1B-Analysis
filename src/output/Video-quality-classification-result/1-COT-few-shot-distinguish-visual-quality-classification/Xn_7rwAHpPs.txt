@@ -1,0 +1,28 @@
+Subtitle Segmentation 1: {start words: "guys love these high-intensity workouts", end words: "middle of summer in Florida"}
+Subtitle Segmentation 2: {start words: "all right running in place", end words: "at least I hope it is"}
+Subtitle Segmentation 3: {start words: "okay let us do five", end words: "1000 1 2 3 4 5 6 7 8 9 10"}
+Subtitle Segmentation 4: {start words: "forward fold pull the stretch", end words: "the same way all the time"}
+Subtitle Segmentation 5: {start words: "all right shake it out", end words: "legs getting heavy 1 2 3 4 oh man"}
+Subtitle Segmentation 6: {start words: "Oh take a nice deep", end words: "that sounds fun all right my friends"}
+Subtitle Segmentation 7: {start words: "punishing the knees little cross", end words: "ten all right little stretch Child's Pose"}
+Subtitle Segmentation 8: {start words: "reach the arms forward press", end words: "working the entire body Chris Brown's real time"}
+Subtitle Segmentation 9: {start words: "has 50/50 fingers out good", end words: "all right second time let's do a hundred"}
+Subtitle Segmentation 10: {start words: "you do fifty gonna do", end words: "all right we go back get back up"}
+Subtitle Segmentation 11: {start words: "skew some jumping jacks kind", end words: "intense focused and fun all right run it in place"}
+Subtitle Segmentation 12: {start words: "I'm gonna have a quick", end words: "you got one hell of a workout thanks my friend chummy-chummy fitness.com"}
+
+Visual Key Event 1(non-visual): The instructor introduces the high-intensity workout and mentions that it will be filmed in his garage in Florida.
+Visual Key Event 2(visual): The instructor starts the workout with running in place and jumping jacks.
+Visual Key Event 3(visual): The instructor demonstrates jump squats, counting up to 30.
+Visual Key Event 4(visual): The instructor takes a break with a forward fold stretch and encourages viewers to take their time.
+Visual Key Event 5(visual): The instructor resumes the workout with another set of jump squats.
+Visual Key Event 6(visual): The instructor takes a deep breath and demonstrates a leg stretch.
+Visual Key Event 7(visual): The instructor demonstrates a knee-cross exercise, followed by a Child's Pose stretch.
+Visual Key Event 8(visual): The instructor continues with a plank position exercise and mentions the benefits of a cleaner diet and cardio.
+Visual Key Event 9(visual): The instructor challenges viewers to do 100 of the previous exercise.
+Visual Key Event 10(visual): The instructor takes a break with side-to-side leg stretches before resuming the workout.
+Visual Key Event 11(non-visual): The instructor concludes the workout with running in place and encourages viewers to make their workouts intense, focused, and fun.
+Visual Key Event 12(non-visual): The instructor mentions his teaching schedule at Disney University and promotes his workout store.
+
+Classification:
+Good.

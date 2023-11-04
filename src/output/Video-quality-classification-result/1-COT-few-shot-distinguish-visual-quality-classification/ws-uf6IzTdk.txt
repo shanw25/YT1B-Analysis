@@ -1,0 +1,36 @@
+Subtitle Segmentation 1: {start words: "Like a tiger [Laughter] How", end words: "is happening in the kingdom of Spain"}
+Subtitle Segmentation 2: {start words: "which is a very complex", end words: "the explanation and the context"}
+Subtitle Segmentation 3: {start words: "because I am talking about", end words: "blaming the Generalitat for the crisis"}
+Subtitle Segmentation 4: {start words: "[Applause] in the early hours", end words: "the referendum [Music] nine o'clock at night"}
+Subtitle Segmentation 5: {start words: "King Felipe Sixth in a", end words: "will unite all Spaniards"}
+Subtitle Segmentation 6: {start words: "according to the Generalitat in", end words: "declarations of independence of Catalonia"}
+Subtitle Segmentation 7: {start words: "for image with information from", end words: "want to ignore the Spanish constitution"}
+Subtitle Segmentation 8: {start words: "the Spanish constitution itself in", end words: "the congress of Spain specifically in the Spanish senate"}
+Subtitle Segmentation 9: {start words: "Now it reminds me a", end words: "the palace hotel in madrid"}
+Subtitle Segmentation 10: {start words: "there where the neptune roundabout", end words: "to save the crown"}
+Subtitle Segmentation 11: {start words: "and more or less says", end words: "that Spain faced now things have changed a lot"}
+Subtitle Segmentation 12: {start words: "back then obviously francisco franco", end words: "the socialist party that was headed at that time by santiago carrillo"}
+Subtitle Segmentation 13: {start words: "it also gives legal entry", end words: "the figure of King Juan Carlos was obviously wearing down due to his mistakes"}
+Subtitle Segmentation 14: {start words: "and his countless walking hunting", end words: "the supreme commander of the armed forces"}
+Subtitle Segmentation 15: {start words: "the kingdom of spain is", end words: "the next few hours what happens with the definition of the other parties for the dissolution of the Catalan government"}
+Subtitle Segmentation 16: {start words: "that is going to get", end words: "the association of Catalonia because mariano rajoy again before I do not know n or I know why maybe he did not agree it was a referendum led by him in which all the people came out because perhaps he was thinking of a great britain he was not thinking that because at the time great britain lost in the vote of the back city no I wanted to repeat it but he was kicking the boat and kicking the boat has serious consequences on the sun Monday through Friday 8 an on television"}
+
+Visual Key Event 1(non-visual): The speaker discusses the complex situation in Spain, particularly in Catalonia.
+Visual Key Event 2(visual): The speaker refers to King Felipe Sixth's speech and the general strike in Catalonia.
+Visual Key Event 3(visual): The speaker describes the protests in Barcelona and the harsh message from King Felipe Sixth blaming the Generalitat for the crisis.
+Visual Key Event 4(visual): The speaker describes the scene of King Felipe Sixth delivering a serious message at night.
+Visual Key Event 5(non-visual): The speaker discusses the warning from King Felipe Sixth about the fracture in Catalan society and the risk to Spain.
+Visual Key Event 6(non-visual): The speaker discusses the Generalitat's plans to take the results of the referendum to the local parliament to declare Catalonia's independence.
+Visual Key Event 7(non-visual): The speaker discusses the Spanish constitution and the autonomous government of Catalonia's desire to split from Spain.
+Visual Key Event 8(non-visual): The speaker discusses the Spanish constitution's Article 155 and the potential for the Spanish kingdom to dissolve the government of Catalonia.
+Visual Key Event 9(non-visual): The speaker compares the current situation to King Juan Carlos's speech in 1981 during a constitutional crisis.
+Visual Key Event 10(non-visual): The speaker discusses King Juan Carlos's actions during the 1981 crisis and his attempt to determine the extent of the rebellion.
+Visual Key Event 11(non-visual): The speaker discusses the changes in Spain since the previous constitutional crisis, particularly the transition from Francisco Franco to Juan Carlos.
+Visual Key Event 12(non-visual): The speaker discusses Adolfo Suarez's actions to dismantle the Franco regime and legalize the socialist party.
+Visual Key Event 13(non-visual): The speaker discusses the decline of King Juan Carlos's reputation due to his mistakes and his love for hunting elephants.
+Visual Key Event 14(non-visual): The speaker discusses the current king's powers and his role as the supreme commander of the armed forces.
+Visual Key Event 15(non-visual): The speaker discusses the potential dissolution of the Catalan government and the current state of the parliamentary monarchy in Spain.
+Visual Key Event 16(non-visual): The speaker discusses the potential consequences of Mariano Rajoy's decision not to hold a referendum and the potential for Catalonia to secede.
+
+Classification:
+Bad.

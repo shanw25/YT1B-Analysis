@@ -1,0 +1,19 @@
+Visual Event 1: The video starts with a close-up shot of five mystery mushrooms toys. Start time: 0.03 End time: 2.49
+Visual Event 2: The host shows the packaging of the toys, highlighting the age recommendation and the different finishes available. Start time: 2.49 End time: 9.15
+Visual Event 3: The host begins to unbox the first mushroom toy. Start time: 9.15 End time: 14.809
+Visual Event 4: The first toy is revealed, a cute character with pink and green colors. Start time: 14.809 End time: 21.81
+Visual Event 5: The host opens the second mushroom toy. Start time: 21.81 End time: 26.99
+Visual Event 6: The second toy is revealed, another cute character with a heart design. Start time: 26.99 End time: 34.26
+Visual Event 7: The host opens the third mushroom toy. Start time: 34.26 End time: 45.36
+Visual Event 8: The third toy is revealed, a character with wings on its back. Start time: 45.36 End time: 53.71
+Visual Event 9: The host opens the fourth mushroom toy. Start time: 53.71 End time: 64.659
+Visual Event 10: The fourth toy is revealed, a character with a pencil topper. Start time: 64.659 End time: 71.8
+Visual Event 11: The host opens the fifth and final mushroom toy. Start time: 71.8 End time: 81.909
+Visual Event 12: The fifth toy is revealed, a character with a glitter finish. Start time: 81.909 End time: 95.88
+Visual Event 13: The host shows all the opened toys together, comparing their different finishes. Start time: 95.88 End time: 102.67
+Visual Event 14: The host shows the collector's guide that comes with the toys. Start time: 102.67 End time: 113.53
+Visual Event 15: The host shows the doubles she got from the unboxing. Start time: 113.53 End time: 124.82
+Visual Event 16: The host shows the different finishes of the toys: standard, pearl, and glitter. Start time: 124.82 End time: 133.7
+Visual Event 17: The host shows her favorite toy from the unboxing. Start time: 133.7 End time: 143.75
+Visual Event 18: The host concludes the video by showing all the toys together and asking viewers to comment their favorite. Start time: 143.75 End time: 151.44
+Visual Event 19: The video ends with a close-up shot of the toys. Start time: 151.44 End time: 158.39

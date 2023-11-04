@@ -1,0 +1,33 @@
+Subtitle Segmentation 1: {start words: "[Music] [Music] never have I", end words: "on the car I have"}
+Subtitle Segmentation 2: {start words: "and I don't plan to", end words: "yeah twice yeah with a red clock yeah"}
+Subtitle Segmentation 3: {start words: "never have I ever had", end words: "you know are you going back"}
+Subtitle Segmentation 4: {start words: "never never never have I", end words: "I'll never watch porn you"}
+Subtitle Segmentation 5: {start words: "I don't get the gist", end words: "I've cheated we're not on you"}
+Subtitle Segmentation 6: {start words: "yeah I never cheated you", end words: "I haven't I had a black eye from it"}
+Subtitle Segmentation 7: {start words: "that's what he was playing", end words: "never have I have one to slap my spouse"}
+Subtitle Segmentation 8: {start words: "I have oh I have", end words: "never adichie so I thank Bob"}
+Subtitle Segmentation 9: {start words: "why don't you Dan you", end words: "I don't got two of them"}
+Subtitle Segmentation 10: {start words: "I got we don't need", end words: "at the top of the day right"}
+Subtitle Segmentation 11: {start words: "never have I ever got", end words: "it was with you like I got us kicked out tomorrow"}
+Subtitle Segmentation 12: {start words: "never have I ever snuck", end words: "never never not yet"}
+Subtitle Segmentation 13: {start words: "never have I ever had", end words: "chance to spare details"}
+Subtitle Segmentation 14: {start words: "never have I ever can't", end words: "you have its silver"}
+Subtitle Segmentation 15: {start words: "what kind of secret she", end words: "you're the Handy's quick over here yes it is I got a mother's hand"}
+Subtitle Segmentation 16: {start words: "well hope you guys enjoyed", end words: "follow us autistic peace"}
+
+Visual Key Event 1(non-visual): The participants play a game of "Never Have I Ever," starting with the question of whether they've ever skipped school.
+Visual Key Event 2(non-visual): The game continues with questions about car maintenance and getting caught during intimate moments.
+Visual Key Event 3(non-visual): The participants discuss moving back home and watching adult content.
+Visual Key Event 4(non-visual): The game continues with questions about cheating in a relationship.
+Visual Key Event 5(non-visual): The participants discuss getting hit in the eye with a baseball and giving a lap dance.
+Visual Key Event 6(non-visual): The game continues with questions about wanting to slap a spouse and faking an orgasm.
+Visual Key Event 7(non-visual): The participants discuss thinking about cheating and getting a parking ticket.
+Visual Key Event 8(non-visual): The game continues with questions about having parents over for dinner and getting kicked out of a mall.
+Visual Key Event 9(non-visual): The participants discuss sneaking out of the house and lying to their parents about their whereabouts.
+Visual Key Event 10(non-visual): The game continues with questions about having sex outside and in a car.
+Visual Key Event 11(non-visual): The participants discuss having their significant other come to work with them and keeping secrets from their spouse.
+Visual Key Event 12(non-visual): The game concludes and the participants reflect on the questions and their answers.
+Visual Key Event 13(non-visual): The participants wrap up the video, asking viewers for more challenge or video suggestions and encouraging them to like and follow their content.
+
+Classification:
+Bad.

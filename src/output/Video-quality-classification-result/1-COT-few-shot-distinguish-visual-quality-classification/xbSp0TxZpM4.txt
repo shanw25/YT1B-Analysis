@@ -1,0 +1,24 @@
+Subtitle Segmentation 1: {start words: "welcome back uh as always", end words: "seven million dollar behemoth that operates across a nation"}
+Subtitle Segmentation 2: {start words: "okay so whether you're a", end words: "we can help you out here"}
+Subtitle Segmentation 3: {start words: "okay but today is going", end words: "funnel it to the government later on"}
+Subtitle Segmentation 4: {start words: "but a positive of all", end words: "control the cleaners a little more with when they do things"}
+Subtitle Segmentation 5: {start words: "these are giant facilities we", end words: "a subcontractor aspect of things"}
+Subtitle Segmentation 6: {start words: "we are looking at uh", end words: "i don't have any issues"}
+Subtitle Segmentation 7: {start words: "okay so the biggest thing", end words: "reinvest back into my business"}
+Subtitle Segmentation 8: {start words: "okay so that's why we", end words: "subcontractors are the way to go"}
+Subtitle Segmentation 9: {start words: "okay but all in all", end words: "strict difference for it"}
+Subtitle Segmentation 10: {start words: "okay like don't just call", end words: "hope you guys have a great day"}
+
+Visual Key Event 1(non-visual): Peter Bolland introduces himself and discusses the upcoming additions to their YouTube channel, including their daily morning meetings and coaching sessions.
+Visual Key Event 2(non-visual): Peter discusses how they can assist both small janitorial companies and larger companies looking to expand.
+Visual Key Event 3(non-visual): Peter discusses the pros and cons of hiring an employee, including the responsibilities of buying supplies, paying them regularly, remitting taxes, and maintaining detailed records.
+Visual Key Event 4(non-visual): Peter discusses the benefits of having employees, including maintaining control over their attire, equipment, and work schedule.
+Visual Key Event 5(non-visual): Peter discusses the transition to using subcontractors and the benefits of this approach, including the ability to negotiate payment terms and the reduced need for management oversight.
+Visual Key Event 6(non-visual): Peter discusses the importance of training subcontractors correctly on their systems and processes to avoid issues.
+Visual Key Event 7(non-visual): Peter discusses the impact of cash flow on business growth and how using subcontractors has helped manage this aspect.
+Visual Key Event 8(non-visual): Peter discusses the decision between hiring employees or subcontractors, depending on the business's growth goals and control needs.
+Visual Key Event 9(non-visual): Peter emphasizes that the same individuals could be hired as either employees or subcontractors, depending on their mindset and individual characteristics.
+Visual Key Event 10(non-visual): Peter concludes the discussion, reminding viewers to maintain a clear distinction between employees and subcontractors, and invites viewers to contact their office for more information.
+
+Classification:
+Good.

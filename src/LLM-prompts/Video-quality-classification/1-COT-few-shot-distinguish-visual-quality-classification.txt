@@ -24,4 +24,27 @@ Visual Key Event 6(non-visual): Lizbeth Garcia concludes the workout session, pr
 Classification:
 Good.
 
+Example Given Video Subtitles:
+so when you are first trying to engage your audience consider these things one what is the most important message I need to communicate - how can I conveyed in a shortest possible time ie entice someone to engage and three is there a visual alternative that communicates this message in a stronger way by showing the sky more than the tower you can see that it\'s high up and uninterrupted you immediately process the message of success luxury prestige the image is used to engage and a flyer wants further details here the roadside imagery sparked the interest once the person is engaged they see the big posters interactive highlights how alcohol affects safe driving which is much better than saying this in a sentence could this be any more succinct its simplicity completely overrides complexity debate and brings it back to the most important message at the street fighter\' media there are so many benefits that I want to highlight to our potential clients we have 17 services we have ground teams in every state a campaign reporting is unmatched or maybe that we offer graphic design but when engaging someone for the first time the most important message that needs to be communicated is that we connect with the locals in ways that others can\'t and I can get into the details later so how do I convey the strongest possible message in the shortest amount of time a phrase that we commonly use avoiding any technical language is that we defy convention to create unique media spaces in public areas which is great but consider this visually communicating this message is much stronger and can be processed in a much shorter space of time it explains exactly what we do without using micro language or alienating a potential client once that person has engaged opportunities open up to go into all of those other motherless things so we\'re trying to engage your target take a step back and consider the strongest possible message in the shortest amount of time then take it a step further to see whether your message will be stronger if it were communicated visually
+
+Example Outputs:
+Subtitle Segmentation 1: {start words: "so when you are first", end words: "message in a stronger way"}
+Subtitle Segmentation 2: {start words: "by showing the sky more", end words: "wants further details here"}
+Subtitle Segmentation 3: {start words: "the roadside imagery sparked the", end words: "saying this in a sentence"}
+Subtitle Segmentation 4: {start words: "could this be any more", end words: "most important message"}
+Subtitle Segmentation 5: {start words: "at the street fighter' media", end words: "ways that others can't"}
+Subtitle Segmentation 6: {start words: "and I can get into", end words: "alienating a potential client"}
+Subtitle Segmentation 7: {start words: "once that person has engaged", end words: "if it were communicated visually"}
+
+Visual Key Event 1(non-visual): The speaker discusses the importance of conveying a message quickly and effectively, and considers if a visual alternative could communicate the message stronger.
+Visual Key Event 2(visual): The speaker uses the example of showing the sky more than the tower to communicate the message of success, luxury, and prestige.
+Visual Key Event 3(visual): The speaker uses roadside imagery to spark interest and big posters to highlight the effects of alcohol on safe driving.
+Visual Key Event 4(non-visual): The speaker emphasizes the importance of simplicity in conveying the most important message.
+Visual Key Event 5(non-visual): The speaker discusses the services offered by Street Fighter Media and their unique connection with locals.
+Visual Key Event 6(non-visual): The speaker discusses how to convey a strong message in a short amount of time, using a phrase that avoids technical language.
+Visual Key Event 7(non-visual): The speaker discusses the benefits of visual communication and the opportunities it opens up once a person is engaged.
+
+Classification:
+Bad.
+
 Actual Given Video Subtiltes:

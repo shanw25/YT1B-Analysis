@@ -1,0 +1,29 @@
+Subtitle Segmentation 1: {start words: "good morning you guys and", end words: "I'm just gonna have to try to make it work"}
+Subtitle Segmentation 2: {start words: "but pretty much that's what", end words: "the floors"}
+Subtitle Segmentation 3: {start words: "I'm also gonna do some", end words: "the game for me kind of thing"}
+Subtitle Segmentation 4: {start words: "so I'm really moving into", end words: "has been amazing"}
+Subtitle Segmentation 5: {start words: "so I'm really excited for", end words: "done and so we can head out to the story"}
+Subtitle Segmentation 6: {start words: "tree just convinced me to", end words: "to that level"}
+Subtitle Segmentation 7: {start words: "I mean after all it", end words: "and forth and back and forth"}
+Subtitle Segmentation 8: {start words: "yeah let me go ahead", end words: "with no problem"}
+Subtitle Segmentation 9: {start words: "excuse my lips it's my", end words: "it for real I'm down for that let's do that"}
+Subtitle Segmentation 10: {start words: "but nowadays like it would", end words: "keep it moving"}
+Subtitle Segmentation 11: {start words: "that's not it it's not", end words: "you know back in the house getting some dinner ready"}
+Subtitle Segmentation 12: {start words: "got some rice cooking planned", end words: "all plant-based so can't wait to do that"}
+Subtitle Segmentation 13: {start words: "but yeah I wanted to", end words: "and cruelty-free obviously so it's a pure vegan soap and it's cold processed so that's pretty awesome"}
+Subtitle Segmentation 14: {start words: "so yeah we got the", end words: "I think that's pretty good anyways thank you guys for hanging out with us and we'll see you guys in our next one bye"}
+
+Visual Key Event 1: The person is talking to the camera about their plans for the day, which includes shopping for essentials and cleaning the bathroom.
+Visual Key Event 2: The person is cleaning the bathroom and discussing their responsibilities in the house.
+Visual Key Event 3: The person is discussing their skincare routine and the benefits of a plant-based face wash they have been using.
+Visual Key Event 4: The person is discussing their transition to plant-based skincare products and the initial breakout they experienced.
+Visual Key Event 5: The person is preparing to put on a clay mask and discussing their skincare journey.
+Visual Key Event 6: The person is discussing their experience with the clay mask and their reasons for using it.
+Visual Key Event 7: The person is expressing gratitude for the support they have received in their business journey.
+Visual Key Event 8: The person is discussing their dislike for chores and their perfectionist tendencies.
+Visual Key Event 9: The person is discussing their memories of snow and their preference for delayed school openings.
+Visual Key Event 10: The person is shopping for essentials and discussing their preference for certain brands.
+Visual Key Event 11: The person is discussing their shopping experience and their preference for certain products.
+Visual Key Event 12: The person is preparing dinner and discussing their plans for a future recipe video.
+Visual Key Event 13: The person is showing the products they bought from Marshalls and discussing their benefits.
+Visual Key Event 14: The person is discussing their soap usage habits and their plans to update viewers on the longevity of the soap bars.

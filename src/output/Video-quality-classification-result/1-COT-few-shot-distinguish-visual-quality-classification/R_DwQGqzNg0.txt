@@ -1,0 +1,42 @@
+Subtitle Segmentation 1: {start words: "but you you leave with", end words: "they're cool air so yeah"}
+Subtitle Segmentation 2: {start words: "if you saw been talking", end words: "we did around nine up a couple of years ago"}
+Subtitle Segmentation 3: {start words: "so working with brands of", end words: "we could've done by ourselves"}
+Subtitle Segmentation 4: {start words: "and but for us then", end words: "launcher you know couple weeks ago"}
+Subtitle Segmentation 5: {start words: "for Android the pain that", end words: "it goes by 10 o'clock UK time tomorrow morning"}
+Subtitle Segmentation 6: {start words: "and you should go watch", end words: "reactions of those sorts of things"}
+Subtitle Segmentation 7: {start words: "and I think it's because", end words: "on a normal day to day basis"}
+Subtitle Segmentation 8: {start words: "five or six years old", end words: "a lot of entertainment kind of"}
+Subtitle Segmentation 9: {start words: "and seen a lot of", end words: "I think performance is one thing potentially"}
+Subtitle Segmentation 10: {start words: "but we did a lot", end words: "the fifth friend that's there"}
+Subtitle Segmentation 11: {start words: "and so I think it's", end words: "the house bang but"}
+Subtitle Segmentation 12: {start words: "but that's kind of as", end words: "that hasn't changed No"}
+Subtitle Segmentation 13: {start words: "so two things first inside", end words: "I'll always give it a go"}
+Subtitle Segmentation 14: {start words: "any dishes a hotel no", end words: "this way this time give that"}
+Subtitle Segmentation 15: {start words: "Carrie and her go John", end words: "the perfect formula for me"}
+Subtitle Segmentation 16: {start words: "yeah you can only people", end words: "nice person every okay"}
+Subtitle Segmentation 17: {start words: "have you ever stop and", end words: "that series came out later"}
+Subtitle Segmentation 18: {start words: "so you kind of have", end words: "the other stuff the recipes the love all that without work"}
+Subtitle Segmentation 19: {start words: "so yeah I mean the", end words: "that intimate what we have kind of stopped"}
+
+Visual Key Event 1(non-visual): The speaker discusses their enjoyment of sponsored videos and the creative solutions they can provide.
+Visual Key Event 2(non-visual): The speaker mentions past projects they've enjoyed, including a community's penalty minutes and a chocolate-themed project.
+Visual Key Event 3(non-visual): The speaker discusses the benefits of working with brands, including access to resources, people, and locations.
+Visual Key Event 4(non-visual): The speaker talks about their preference for projects that allow them to get out of the studio and mentions a recent project for Android.
+Visual Key Event 5(non-visual): The speaker recounts a recent project where they filmed an Indian wedding in London, emphasizing the unique experiences such projects provide.
+Visual Key Event 6(non-visual): The speaker discusses the positive reactions they receive for their work and the importance of transparency in their process.
+Visual Key Event 7(non-visual): The speaker reflects on their journey over the past five or six years and their initial interest in entertainment.
+Visual Key Event 8(non-visual): The speaker discusses their approach to performance and their preference for natural, friend-to-friend communication.
+Visual Key Event 9(non-visual): The speaker talks about the intimate, friendly atmosphere on set and how the camera becomes a "fifth friend."
+Visual Key Event 10(non-visual): The speaker discusses the in-jokes and references that make their videos unique and engaging for their audience.
+Visual Key Event 11(non-visual): The speaker reflects on the importance of maintaining their unique, friendly approach to their work.
+Visual Key Event 12(non-visual): The speaker discusses their approach to creating content, including their willingness to experiment and their enjoyment of all types of food.
+Visual Key Event 13(non-visual): The speaker discusses the process of testing and refining recipes, emphasizing the importance of experimentation.
+Visual Key Event 14(non-visual): The speaker recounts their attempts to perfect a recipe, emphasizing the iterative nature of the process.
+Visual Key Event 15(non-visual): The speaker discusses their approach to filming, including their preference for a small, intimate crew.
+Visual Key Event 16(non-visual): The speaker discusses their approach to editing, including their preference for editing on the go and their process for managing different types of content.
+Visual Key Event 17(non-visual): The speaker discusses their approach to managing content, including their use of real-time content on social media and their process for editing and releasing longer-form content.
+Visual Key Event 18(non-visual): The speaker discusses their preference for a small, intimate crew and their past experiences with larger crews.
+Visual Key Event 19(non-visual): The speaker concludes their discussion, emphasizing the importance of maintaining an intimate, friendly atmosphere in their work.
+
+Classification:
+Good.

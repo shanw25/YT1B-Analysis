@@ -1,0 +1,24 @@
+Subtitle Segmentation 1: {start words: "what is going on man", end words: "a distractingly chiseled jawline"}
+Subtitle Segmentation 2: {start words: "so the reason I'm making", end words: "a day or a couple of hours and you'll see why"}
+Subtitle Segmentation 3: {start words: "so the first tip I", end words: "look bigger and more defined"}
+Subtitle Segmentation 4: {start words: "so that's one way that", end words: "seem a little bit more defined"}
+Subtitle Segmentation 5: {start words: "so we've got chewing more", end words: "and raising your tongue"}
+Subtitle Segmentation 6: {start words: "so the third tip I", end words: "lighter skin"}
+Subtitle Segmentation 7: {start words: "so even if you have", end words: "appearance of having a sharp jawline"}
+Subtitle Segmentation 8: {start words: "so that's tip number three", end words: "your jaw line"}
+Subtitle Segmentation 9: {start words: "because if you're eating a", end words: "below your jaw line"}
+Subtitle Segmentation 10: {start words: "so that's tip number four", end words: "more attractive so take those five tips and I will see you in the next video"}
+
+Visual Key Event 1(non-visual): Patrick James introduces the topic of the video, which is about tips to get a chiseled jawline.
+Visual Key Event 2(non-visual): Patrick explains that some of the tips will have instant effects, while others will take some time.
+Visual Key Event 3(visual): Patrick demonstrates the first tip, which is to chew more gum to work out the masseter muscle for a stronger jawline.
+Visual Key Event 4(visual): Patrick demonstrates the second tip, which is to pay attention to tongue positioning in the mouth for a more defined jawline.
+Visual Key Event 5(non-visual): Patrick summarizes the first two tips and introduces the next three tips.
+Visual Key Event 6(visual): Patrick explains and demonstrates the third tip, which is to shape the beard in a way that makes the jaw look stronger.
+Visual Key Event 7(visual): Patrick continues to explain how shaping the beard can create an optical illusion of a sharper jawline.
+Visual Key Event 8(non-visual): Patrick introduces the fourth tip, which is to reduce salt intake to prevent bloating and puffiness in the face.
+Visual Key Event 9(visual): Patrick explains how reducing salt intake can make the face and jawline look more defined.
+Visual Key Event 10(non-visual): Patrick introduces the fifth tip, which is to maintain a good overall diet and exercise routine for a more defined face and jawline. He concludes the video by emphasizing the social benefits of a stronger jawline.
+
+Classification:
+Good.

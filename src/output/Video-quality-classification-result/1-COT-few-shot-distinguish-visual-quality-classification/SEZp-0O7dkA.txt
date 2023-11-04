@@ -1,0 +1,22 @@
+Subtitle Segmentation 1: {start words: "hey guys what's up welcome", end words: "I don't remember because the quality was just not what I wanted"}
+Subtitle Segmentation 2: {start words: "so I went to Sephora", end words: "Ravin going crazy so I decided to pick it up and give it a try"}
+Subtitle Segmentation 3: {start words: "and I'm going to show", end words: "bit of makeup on my hands"}
+Subtitle Segmentation 4: {start words: "and yeah I want to", end words: "looks like up close"}
+Subtitle Segmentation 5: {start words: "and yeah hopefully you guys", end words: "like or if it's nice"}
+Subtitle Segmentation 6: {start words: "it applies really really nice", end words: "shadow but from my Nubian from my Nubian 2 palette I used this shade right here called Sheba this shade right here"}
+Subtitle Segmentation 7: {start words: "so I applied concealer and", end words: "doesn't have any kind of fallout"}
+Subtitle Segmentation 8: {start words: "so yeah that's what it", end words: "it's really really nice um"}
+Subtitle Segmentation 9: {start words: "and that's about it guys", end words: "and we'll chat in the next one bye"}
+
+Visual Key Event 1(non-visual): The speaker introduces herself and mentions her intention to review a new product on the market.
+Visual Key Event 2(non-visual): The speaker shares her experience of purchasing the product from Sephora and her decision to try it based on the recommendation of a store employee.
+Visual Key Event 3(visual): The speaker shows the product packaging and describes its appearance.
+Visual Key Event 4(visual): The speaker applies the product on her hand to demonstrate its look and then shows her eyelids where she has applied the product.
+Visual Key Event 5(non-visual): The speaker discusses the product's application and its effect on bare lids or over concealer.
+Visual Key Event 6(visual): The speaker explains her makeup process, including the use of concealer and a shade from the Nubian 2 palette, followed by the application of the glitter.
+Visual Key Event 7(visual): The speaker shows the product's finish on her skin, emphasizing its matte finish and lack of fallout.
+Visual Key Event 8(non-visual): The speaker discusses the product's price and quantity, recommending it to viewers.
+Visual Key Event 9(non-visual): The speaker concludes her review, inviting viewers to ask any questions they may have about the product.
+
+Classification:
+Good.

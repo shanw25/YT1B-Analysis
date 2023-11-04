@@ -1,0 +1,17 @@
+Visual Event 1: The video starts with a person talking to the camera.
+Start Time: 0.03 End Time: 3.33
+
+Visual Event 2: The person is inside a house, indicating it's raining outside.
+Start Time: 16.13 End Time: 22.68
+
+Visual Event 3: The person is discussing about needing to buy some household essentials.
+Start Time: 22.68 End Time: 34.559
+
+Visual Event 4: The person is cleaning the bathroom.
+Start Time: 66.33 End Time: 79.92
+
+Visual Event 5: The person is applying a face mask for self-care.
+Start Time: 83.16 End Time: 96.72
+
+Visual Event 6: The person is discussing about their skincare routine.
+Start Time: 96.72 End Time

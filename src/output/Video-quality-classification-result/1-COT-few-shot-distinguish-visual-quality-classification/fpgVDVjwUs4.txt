@@ -1,0 +1,54 @@
+Subtitle Segmentation 1: {start words: "all right this is a", end words: "help you out"}
+Subtitle Segmentation 2: {start words: "you need to begin here", end words: "straight from the receiver"}
+Subtitle Segmentation 3: {start words: "okay now it's time to", end words: "the direction the pin would be removed"}
+Subtitle Segmentation 4: {start words: "now to fully remove the", end words: "it'll come out no problem"}
+Subtitle Segmentation 5: {start words: "on this video I'm not", end words: "deep deep cleaning or you have a broken part"}
+Subtitle Segmentation 6: {start words: "okay so now we're going", end words: "to pry or anything"}
+Subtitle Segmentation 7: {start words: "okay now here's just a", end words: "underneath and away"}
+Subtitle Segmentation 8: {start words: "if you see here with", end words: "it'll slip right out"}
+Subtitle Segmentation 9: {start words: "alright next we need to", end words: "the actionbar is pulled all the way forward"}
+Subtitle Segmentation 10: {start words: "now your going to do", end words: "either side of the receiver"}
+Subtitle Segmentation 11: {start words: "now now you want to", end words: "want to investigate that before we do that"}
+Subtitle Segmentation 12: {start words: "okay as I spoke up", end words: "going back in"}
+Subtitle Segmentation 13: {start words: "okay now it's time to", end words: "let it hold it"}
+Subtitle Segmentation 14: {start words: "all right and up next", end words: "and there we go"}
+Subtitle Segmentation 15: {start words: "there's a shot of it", end words: "the ejector right here"}
+Subtitle Segmentation 16: {start words: "notice that and that will", end words: "go down a little bit more"}
+Subtitle Segmentation 17: {start words: "so the boat went forward", end words: "secured in place"}
+Subtitle Segmentation 18: {start words: "and like I said this", end words: "do it a few times"}
+Subtitle Segmentation 19: {start words: "there we go and simply", end words: "get it in there"}
+Subtitle Segmentation 20: {start words: "and there we go slides", end words: "one went in no problem"}
+Subtitle Segmentation 21: {start words: "okay then you're going to", end words: "goes right in no problem"}
+Subtitle Segmentation 22: {start words: "and there's a view of", end words: "getting in you"}
+Subtitle Segmentation 23: {start words: "okay and I'm not going", end words: "want to do that"}
+Subtitle Segmentation 24: {start words: "okay of course that's the", end words: "pop into place it's secure"}
+Subtitle Segmentation 25: {start words: "and there we go so", end words: "leave your comments thank you"}
+
+Visual Key Event 1(non-visual): The speaker introduces the video, explaining that it will cover the basic disassembly and reassembly of the Remington Model 31 shotgun.
+Visual Key Event 2(visual): The speaker begins the disassembly process by pressing the action release button and accessing the barrel lock.
+Visual Key Event 3(visual): The speaker removes the trigger group by punching out the pin from the right side.
+Visual Key Event 4(visual): The speaker fully removes the trigger group by pulling the action forward.
+Visual Key Event 5(non-visual): The speaker mentions that they will not disassemble the trigger group in this video.
+Visual Key Event 6(visual): The speaker pulls out the cartridge stops, noting that there are two of them in this model.
+Visual Key Event 7(visual): The speaker begins the process of removing the slide and the breech block.
+Visual Key Event 8(visual): The speaker removes the slide by freeing it up from the action bar.
+Visual Key Event 9(visual): The speaker removes the carrier, noting that the breech block is holding down the ejector.
+Visual Key Event 10(visual): The speaker removes the breech block, noting that it has two extractors.
+Visual Key Event 11(non-visual): The speaker advises viewers to familiarize themselves with how the parts fit together before attempting reassembly.
+Visual Key Event 12(visual): The speaker shows the empty receiver and how the ejector should look when being reinserted.
+Visual Key Event 13(visual): The speaker begins the reassembly process by inserting the ejector.
+Visual Key Event 14(visual): The speaker slides in the breech block, holding down the ejector spring.
+Visual Key Event 15(visual): The speaker inserts the carrier, making sure it clears either side of the breech block.
+Visual Key Event 16(visual): The speaker positions the breech block and slide for reassembly.
+Visual Key Event 17(visual): The speaker attaches the action bar to the slide.
+Visual Key Event 18(non-visual): The speaker acknowledges the difficulty of reassembling the slide, breech block, and action bar.
+Visual Key Event 19(visual): The speaker inserts the cartridge stops.
+Visual Key Event 20(visual): The speaker inserts the second cartridge stop.
+Visual Key Event 21(visual): The speaker moves the action forward and aligns the notches to insert the trigger group.
+Visual Key Event 22(visual): The speaker inserts the trigger group pin.
+Visual Key Event 23(non-visual): The speaker explains how to disassemble the magazine, but does not demonstrate it in this video.
+Visual Key Event 24(visual): The speaker reattaches the barrel and secures it with the barrel lock.
+Visual Key Event 25(non-visual): The speaker concludes the video, summarizing what was covered and inviting viewers to leave comments.
+
+Classification:
+Good.

@@ -1,0 +1,29 @@
+Subtitle Segmentation 1: {start words: "okay let's get started let", end words: "really good well greased pan which I have there"}
+Subtitle Segmentation 2: {start words: "so let's get started all", end words: "smooth out the little clumps and stuff stir it up a little"}
+Subtitle Segmentation 3: {start words: "and next I am going", end words: "a teaspoon of salt then it calls for cottage cheese"}
+Subtitle Segmentation 4: {start words: "it says let's see add", end words: "put that in don't really matter how you put it in it this all goes in and get some mixed up that up"}
+Subtitle Segmentation 5: {start words: "then it calls for one", end words: "this is all the dry and wet ingredients besides the broccoli"}
+Subtitle Segmentation 6: {start words: "so I'm gonna just mix", end words: "don't cost a lot of money"}
+Subtitle Segmentation 7: {start words: "all right now it calls", end words: "eyeballing that is plenty of broccoli in the cornbread"}
+Subtitle Segmentation 8: {start words: "because I don't want too", end words: "you can just eyeball with how much you think you would like"}
+Subtitle Segmentation 9: {start words: "all right I've got my", end words: "it's going to turn out so yummy"}
+Subtitle Segmentation 10: {start words: "I've only made this one", end words: "it's going to be cornbread and that's pretty much it"}
+Subtitle Segmentation 11: {start words: "pop it in the oven", end words: "it looks like when it comes out of the oven it's perfect"}
+Subtitle Segmentation 12: {start words: "okay guys I took my", end words: "like combat supposed to be but isn't it just beautiful"}
+Subtitle Segmentation 13: {start words: "I just wanted to show", end words: "this cornbread is awesome and I used to take it to dinners or something like that"}
+Subtitle Segmentation 14: {start words: "and it is a big", end words: "like this video subscribe if you're not subscribed and I will talk to you guys later happy holidays"}
+
+Visual Event 1: The presenter introduces the ingredients for the recipe, including corn muffin mix, cottage cheese, butter, eggs, onion, broccoli, and a well-greased pan.
+Visual Event 2: The presenter begins by mixing the dry ingredient, the corn muffin mix, in a bowl.
+Visual Event 3: The presenter adds the wet ingredients, including eggs, melted butter, and cottage cheese, to the bowl.
+Visual Event 4: The presenter continues to mix the ingredients together, adding the chopped onion.
+Visual Event 5: The presenter completes the mixing of all the dry and wet ingredients, excluding the broccoli.
+Visual Event 6: The presenter comments on the simplicity and affordability of the recipe.
+Visual Event 7: The presenter adds the chopped broccoli to the mixture.
+Visual Event 8: The presenter comments on the flexibility of the recipe, allowing for adjustments based on personal preference.
+Visual Event 9: The presenter transfers the mixture into a well-greased pan, commenting on the thickness of the mixture.
+Visual Event 10: The presenter smooths out the mixture in the pan, preparing it for baking.
+Visual Event 11: The presenter places the pan in the oven, set at 400 degrees, for 30 minutes.
+Visual Event 12: The presenter removes the baked cornbread from the oven, allowing it to cool before cutting a slice to show the viewers.
+Visual Event 13: The presenter shows the inside of the cornbread, commenting on its appearance and taste.
+Visual Event 14: The presenter concludes the video, encouraging viewers to try the recipe and to leave comments, like the video, and subscribe to the channel.

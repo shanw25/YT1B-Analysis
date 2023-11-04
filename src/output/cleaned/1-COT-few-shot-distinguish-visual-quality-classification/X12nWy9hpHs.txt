@@ -1,0 +1,8 @@
+Visual Key Event 2(visual): The speaker and Kate start making pancakes, with the speaker claiming to be the pancake master.
+Visual Key Event 3(visual): The speaker and Kate continue making pancakes, with the second pancake getting burnt.
+Visual Key Event 6(visual): The speaker and Kate start making an omelette.
+Visual Key Event 7(visual): The speaker and Kate continue making the omelette, with the speaker joking about Kate's cooking skills.
+Visual Key Event 8(visual): The speaker and Kate finish cooking and present their food, including pancakes, strawberries, and an omelette.
+Visual Key Event 9(visual): The speaker and Kate taste their food, with the speaker struggling to find a knife.
+Visual Key Event 10(visual): The speaker and Kate continue eating their food, with the speaker praising the taste.
+Visual Key Event 13(visual): The speaker opens the package in front of the camera.

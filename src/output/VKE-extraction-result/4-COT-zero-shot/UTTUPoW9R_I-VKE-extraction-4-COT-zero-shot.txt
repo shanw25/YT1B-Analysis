@@ -1,0 +1,13 @@
+Subtitle Segmentation 1: {start words: "hi I'm Lizbeth Garcia faculty", end words: "the knees off she'll she'll exhale"}
+Subtitle Segmentation 2: {start words: "and lift the knees assuming", end words: "a flat neutral spine to begin with"}
+Subtitle Segmentation 3: {start words: "now right into round back", end words: "amount of transverse abdominus work to keep the low back tucked under"}
+Subtitle Segmentation 4: {start words: "from there back to flap", end words: "fantastic work for the core"}
+Subtitle Segmentation 5: {start words: "into your jackrabbit round back", end words: "body weight stays over the hands and over the orbit"}
+Subtitle Segmentation 6: {start words: "that's gorgeous that's a great", end words: "the sequence and we'll see you again here"}
+
+Visual Event 1: Lizbeth Garcia introduces herself and her colleague, Portia, and they prepare to start the knees off series on the orbit.
+Visual Event 2: Portia begins the exercise by placing her hands on the orbit and lifting her knees.
+Visual Event 3: Portia transitions into a round back position, maintaining a tucked under low back.
+Visual Event 4: Portia returns to a flat back position and performs a single leg variation of the exercise.
+Visual Event 5: Portia performs the jackrabbit round back exercise, maintaining stability in her upper body.
+Visual Event 6: Lizbeth Garcia concludes the workout session, praising Portia's performance and expressing hope that the viewers enjoyed the sequence.

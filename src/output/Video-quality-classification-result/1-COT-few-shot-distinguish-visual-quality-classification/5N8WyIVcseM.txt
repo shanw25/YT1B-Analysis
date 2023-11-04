@@ -1,0 +1,45 @@
+Subtitle Segmentation 1: {start words: "hey John crostata here and", end words: "how to use the interface how to get your links"}
+Subtitle Segmentation 2: {start words: "how to get paid how", end words: "doing a thing also give you free access to our community"}
+Subtitle Segmentation 3: {start words: "so that you can be", end words: "can access them if you want to get started making money online"}
+Subtitle Segmentation 4: {start words: "so let's get to my", end words: "let's get it [Music] okay so here we are in the super affiliate Network website"}
+Subtitle Segmentation 5: {start words: "by the way for those", end words: "I don't look good so let's get into this"}
+Subtitle Segmentation 6: {start words: "if you want to follow", end words: "interesting affiliate network so first off"}
+Subtitle Segmentation 7: {start words: "as you can see it's", end words: "anywhere in the world so again anybody anywhere over the world"}
+Subtitle Segmentation 8: {start words: "please let's see if I", end words: "you can do it there"}
+Subtitle Segmentation 9: {start words: "and just explain this this", end words: "I don't really actively promote this program"}
+Subtitle Segmentation 10: {start words: "now let's explain how this", end words: "people are still actively doing stuff"}
+Subtitle Segmentation 11: {start words: "now where you would get", end words: "you can do this"}
+Subtitle Segmentation 12: {start words: "and then you'll get your", end words: "so they get like 50 Cent's and up so on and so on if people buy into other stuff"}
+Subtitle Segmentation 13: {start words: "now one of the keys", end words: "they won't stay involved"}
+Subtitle Segmentation 14: {start words: "now in regards to the", end words: "you already know all of this stuff so slow down in the comments or speed up"}
+Subtitle Segmentation 15: {start words: "okay that will really help", end words: "all simple stuff to me cool"}
+Subtitle Segmentation 16: {start words: "so let's go to the", end words: "you know if you get a couple thousand dollar commission"}
+Subtitle Segmentation 17: {start words: "however the downside of high", end words: "exactly how the system works"}
+Subtitle Segmentation 18: {start words: "okay and really figure it", end words: "let's get into it"}
+Subtitle Segmentation 19: {start words: "now some pros and cons", end words: "I've already made about 7,000 and I haven't cashed out yet just whatever"}
+Subtitle Segmentation 20: {start words: "so there really aren't many", end words: "you join"}
+Subtitle Segmentation 21: {start words: "now if you want to", end words: "you know how to copy and paste ads for free"}
+Subtitle Segmentation 22: {start words: "Twitter texting people answering all", end words: "this playlist again these are all the free traffic methods"}
+Subtitle Segmentation 23: {start words: "if you want to get", end words: "this is how I actually started making money before I even knew about affiliate marketing"}
+Subtitle Segmentation 24: {start words: "and I thought this was", end words: "let me know if you have any questions and what affiliate networks you would like to see me talk about next"}
+Subtitle Segmentation 25: {start words: "last thing sorry software is", end words: "please stop asking me so there you go looking forward to helping you guys promote"}
+Subtitle Segmentation 26: {start words: "I suggest you actually sign", end words: "I look forward to helping you make money online seriously"}
+Subtitle Segmentation 27: {start words: "I want you making money", end words: "talk to you soon bye"}
+
+Visual Key Event 1(non-visual): John introduces himself and explains that he will be showing how to make money online with the Super Affiliate Network.
+Visual Key Event 2(non-visual): John explains the benefits of the Super Affiliate Network, including high ticket commissions and free training.
+Visual Key Event 3(non-visual): John invites viewers to follow along on his computer as he goes through the pros and cons of the Super Affiliate Network.
+Visual Key Event 4(visual): John navigates to the Super Affiliate Network website and begins to explain its features.
+Visual Key Event 5(visual): John shows the dashboard of the Super Affiliate Network, explaining that it is free to join and accessible from anywhere in the world.
+Visual Key Event 6(visual): John explains the concept of leads and how they can turn into money over time.
+Visual Key Event 7(visual): John shows where to get links to promote the program and demonstrates how to generate a link.
+Visual Key Event 8(non-visual): John discusses the importance of promoting a program with a strong community.
+Visual Key Event 9(non-visual): John explains some important terms related to affiliate marketing, such as affiliate link and leads.
+Visual Key Event 10(non-visual): John discusses the concept of high ticket commissions and the pros and cons of high ticket programs.
+Visual Key Event 11(non-visual): John provides resources for free traffic methods and link posting software.
+Visual Key Event 12(non-visual): John goes over the pros and cons of the Super Affiliate Network, emphasizing the low cash out limit and the lack of many downsides.
+Visual Key Event 13(non-visual): John encourages viewers to sign up for all affiliate networks to increase their chances of approval.
+Visual Key Event 14(non-visual): John concludes the video, expressing his hope to help viewers make money online and inviting them to send testimonial videos once they do.
+
+Classification:
+Good.

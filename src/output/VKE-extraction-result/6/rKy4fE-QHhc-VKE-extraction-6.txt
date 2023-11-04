@@ -1,0 +1,74 @@
+Visual Event 1: The video starts with a man talking to another person, possibly a friend.
+Start Time: 0.0 End Time: 1.319
+
+Visual Event 2: The man seems to be saying goodbye to his friend, possibly leaving a place or an event.
+Start Time: 1.32 End Time: 4.78
+
+Visual Event 3: The man attempts to give an awkward camera hug, indicating they are filming their interaction.
+Start Time: 4.78 End Time: 10.94
+
+Visual Event 4: The man announces he is going to drive back home, suggesting he is leaving the location.
+Start Time: 10.94 End Time: 16.769
+
+Visual Event 5: The man is seen interacting with a wall of fan-art, indicating he might be a public figure or influencer.
+Start Time: 16.769 End Time: 21.94
+
+Visual Event 6: The man invites someone to come outside and film something, despite the rain.
+Start Time: 21.94 End Time: 29.83
+
+Visual Event 7: The man is seen climbing up a slippery and wobbly structure, possibly for exercise or fun.
+Start Time: 29.83 End Time: 48.73
+
+Visual Event 8: The man is seen shopping with his cousins and a friend, Quentin, and his girlfriend.
+Start Time: 48.73 End Time: 58.27
+
+Visual Event 9: The man is seen making a decision about which lanyard to wear.
+Start Time: 58.27 End Time: 74.5
+
+Visual Event 10: The man is seen shopping for clothes with his friends and family.
+Start Time: 74.5 End Time: 103.329
+
+Visual Event 11: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 103.329 End Time: 121.21
+
+Visual Event 12: The man is seen eating at a dinner table and watching a video.
+Start Time: 121.21 End Time: 132.23
+
+Visual Event 13: The man is seen shopping for clothes with his sister.
+Start Time: 132.23 End Time: 174.98
+
+Visual Event 14: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 174.98 End Time: 213.759
+
+Visual Event 15: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 213.759 End Time: 250.1
+
+Visual Event 16: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 250.1 End Time: 284.03
+
+Visual Event 17: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 284.03 End Time: 319.35
+
+Visual Event 18: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 319.35 End Time: 351.87
+
+Visual Event 19: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 351.87 End Time: 392.76
+
+Visual Event 20: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 392.76 End Time: 433.55
+
+Visual Event 21: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 433.55 End Time: 475.68
+
+Visual Event 22: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 475.68 End Time: 516.31
+
+Visual Event 23: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 516.31 End Time: 557.97
+
+Visual Event 24: The man is seen shopping for more clothes and interacting with his friends and family.
+Start Time: 557.97 End Time: 599.68
+
+Visual Event 25: The man is seen ending the video, possibly signing off from a vlog.
+Start Time: 599.68 End Time: 615.47

@@ -1,0 +1,19 @@
+Visual Key Event 2(visual): The speaker begins the disassembly process by pressing the action release button and accessing the barrel lock.
+Visual Key Event 3(visual): The speaker removes the trigger group by punching out the pin from the right side.
+Visual Key Event 4(visual): The speaker fully removes the trigger group by pulling the action forward.
+Visual Key Event 6(visual): The speaker pulls out the cartridge stops, noting that there are two of them in this model.
+Visual Key Event 7(visual): The speaker begins the process of removing the slide and the breech block.
+Visual Key Event 8(visual): The speaker removes the slide by freeing it up from the action bar.
+Visual Key Event 9(visual): The speaker removes the carrier, noting that the breech block is holding down the ejector.
+Visual Key Event 10(visual): The speaker removes the breech block, noting that it has two extractors.
+Visual Key Event 12(visual): The speaker shows the empty receiver and how the ejector should look when being reinserted.
+Visual Key Event 13(visual): The speaker begins the reassembly process by inserting the ejector.
+Visual Key Event 14(visual): The speaker slides in the breech block, holding down the ejector spring.
+Visual Key Event 15(visual): The speaker inserts the carrier, making sure it clears either side of the breech block.
+Visual Key Event 16(visual): The speaker positions the breech block and slide for reassembly.
+Visual Key Event 17(visual): The speaker attaches the action bar to the slide.
+Visual Key Event 19(visual): The speaker inserts the cartridge stops.
+Visual Key Event 20(visual): The speaker inserts the second cartridge stop.
+Visual Key Event 21(visual): The speaker moves the action forward and aligns the notches to insert the trigger group.
+Visual Key Event 22(visual): The speaker inserts the trigger group pin.
+Visual Key Event 24(visual): The speaker reattaches the barrel and secures it with the barrel lock.

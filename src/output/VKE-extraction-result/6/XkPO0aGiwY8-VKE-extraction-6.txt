@@ -1,0 +1,32 @@
+Visual Event 1: The video starts with the presenter preparing to show the audience how to make a recipe.
+Start Time: 6.75 End Time: 12.98
+
+Visual Event 2: The presenter introduces the ingredients for the recipe, which include Jiffy corn muffin mix, cottage cheese, butter, eggs, onion, and broccoli.
+Start Time: 11.98 End Time: 34.06
+
+Visual Event 3: The presenter explains that the broccoli can be fresh or frozen and doesn't need to be cooked beforehand.
+Start Time: 34.06 End Time: 42.43
+
+Visual Event 4: The presenter begins to mix the ingredients together, starting with the dry ingredients.
+Start Time: 51.219 End Time: 75.73
+
+Visual Event 5: The presenter adds the wet ingredients to the mixture, including the eggs and melted butter.
+Start Time: 85.85 End Time: 107.48
+
+Visual Event 6: The presenter adds the cottage cheese and chopped onion to the mixture.
+Start Time: 114.81 End Time: 160.59
+
+Visual Event 7: The presenter adds the broccoli to the mixture and stirs everything together.
+Start Time: 289.919 End Time: 342.49
+
+Visual Event 8: The presenter pours the mixture into a greased pan and smooths it out.
+Start Time: 366.729 End Time: 380.05
+
+Visual Event 9: The presenter shows the finished cornbread after it has been baked and cooled.
+Start Time: 442.88 End Time: 455.97
+
+Visual Event 10: The presenter cuts a slice of the cornbread to show the inside, which is full of broccoli and onions.
+Start Time: 445.56 End Time: 458.97
+
+Visual Event 11: The presenter concludes the video by recommending the recipe to the viewers.
+Start Time: 488.16 End Time: 530.19

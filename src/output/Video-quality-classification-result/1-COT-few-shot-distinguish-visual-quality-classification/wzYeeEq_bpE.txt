@@ -1,0 +1,26 @@
+Subtitle Segmentation 1: {start words: "ought to go out check", end words: "it's cracked up on the edges"}
+Subtitle Segmentation 2: {start words: "who is sketchy that well", end words: "first icity a man"}
+Subtitle Segmentation 3: {start words: "got some pretty colors on", end words: "all the way to the bottom and want a hit"}
+Subtitle Segmentation 4: {start words: "measure one more rock rod", end words: "he took it down so bad cuz i bet she was hungry"}
+Subtitle Segmentation 5: {start words: "don't listen to tell me", end words: "Oh grip on damn i need some pliers for him"}
+Subtitle Segmentation 6: {start words: "No hey hey these guys", end words: "come see you dude"}
+Subtitle Segmentation 7: {start words: "Oh same time first couple", end words: "the fans here the parasite"}
+Subtitle Segmentation 8: {start words: "hey I'm trying to help", end words: "you can do oh well fun to catch"}
+Subtitle Segmentation 9: {start words: "help of hammers and got", end words: "I believe that's nine maybe ten"}
+Subtitle Segmentation 10: {start words: "I'm can't remember let's go", end words: "hi see you little man"}
+Subtitle Segmentation 11: {start words: "I think that's 11 guys", end words: "I ain't eatin no fish with a parasite in it"}
+
+Visual Key Event 1(visual): The speaker is preparing to go out on the ice, checking it with a spud bar and expressing nervousness about the cracks on the edges.
+Visual Key Event 2(visual): The speaker successfully drills three holes in the ice and begins fishing, catching a small fish.
+Visual Key Event 3(visual): The speaker admires the colors of the fish and continues fishing, letting the bait go all the way to the bottom.
+Visual Key Event 4(visual): The speaker catches another fish, commenting on how it swallowed the bait because it was probably hungry.
+Visual Key Event 5(visual): The speaker struggles to unhook a fish, needing pliers to do so.
+Visual Key Event 6(visual): The speaker catches another fish, admiring its pink and purple colors.
+Visual Key Event 7(visual): The speaker catches a fish infested with parasites, showing the black and white dots on the fish.
+Visual Key Event 8(visual): The speaker tries to remove the parasites from the fish, commenting on how it's fun to catch but not to eat.
+Visual Key Event 9(visual): The speaker continues fishing, catching several more fish and commenting on the presence of big bass in the area.
+Visual Key Event 10(visual): The speaker catches a darker fish, commenting on the presence of turkeys in the area.
+Visual Key Event 11(non-visual): The speaker concludes the fishing trip, commenting on the overpopulation of bluegill in the pond and the parasite situation, expressing his reluctance to eat fish with parasites.
+
+Classification:
+Good.

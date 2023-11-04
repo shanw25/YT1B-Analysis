@@ -1,0 +1,29 @@
+Subtitle Segmentation 1: {start words: "[Music] I'm currently at one", end words: "we were complete noobs"}
+Subtitle Segmentation 2: {start words: "but we're gonna wake up", end words: "9,000 feet of climbing"}
+Subtitle Segmentation 3: {start words: "all right we showed up", end words: "where it should be"}
+Subtitle Segmentation 4: {start words: "I'm optimistic this is gonna", end words: "climb Rainier"}
+Subtitle Segmentation 5: {start words: "our plan today is to", end words: "how this day is going to go"}
+Subtitle Segmentation 6: {start words: "but I just want to", end words: "to 10 no I [Music]"}
+Subtitle Segmentation 7: {start words: "we're headed up the snow", end words: "step [Music] [Music]"}
+Subtitle Segmentation 8: {start words: "we go in for about", end words: "early morning [Music] Mountaineer [Music]"}
+Subtitle Segmentation 9: {start words: "we started a little late", end words: "full-on traffic jam"}
+Subtitle Segmentation 10: {start words: "all right we're rolling off", end words: "let us pass [Music] [Music]"}
+Subtitle Segmentation 11: {start words: "good Salt Lake City right", end words: "haven't been attacked yet or yelled at"}
+Subtitle Segmentation 12: {start words: "we're gonna quickly eat some", end words: "pretty good day [Music] [Music] [Music]"}
+Subtitle Segmentation 13: {start words: "we just finally got to", end words: "down to paradise [Music] [Applause] [Music]"}
+Subtitle Segmentation 14: {start words: "all right that's right here", end words: "totally awesome [Music]"}
+
+Visual Key Event 1(non-visual): The team arrives at a crowded trailhead in Rainier National Park, preparing to climb the DC route to the summit of Rainier in one day.
+Visual Key Event 2(visual): The team arrives at their accommodation, discussing their preparation and anticipation for the climb.
+Visual Key Event 3(non-visual): The team wakes up early in the morning to start their climb, discussing their plan and expressing some anxiety.
+Visual Key Event 4(visual): The team begins their climb, heading up the snow field to Camp Muir.
+Visual Key Event 5(visual): The team continues their climb, passing through Camp Muir and approaching Disappointment Cleaver.
+Visual Key Event 6(visual): The team reaches Disappointment Cleaver, discussing their progress and the crowds of climbers ahead.
+Visual Key Event 7(visual): The team continues their climb, navigating around other climbers and crossing ladders.
+Visual Key Event 8(visual): The team reaches the summit of Rainier, expressing satisfaction and relief.
+Visual Key Event 9(visual): The team begins their descent, stopping at Camp Muir to change into shorts.
+Visual Key Event 10(visual): The team completes their descent, reflecting on their journey and the crowds at the trailhead.
+Visual Key Event 11(non-visual): The team concludes their adventure, summarizing their achievement and expressing satisfaction.
+
+Classification:
+Good.

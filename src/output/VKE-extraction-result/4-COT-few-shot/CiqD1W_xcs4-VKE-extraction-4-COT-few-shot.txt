@@ -1,0 +1,29 @@
+Subtitle Segmentation 1: {start words: "[Music] hi guys so as", end words: "to make like just a regular basic headband"}
+Subtitle Segmentation 2: {start words: "I also found a butterfly", end words: "get in between the stitching disassemble the bag as much as possible"}
+Subtitle Segmentation 3: {start words: "to reveal large pieces of", end words: "cut that right off"}
+Subtitle Segmentation 4: {start words: "I didn't have a long", end words: "my needle might break before I lose an eye"}
+Subtitle Segmentation 5: {start words: "[Music] I flipped the strip", end words: "stick it on [Music] [Music]"}
+Subtitle Segmentation 6: {start words: "I originally started folding the", end words: "to hand sew it [Music]"}
+Subtitle Segmentation 7: {start words: "now I just wanted to", end words: "overnight to dry"}
+Subtitle Segmentation 8: {start words: "so it's the next day", end words: "working on the butterfly pin"}
+Subtitle Segmentation 9: {start words: "there was some fabric sticking", end words: "that's it for the headband"}
+Subtitle Segmentation 10: {start words: "to make the butterfly clip", end words: "the print on it as well"}
+Subtitle Segmentation 11: {start words: "I didn't want to poke", end words: "more accurate than hand sewing"}
+Subtitle Segmentation 12: {start words: "now it was time to", end words: "a metallic gold color [Music]"}
+Subtitle Segmentation 13: {start words: "but other than that it", end words: "you have a butterfly wow so beautiful [Music]"}
+Subtitle Segmentation 14: {start words: "this was actually such a", end words: "video and I'll see you next time"}
+
+Visual Event 1: The video starts with the host introducing the DIY designer hair accessories project.
+Visual Event 2: The host begins by disassembling a thrifted bag to use its fabric for the project.
+Visual Event 3: The host prepares a headband base by modifying a dollar store item.
+Visual Event 4: The host sews together pieces of fabric to cover the headband.
+Visual Event 5: The host attaches the fabric to the headband using a hot glue gun.
+Visual Event 6: The host hand sews the fabric onto the headband due to running out of glue sticks.
+Visual Event 7: The host adds a lining to the headband using the bag's strap and leaves it to dry overnight.
+Visual Event 8: The host finishes the headband by trimming excess fabric and sewing the ends.
+Visual Event 9: The host begins the process of creating a butterfly pin.
+Visual Event 10: The host cuts out butterfly shapes from the fabric and sews them together.
+Visual Event 11: The host sews multiple layers of fabric together to create a thick butterfly shape.
+Visual Event 12: The host creates holes for the grommets in the butterfly and spray paints the grommets.
+Visual Event 13: The host assembles the butterfly pin by hammering the grommets into place.
+Visual Event 14: The host concludes the video, showing off the finished DIY designer hair accessories.

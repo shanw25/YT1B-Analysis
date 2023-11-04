@@ -1,0 +1,139 @@
+Subtitle Segmentation 1: {start words: "hey guys welcome back to", end words: "get dirty so much easier"}
+Subtitle Segmentation 2: {start words: "so I went with a", end words: "I can refill them of course while I'm out"}
+Subtitle Segmentation 3: {start words: "the first big pocket and", end words: "out of that pocket"}
+Subtitle Segmentation 4: {start words: "and it is it's you", end words: "I have in that one"}
+Subtitle Segmentation 5: {start words: "and then the other one", end words: "that front pocket right there"}
+Subtitle Segmentation 6: {start words: "okay and right here it's", end words: "band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 7: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 8: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 9: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 10: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 11: {start words: "so no big deal now", end words: "deep deep deep pocket back here"}
+Subtitle Segmentation 12: {start words: "oh right now goes back", end words: "to close it"}
+Subtitle Segmentation 13: {start words: "so like I said if", end words: "have to have it"}
+Subtitle Segmentation 14: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 15: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 16: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 17: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 18: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 19: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 20: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 21: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 22: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 23: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 24: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 25: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 26: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 27: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 28: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 29: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 30: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 31: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 32: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 33: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 34: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 35: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 36: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 37: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 38: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 39: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 40: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 41: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 42: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 43: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 44: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 45: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 46: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 47: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 48: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 49: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 50: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 51: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 52: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 53: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 54: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 55: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 56: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 57: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 58: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 59: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 60: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 61: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 62: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 63: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 64: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 65: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 66: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 67: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 68: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 69: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 70: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 71: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 72: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 73: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 74: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 75: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 76: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 77: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 78: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 79: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 80: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 81: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 82: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 83: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 84: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 85: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 86: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 87: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 88: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 89: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 90: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 91: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 92: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 93: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 94: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 95: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 96: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 97: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 98: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 99: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 100: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 101: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 102: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 103: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 104: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 105: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 106: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 107: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 108: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 109: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 110: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 111: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 112: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 113: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 114: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 115: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 116: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 117: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 118: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 119: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 120: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 121: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 122: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 123: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 124: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 125: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 126: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 127: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 128: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 129: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 130: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 131: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 132: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 133: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 134: {start words: "so no big deal now", end words: "have band-aids and band-aids and that's all that's in that pocket"}
+Subtitle Segmentation 135: {start words: "so you can see it's", end words: "needs to be in there"}
+Subtitle Segmentation 136: {start words: "now back to the top", end words: "can fit more stuff in here"}
+Subtitle Segmentation 137: {start words: "but I have a big", end words: "the shoulder strap and this is padded as well"}
+Subtitle Segmentation 138: {start words: "so that does help if", end words: "you don't have to have it"}
+Subtitle Segmentation 139: {start words: "so no big deal now", end words: "have

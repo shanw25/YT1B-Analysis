@@ -1,0 +1,32 @@
+Visual Event 1: The video starts with a person in a kitchen setting.
+Start Time: 0.03 End Time: 5.94
+
+Visual Event 2: The person presents five mystery mushrooms, presumably toys or collectibles.
+Start Time: 2.49 End Time: 11.16
+
+Visual Event 3: The person begins to open the first mushroom, revealing a small figure inside.
+Start Time: 14.809 End Time: 26.99
+
+Visual Event 4: The person continues to open the mushrooms, revealing more figures.
+Start Time: 31.08 End Time: 64.659
+
+Visual Event 5: The person examines the figures, showing them to the camera.
+Start Time: 65.35 End Time: 95.88
+
+Visual Event 6: The person places the figures on a display stand.
+Start Time: 99.76 End Time: 113.53
+
+Visual Event 7: The person opens a collector's guide and begins to identify the figures.
+Start Time: 133.7 End Time: 174.01
+
+Visual Event 8: The person continues to open the remaining mushrooms, revealing more figures.
+Start Time: 174.01 End Time: 235.4
+
+Visual Event 9: The person compares the figures, noting the different finishes on each one.
+Start Time: 235.4 End Time: 274.47
+
+Visual Event 10: The person displays all the figures together, commenting on their favorites.
+Start Time: 334.62 End Time: 390.56
+
+Visual Event 11: The video ends with the person thanking the viewers and saying goodbye.
+Start Time: 403.43 End Time: 406.28

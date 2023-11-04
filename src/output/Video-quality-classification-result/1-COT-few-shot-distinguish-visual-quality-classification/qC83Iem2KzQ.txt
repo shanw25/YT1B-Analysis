@@ -1,0 +1,40 @@
+Subtitle Segmentation 1: {start words: "hey everybody I'm Louise from", end words: "the number of meters that I have knit this month and for the whole entire year"}
+Subtitle Segmentation 2: {start words: "Oh daisies come to say", end words: "a little fuller a little for April ball bands"}
+Subtitle Segmentation 3: {start words: "so let me show you", end words: "that's it's pretty impressive for me I should say"}
+Subtitle Segmentation 4: {start words: "so I still have no", end words: "what these are so dynamic air"}
+Subtitle Segmentation 5: {start words: "and this was as you", end words: "start for Mays anyways"}
+Subtitle Segmentation 6: {start words: "I I'm happy I've increased", end words: "I'm pretty impressed with myself okay"}
+Subtitle Segmentation 7: {start words: "so that is it for", end words: "I'm getting there okay"}
+Subtitle Segmentation 8: {start words: "so let's jump right into", end words: "I am still ahead of schedule"}
+Subtitle Segmentation 9: {start words: "this was the almost lost", end words: "this pattern should be up on Ravelry if you want to download that too"}
+Subtitle Segmentation 10: {start words: "if you're like me and", end words: "it'll be there for you okay"}
+Subtitle Segmentation 11: {start words: "so those are my dishcloth", end words: "come Christmas time now let's get into right"}
+Subtitle Segmentation 12: {start words: "they just dropped a bunch", end words: "it was so that is"}
+Subtitle Segmentation 13: {start words: "I haven't measured but that's", end words: "it still works out till they find you with the 42 points anyways"}
+Subtitle Segmentation 14: {start words: "really happy with this and", end words: "one ball I have well two more finishes actually to show you"}
+Subtitle Segmentation 15: {start words: "my ribbed hat and scarf", end words: "it fits really good eighty-eight stitches around it fits my head nicely"}
+Subtitle Segmentation 16: {start words: "and then I just used", end words: "it makes it kind of almost a double thick so it will be really super worm"}
+Subtitle Segmentation 17: {start words: "so I have a matching", end words: "I'll be able to put I think this is probably about 200 meters"}
+Subtitle Segmentation 18: {start words: "oh my god but boom", end words: "what you've got done I will see you right back here again Monday with two more new starts"}
+
+Visual Key Event 1(non-visual): Louise from Wildflower Wool introduces herself and gives a brief overview of her knitting projects for the month of April.
+Visual Key Event 2(visual): Louise shows a box where she keeps her finished projects, indicating that it's starting to fill up.
+Visual Key Event 3(non-visual): Louise discusses the total meters she has knitted, expressing her satisfaction with her progress.
+Visual Key Event 4(visual): Louise shows some of her finished projects, including a dynamic air piece.
+Visual Key Event 5(visual): Louise shows a blue sweater she's knitting, indicating that she's already finished a few balls of yarn for it.
+Visual Key Event 6(non-visual): Louise expresses her happiness with her progress, stating that she's been able to knit more each month.
+Visual Key Event 7(non-visual): Louise concludes her discussion about her ball bands and knitting progress, indicating that she's making progress.
+Visual Key Event 8(visual): Louise shows her finished dishcloths, discussing the different patterns and techniques she used.
+Visual Key Event 9(visual): Louise shows a two-colored dishcloth she made, expressing her satisfaction with the result.
+Visual Key Event 10(non-visual): Louise discusses her interest in trying different stitch patterns and mentions that she will be uploading a pattern to Ravelry.
+Visual Key Event 11(visual): Louise shows her pile of finished dishcloths, expressing her satisfaction with her progress.
+Visual Key Event 12(visual): Louise shows her finished hitchhiker project, discussing the process and her satisfaction with the result.
+Visual Key Event 13(non-visual): Louise discusses the length of her hitchhiker project, expressing her satisfaction with the result.
+Visual Key Event 14(non-visual): Louise mentions that she might start another similar project because she enjoyed knitting the hitchhiker.
+Visual Key Event 15(visual): Louise shows her finished ribbed hat and scarf, discussing the process and her satisfaction with the result.
+Visual Key Event 16(visual): Louise shows her finished cowl, discussing the process and her satisfaction with the result.
+Visual Key Event 17(non-visual): Louise discusses her matching set of hat and cowl, expressing her satisfaction with the result.
+Visual Key Event 18(non-visual): Louise concludes her video, expressing her satisfaction with her progress and looking forward to her next projects.
+
+Classification:
+Good.

@@ -1,0 +1,44 @@
+Subtitle Segmentation 1: {start words: "okay so here is our", end words: "it looks very clean"}
+Subtitle Segmentation 2: {start words: "let's kind of start at", end words: "that had paper towels"}
+Subtitle Segmentation 3: {start words: "let's see what's in some", end words: "a garbage disposal"}
+Subtitle Segmentation 4: {start words: "so this over here just", end words: "some more storage out here"}
+Subtitle Segmentation 5: {start words: "then if you need to", end words: "a couple lamps in here for lighting"}
+Subtitle Segmentation 6: {start words: "but i really like this", end words: "a pull-out bed"}
+Subtitle Segmentation 7: {start words: "all right let's take a", end words: "can be an issue"}
+Subtitle Segmentation 8: {start words: "another nice thing about this", end words: "there are the mountains"}
+Subtitle Segmentation 9: {start words: "wow very nice all right", end words: "the breakfast in the mornings"}
+Subtitle Segmentation 10: {start words: "it was really good that's", end words: "play area over there in the shallow water for the kids"}
+Subtitle Segmentation 11: {start words: "so this is really nice", end words: "place to stay look how close it is to that up there"}
+Subtitle Segmentation 12: {start words: "okay so that was our", end words: "that's yeah i mean that's fantastic"}
+Subtitle Segmentation 13: {start words: "so there are a few", end words: "it's going to be a lot quieter back here"}
+Subtitle Segmentation 14: {start words: "uh super nice super clean", end words: "at some point in the future"}
+Subtitle Segmentation 15: {start words: "all right so we've checked", end words: "that looks pretty good"}
+Subtitle Segmentation 16: {start words: "all right so now i'll", end words: "that looks good all right so how is it"}
+Subtitle Segmentation 17: {start words: "it is delicious i love", end words: "a winner yes wow"}
+Subtitle Segmentation 18: {start words: "i thought i heard a", end words: "out of this world"}
+Subtitle Segmentation 19: {start words: "so i think our first", end words: "not today"}
+Subtitle Segmentation 20: {start words: "all right so that's it", end words: "we'll see y'all soon in the next video"}
+
+Visual Key Event 1(visual): The speaker gives a tour of their suite at the Home to Suites by Hilton in Pigeon Forge, highlighting the spaciousness and cleanliness of the suite.
+Visual Key Event 2(visual): The speaker showcases the full-size kitchen in the suite, including the full-size fridge, microwave, and dishwasher.
+Visual Key Event 3(visual): The speaker explores the storage drawers in the kitchen, revealing various amenities like kitchen towels, a toaster, and a cutting board.
+Visual Key Event 4(visual): The speaker shows a general area in the suite where guests can store their belongings or set up to do work, highlighting the numerous outlets and shelf storage.
+Visual Key Event 5(visual): The speaker presents the living room area of the suite, pointing out the love seat, ottoman, lamps, and a picture of the Smokies.
+Visual Key Event 6(visual): The speaker tours the master bedroom, showing the king-sized bed, another TV, and a larger closet.
+Visual Key Event 7(visual): The speaker checks out the bathroom, noting the sliding doors, shower with gel and shampoo dispensers, and the spacious sink area.
+Visual Key Event 8(visual): The speaker shows the view from the suite, highlighting the island and the mountains.
+Visual Key Event 9(visual): The speaker gives a brief tour of the hotel lobby and the breakfast area.
+Visual Key Event 10(visual): The speaker shows the hotel's indoor and outdoor swimming pools, highlighting the water slot and play area for kids in the outdoor pool.
+Visual Key Event 11(visual): The speaker points out the proximity of the hotel to the Cal Ripken Experience, suggesting it as a convenient place to stay for those attending events there.
+Visual Key Event 12(non-visual): The speaker discusses the benefits of the suite's spaciousness, especially for those traveling with children, and the convenience of having separate rooms.
+Visual Key Event 13(non-visual): The speaker explains why they chose the Home to Suites by Hilton, citing the one-night stay option, the spaciousness, and the location.
+Visual Key Event 14(non-visual): The speaker expresses their satisfaction with the suite and the likelihood of staying there again in the future.
+Visual Key Event 15(visual): The speaker visits Cinnaholic for breakfast, showing the variety of cinnamon rolls available.
+Visual Key Event 16(visual): The speaker tries the gluten-friendly Knotter Roll from Cinnaholic, describing its taste and appearance.
+Visual Key Event 17(non-visual): The speaker expresses their enjoyment of the cinnamon roll and their intention to return to Cinnaholic.
+Visual Key Event 18(visual): The speaker tries the Peanut Butter and Jelly Cinnamon Roll from Cinnaholic, describing its taste and showing its inside.
+Visual Key Event 19(visual): The speaker explores the Mountain Mall area, showing the games, the Mountain Monster ride, and the Cream and Sugar Sweet Shop.
+Visual Key Event 20(non-visual): The speaker concludes their day in Pigeon Forge, expressing their satisfaction with their stay at the Home to Suites by Hilton and their breakfast at Cinnaholic.
+
+Classification:
+Good.

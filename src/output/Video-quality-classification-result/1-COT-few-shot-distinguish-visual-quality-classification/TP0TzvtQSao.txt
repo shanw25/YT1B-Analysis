@@ -1,0 +1,44 @@
+Subtitle Segmentation 1: {start words: "hey you guys might come", end words: "the month of August yes"}
+Subtitle Segmentation 2: {start words: "I know it is currently", end words: "I think it was chaos"}
+Subtitle Segmentation 3: {start words: "well just go ahead and", end words: "the heaviest loot crate the Xbox is we haven't in a while"}
+Subtitle Segmentation 4: {start words: "let's just go ahead and", end words: "out of time time being spelled th why and II like the herb"}
+Subtitle Segmentation 5: {start words: "but this is fantastic this", end words: "gonna happen to Officer Rick or sheriff Rick"}
+Subtitle Segmentation 6: {start words: "I'm super sad about that", end words: "that's fantastic and I think this cookbook might take place in Alexandria"}
+Subtitle Segmentation 7: {start words: "but look at that you", end words: "this is really practical I really do like this"}
+Subtitle Segmentation 8: {start words: "and you know what we're", end words: "is The Killing Joke Joker"}
+Subtitle Segmentation 9: {start words: "fantastic graphic novel by the", end words: "that's pretty cool this not too sure"}
+Subtitle Segmentation 10: {start words: "I guess without chaos you", end words: "was Batman day so that's pretty cool"}
+Subtitle Segmentation 11: {start words: "all right buddy go ahead", end words: "it keeps going all right"}
+Subtitle Segmentation 12: {start words: "you can't go through it", end words: "some Rick and Morty cosplay"}
+Subtitle Segmentation 13: {start words: "what I love about it", end words: "that's fantastic so far winning with the socks and that cookbooks"}
+Subtitle Segmentation 14: {start words: "throw me off a little", end words: "it's almost like a Raglan"}
+Subtitle Segmentation 15: {start words: "okay that is epic they", end words: "pretty cool huh all right guys pin time"}
+Subtitle Segmentation 16: {start words: "good I guess we could", end words: "it doesn't necessarily fit the bill"}
+Subtitle Segmentation 17: {start words: "and they just threw it", end words: "four and a half they sort of nailed the theme"}
+Subtitle Segmentation 18: {start words: "with the exception of this", end words: "four and a half Joker socks out of 5 rating"}
+Subtitle Segmentation 19: {start words: "account go ahead and count", end words: "three two and one two three four"}
+Subtitle Segmentation 20: {start words: "why you have anything awesome", end words: "three two [Music]"}
+
+Visual Key Event 1(non-visual): The hosts introduce the show and reveal that they will be unboxing the Loot Crate for the month of August.
+Visual Key Event 2(non-visual): The hosts express their frustration about the late arrival of the Loot Crate and try to recall the theme for the August box.
+Visual Key Event 3(visual): The hosts open the Loot Crate, noting that it is one of the heaviest they have received in a while.
+Visual Key Event 4(non-visual): The hosts pull out The Walking Dead official cookbook and Survival Guide, expressing their excitement and sharing their own cookbook project.
+Visual Key Event 5(non-visual): The hosts discuss the upcoming season of The Walking Dead and express their sadness about it being Rick's last season.
+Visual Key Event 6(visual): The hosts flip through the cookbook, commenting on the recipes and speculating that the cookbook might be set in Alexandria.
+Visual Key Event 7(visual): The hosts express their appreciation for the practicality of the cookbook and the fact that it includes real ingredients.
+Visual Key Event 8(visual): The hosts pull out a pair of Joker socks from The Killing Joke graphic novel and discuss the recent reveal of the new Joker.
+Visual Key Event 9(non-visual): The hosts discuss the design of the socks and the relevance of the Joker to the theme of chaos.
+Visual Key Event 10(non-visual): The hosts mention that it was recently Batman day and express their appreciation for the socks.
+Visual Key Event 11(visual): The hosts pull out a large item from the box, which turns out to be a portal picnic blanket.
+Visual Key Event 12(visual): The hosts unfold the blanket and discuss its potential use for cosplay photos.
+Visual Key Event 13(non-visual): The hosts express their appreciation for the weighted blanket and its easy-to-clean material.
+Visual Key Event 14(visual): The hosts pull out a Batman-themed shirt from the box and admire the design.
+Visual Key Event 15(non-visual): The hosts discuss the design of the shirt and move on to the next item, a pin.
+Visual Key Event 16(non-visual): The hosts express their disappointment with the pin, stating that it doesn't fit the theme of the box.
+Visual Key Event 17(non-visual): The hosts discuss their overall impressions of the box and give it a rating of four and a half out of five.
+Visual Key Event 18(non-visual): The hosts finalize their rating and count down to the end of the review.
+Visual Key Event 19(non-visual): The hosts wrap up the review and encourage viewers to subscribe and turn on notifications.
+Visual Key Event 20(non-visual): The hosts conclude the review and disappear in a Batman-style vanish.
+
+Classification:
+Good.

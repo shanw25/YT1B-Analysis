@@ -1,0 +1,18 @@
+Subtitle Segmentation 1: {start words: "[Music] I might be able", end words: "that I would have 5000 subscribers just like insane"}
+Subtitle Segmentation 2: {start words: "yeah I'll try what's happening", end words: "I can start recording again so yeah [Music]"}
+Subtitle Segmentation 3: {start words: "they say they made friend", end words: "grab something [Music]"}
+Subtitle Segmentation 4: {start words: "you okay so I'm sorry", end words: "so freakin bad what they did was took out three of my teeth"}
+Subtitle Segmentation 5: {start words: "oh great my teeth over", end words: "definitely eat that I just woke up it is the next day"}
+Subtitle Segmentation 6: {start words: "and you should all the", end words: "but I did have to wear God's yesterday and I can barely smile"}
+Subtitle Segmentation 7: {start words: "so I thank you guys", end words: "the middle of June do you guys watching this video no well thank you guys watching this vlog and I hope you guys give this video thumbs up and like comment subscribe cannot be eating my soup please"}
+
+Visual Key Event 1(non-visual): The speaker expresses gratitude for reaching 5000 subscribers on their channel.
+Visual Key Event 2(non-visual): The speaker discusses some recording issues and promises to return to recording as soon as possible.
+Visual Key Event 3(non-visual): The speaker shares some random thoughts and experiences, including a mention of food and drink.
+Visual Key Event 4(visual): The speaker reveals that they had three teeth removed, which is causing them significant pain.
+Visual Key Event 5(visual): The speaker is eating Panera soup, which they recommend for anyone who has had surgery.
+Visual Key Event 6(visual): The speaker discusses their ongoing pain and the fact that they had to wear gauze the previous day, which made it difficult for them to smile.
+Visual Key Event 7(non-visual): The speaker thanks the viewers for watching the vlog, mentions that they will not be making videos until the middle of June due to their dental issues, and asks viewers to like, comment, and subscribe.
+
+Classification:
+Bad.

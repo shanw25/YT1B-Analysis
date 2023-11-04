@@ -1,0 +1,9 @@
+Visual Key Event 2(visual): The YouTuber shows the box and lists the various figures that can be found inside.
+Visual Key Event 4(visual): The YouTuber begins unboxing the figures, starting with a Chucky figure.
+Visual Key Event 5(visual): The YouTuber continues unboxing, finding a figure from Texas Chainsaw Massacre and commenting on the detail.
+Visual Key Event 8(visual): The YouTuber unboxes a Hannibal Lecter figure and a Jason Voorhees figure, commenting on the details.
+Visual Key Event 16(visual): The YouTuber unboxes another Chucky figure and a glow-in-the-dark Jason Voorhees figure.
+Visual Key Event 18(visual): The YouTuber unboxes another Freddy Krueger figure and another Hannibal Lecter figure, expressing disappointment at getting duplicates.
+Visual Key Event 20(visual): The YouTuber unboxes another bloody Michael Myers figure and a glow-in-the-dark Jason Voorhees figure, commenting on their rarity.
+Visual Key Event 22(visual): The YouTuber unboxes another Freddy Krueger figure and another Hannibal Lecter figure, expressing disappointment at getting duplicates.
+Visual Key Event 24(visual): The YouTuber unboxes another bloody Michael Myers figure and a glow-in-the-dark Jason Voorhees figure, commenting on their rarity.

@@ -1,0 +1,6 @@
+Visual Key Event 1(visual): The instructor demonstrates how to perform one-digit addition on the abacus, using the examples 1+3, 5+3, and 6+3.
+Visual Key Event 2(visual): The instructor moves on to two-digit addition, using the examples 13+11, 22+21, 41+53, 21+11, and 61+33.
+Visual Key Event 4(visual): The instructor demonstrates three-digit addition on the abacus, using the examples 221+223 and 625+324.
+Visual Key Event 5(visual): The instructor begins demonstrating one-digit subtraction on the abacus, using the examples 4-2, 7-6, and 9-8.
+Visual Key Event 6(visual): The instructor moves on to two-digit subtraction, using the examples 48-27, 99-17, and 65-50.
+Visual Key Event 7(visual): The instructor demonstrates three-digit subtraction on the abacus, using the examples 128-111, 454-252, and 987-675.

@@ -1,0 +1,25 @@
+Subtitle Segmentation 1: {start words: "welcome to Brennan Harbor Resort", end words: "how to clean a northern pike let's go"}
+Subtitle Segmentation 2: {start words: "okay now we're in the", end words: "sharp knife something you can rely okay let's begin"}
+Subtitle Segmentation 3: {start words: "lift this fin up cut", end words: "this fin here"}
+Subtitle Segmentation 4: {start words: "okay next we're going to", end words: "the tail and lift it up"}
+Subtitle Segmentation 5: {start words: "now I've noticed that online", end words: "flipper arm lifts your film in your bed 'if it up and just cover out"}
+Subtitle Segmentation 6: {start words: "next you're going to take", end words: "the bucket for the seagulls"}
+Subtitle Segmentation 7: {start words: "okay next step take out", end words: "the end of the fish and just pull"}
+Subtitle Segmentation 8: {start words: "next step remove the white", end words: "the bone just like so"}
+Subtitle Segmentation 9: {start words: "okay one more time don't", end words: "gently pull it out and then we have the white bone"}
+Subtitle Segmentation 10: {start words: "okay so just to recap", end words: "pull the wire you"}
+Subtitle Segmentation 11: {start words: "okay our last step take", end words: "ready to be frozen ready to transport"}
+Subtitle Segmentation 12: {start words: "thanks for viewing this video", end words: "harbor comm see you out on the water"}
+
+Visual Key Event 1(non-visual): James introduces himself at Brennan Harbor Resort and prepares to demonstrate how to clean a northern pike.
+Visual Key Event 2(visual): James begins the cleaning process by lifting the fish's fin and making an incision along the belly.
+Visual Key Event 3(visual): James continues to cut along the fish's body, following the spine and lifting the meat to avoid cutting it.
+Visual Key Event 4(visual): James discusses different methods of filleting, choosing to lift the fillet off the fish rather than leaving it attached to the tail.
+Visual Key Event 5(visual): James removes the other side of the fillet, ensuring to stay close to the bone to avoid wasting meat.
+Visual Key Event 6(visual): James discards the remaining fish parts, leaving only the fillets.
+Visual Key Event 7(visual): James removes the rib cage from the fillet, making careful incisions to avoid cutting into the meat.
+Visual Key Event 8(visual): James removes the white bone from the fillet, making incisions along the bone and pushing the meat off.
+Visual Key Event 9(visual): James repeats the process of removing the white bone from the other side of the fillet.
+Visual Key Event 10(visual): James recaps the steps taken so far, including removing the rib cage and white bone.
+Visual Key Event 11(visual): James removes the skin from the fillet, leaving a small piece for identification purposes if the fish is to be transported.
+Visual Key Event 12(non-visual): James concludes the video, thanking viewers for watching and directing them to the Brennan Harbor website for more information.

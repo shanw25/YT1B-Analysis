@@ -1,0 +1,121 @@
+Subtitle Segmentation 1: {start words: "hey Hans is Esther welcome", end words: "one or two things for Primark as well"}
+Subtitle Segmentation 2: {start words: "so I'm just me sharing", end words: "let's get started"}
+Subtitle Segmentation 3: {start words: "okay honey so let's just", end words: "achieved this look but yeah"}
+Subtitle Segmentation 4: {start words: "okay so starting off first", end words: "all of the stuff I got from H&M were from the men's section"}
+Subtitle Segmentation 5: {start words: "let me just button up", end words: "this is what it looks like absolutely love it"}
+Subtitle Segmentation 6: {start words: "it's got one pocket here", end words: "so I was so happy when I got it"}
+Subtitle Segmentation 7: {start words: "and I just like yes", end words: "this is so wrinkled wow this is so bad"}
+Subtitle Segmentation 8: {start words: "okay it's black so you", end words: "men's section as well guys that is my new place to shop"}
+Subtitle Segmentation 9: {start words: "next to H&M men's section", end words: "you're coming home with me as well"}
+Subtitle Segmentation 10: {start words: "so the next year I", end words: "you're coming home with me as well"}
+Subtitle Segmentation 11: {start words: "that was like literally my", end words: "just take them shopping"}
+Subtitle Segmentation 12: {start words: "oh this is what it", end words: "you're definitely coming home with me"}
+Subtitle Segmentation 13: {start words: "just [Music] and this is", end words: "so so so nice"}
+Subtitle Segmentation 14: {start words: "right so there's just these", end words: "they look so nice"}
+Subtitle Segmentation 15: {start words: "and then it's what the", end words: "I just think they look so nice"}
+Subtitle Segmentation 16: {start words: "and then next thing I", end words: "they just look cute"}
+Subtitle Segmentation 17: {start words: "and then next thing I", end words: "it's so nice so soft"}
+Subtitle Segmentation 18: {start words: "this is what it looks", end words: "so nice I don't have a shade like this"}
+Subtitle Segmentation 19: {start words: "that's like I think I", end words: "can't wait to wear it"}
+Subtitle Segmentation 20: {start words: "okay guys moving on to", end words: "they were really nice"}
+Subtitle Segmentation 21: {start words: "the next thing I got", end words: "it small bulky either"}
+Subtitle Segmentation 22: {start words: "and yeah I just thought", end words: "I would be absolutely achieve it"}
+Subtitle Segmentation 23: {start words: "that but yeah so just", end words: "you're too cute to need in the store"}
+Subtitle Segmentation 24: {start words: "so you have to come", end words: "you're coming home with me as well"}
+Subtitle Segmentation 25: {start words: "that was like literally my", end words: "just take them shopping"}
+Subtitle Segmentation 26: {start words: "oh this is what it", end words: "you're definitely coming home with me"}
+Subtitle Segmentation 27: {start words: "just [Music] and this is", end words: "so so so nice"}
+Subtitle Segmentation 28: {start words: "right so there's just these", end words: "they look so nice"}
+Subtitle Segmentation 29: {start words: "and then it's what the", end words: "I just think they look so nice"}
+Subtitle Segmentation 30: {start words: "and then next thing I", end words: "they just look cute"}
+Subtitle Segmentation 31: {start words: "and then next thing I", end words: "it's so nice so soft"}
+Subtitle Segmentation 32: {start words: "this is what it looks", end words: "so nice I don't have a shade like this"}
+Subtitle Segmentation 33: {start words: "that's like I think I", end words: "can't wait to wear it"}
+Subtitle Segmentation 34: {start words: "okay guys moving on to", end words: "they were really nice"}
+Subtitle Segmentation 35: {start words: "the next thing I got", end words: "it small bulky either"}
+Subtitle Segmentation 36: {start words: "and yeah I just thought", end words: "I would be absolutely achieve it"}
+Subtitle Segmentation 37: {start words: "that but yeah so just", end words: "you're too cute to need in the store"}
+Subtitle Segmentation 38: {start words: "so you have to come", end words: "you're coming home with me as well"}
+Subtitle Segmentation 39: {start words: "that was like literally my", end words: "just take them shopping"}
+Subtitle Segmentation 40: {start words: "oh this is what it", end words: "you're definitely coming home with me"}
+Subtitle Segmentation 41: {start words: "just [Music] and this is", end words: "so so so nice"}
+Subtitle Segmentation 42: {start words: "right so there's just these", end words: "they look so nice"}
+Subtitle Segmentation 43: {start words: "and then it's what the", end words: "I just think they look so nice"}
+Subtitle Segmentation 44: {start words: "and then next thing I", end words: "they just look cute"}
+Subtitle Segmentation 45: {start words: "and then next thing I", end words: "it's so nice so soft"}
+Subtitle Segmentation 46: {start words: "this is what it looks", end words: "so nice I don't have a shade like this"}
+Subtitle Segmentation 47: {start words: "that's like I think I", end words: "can't wait to wear it"}
+Subtitle Segmentation 48: {start words: "okay guys moving on to", end words: "they were really nice"}
+Subtitle Segmentation 49: {start words: "the next thing I got", end words: "it small bulky either"}
+Subtitle Segmentation 50: {start words: "and yeah I just thought", end words: "I would be absolutely achieve it"}
+Subtitle Segmentation 51: {start words: "that but yeah so just", end words: "you're too cute to need in the store"}
+Subtitle Segmentation 52: {start words: "so you have to come", end words: "you're coming home with me as well"}
+Subtitle Segmentation 53: {start words: "that was like literally my", end words: "just take them shopping"}
+Subtitle Segmentation 54: {start words: "oh this is what it", end words: "you're definitely coming home with me"}
+Subtitle Segmentation 55: {start words: "just [Music] and this is", end words: "so so so nice"}
+Subtitle Segmentation 56: {start words: "right so there's just these", end words: "they look so nice"}
+Subtitle Segmentation 57: {start words: "and then it's what the", end words: "I just think they look so nice"}
+Subtitle Segmentation 58: {start words: "and then next thing I", end words: "they just look cute"}
+Subtitle Segmentation 59: {start words: "and then next thing I", end words: "it's so nice so soft"}
+Subtitle Segmentation 60: {start words: "this is what it looks", end words: "so nice I don't have a shade like this"}
+Subtitle Segmentation 61: {start words: "that's like I think I", end words: "can't wait to wear it"}
+Subtitle Segmentation 62: {start words: "okay guys moving on to", end words: "they were really nice"}
+Subtitle Segmentation 63: {start words: "the next thing I got", end words: "it small bulky either"}
+Subtitle Segmentation 64: {start words: "and yeah I just thought", end words: "I would be absolutely achieve it"}
+Subtitle Segmentation 65: {start words: "that but yeah so just", end words: "you're too cute to need in the store"}
+Subtitle Segmentation 66: {start words: "so you have to come", end words: "you're coming home with me as well"}
+Subtitle Segmentation 67: {start words: "that was like literally my", end words: "just take them shopping"}
+Subtitle Segmentation 68: {start words: "oh this is what it", end words: "you're definitely coming home with me"}
+Subtitle Segmentation 69: {start words: "just [Music] and this is", end words: "so so so nice"}
+Subtitle Segmentation 70: {start words: "right so there's just these", end words: "they look so nice"}
+Subtitle Segmentation 71: {start words: "and then it's what the", end words: "I just think they look so nice"}
+Subtitle Segmentation 72: {start words: "and then next thing I", end words: "they just look cute"}
+Subtitle Segmentation 73: {start words: "and then next thing I", end words: "it's so nice so soft"}
+Subtitle Segmentation 74: {start words: "this is what it looks", end words: "so nice I don't have a shade like this"}
+Subtitle Segmentation 75: {start words: "that's like I think I", end words: "can't wait to wear it"}
+Subtitle Segmentation 76: {start words: "okay guys moving on to", end words: "they were really nice"}
+Subtitle Segmentation 77: {start words: "the next thing I got", end words: "it small bulky either"}
+Subtitle Segmentation 78: {start words: "and yeah I just thought", end words: "I would be absolutely achieve it"}
+Subtitle Segmentation 79: {start words: "that but yeah so just", end words: "you're too cute to need in the store"}
+Subtitle Segmentation 80: {start words: "so you have to come", end words: "you're coming home with me as well"}
+Subtitle Segmentation 81: {start words: "that was like literally my", end words: "just take them shopping"}
+Subtitle Segmentation 82: {start words: "oh this is what it", end words: "you're definitely coming home with me"}
+Subtitle Segmentation 83: {start words: "just [Music] and this is", end words: "so so so nice"}
+Subtitle Segmentation 84: {start words: "right so there's just these", end words: "they look so nice"}
+Subtitle Segmentation 85: {start words: "and then it's what the", end words: "I just think they look so nice"}
+Subtitle Segmentation 86: {start words: "and then next thing I", end words: "they just look cute"}
+Subtitle Segmentation 87: {start words: "and then next thing I", end words: "it's so nice so soft"}
+Subtitle Segmentation 88: {start words: "this is what it looks", end words: "so nice I don't have a shade like this"}
+Subtitle Segmentation 89: {start words: "that's like I think I", end words: "can't wait to wear it"}
+Subtitle Segmentation 90: {start words: "okay guys moving on to", end words: "they were really nice"}
+Subtitle Segmentation 91: {start words: "the next thing I got", end words: "it small bulky either"}
+Subtitle Segmentation 92: {start words: "and yeah I just thought", end words: "I would be absolutely achieve it"}
+Subtitle Segmentation 93: {start words: "that but yeah so just", end words: "you're too cute to need in the store"}
+Subtitle Segmentation 94: {start words: "so you have to come", end words: "you're coming home with me as well"}
+Subtitle Segmentation 95: {start words: "that was like literally my", end words: "just take them shopping"}
+Subtitle Segmentation 96: {start words: "oh this is what it", end words: "you're definitely coming home with me"}
+Subtitle Segmentation 97: {start words: "just [Music] and this is", end words: "so so so nice"}
+Subtitle Segmentation 98: {start words: "right so there's just these", end words: "they look so nice"}
+Subtitle Segmentation 99: {start words: "and then it's what the", end words: "I just think they look so nice"}
+Subtitle Segmentation 100: {start words: "and then next thing I", end words: "they just look cute"}
+Subtitle Segmentation 101: {start words: "and then next thing I", end words: "it's so nice so soft"}
+Subtitle Segmentation 102: {start words: "this is what it looks", end words: "so nice I don't have a shade like this"}
+Subtitle Segmentation 103: {start words: "that's like I think I", end words: "can't wait to wear it"}
+Subtitle Segmentation 104: {start words: "okay guys moving on to", end words: "they were really nice"}
+Subtitle Segmentation 105: {start words: "the next thing I got", end words: "it small bulky either"}
+Subtitle Segmentation 106: {start words: "and yeah I just thought", end words: "I would be absolutely achieve it"}
+Subtitle Segmentation 107: {start words: "that but yeah so just", end words: "you're too cute to need in the store"}
+Subtitle Segmentation 108: {start words: "so you have to come", end words: "you're coming home with me as well"}
+Subtitle Segmentation 109: {start words: "that was like literally my", end words: "just take them shopping"}
+Subtitle Segmentation 110: {start words: "oh this is what it", end words: "you're definitely coming home with me"}
+Subtitle Segmentation 111: {start words: "just [Music] and this is", end words: "so so so nice"}
+Subtitle Segmentation 112: {start words: "right so there's just these", end words: "they look so nice"}
+Subtitle Segmentation 113: {start words: "and then it's what the", end words: "I just think they look so nice"}
+Subtitle Segmentation 114: {start words: "and then next thing I", end words: "they just look cute"}
+Subtitle Segmentation 115: {start words: "and then next thing I", end words: "it's so nice so soft"}
+Subtitle Segmentation 116: {start words: "this is what it looks", end words: "so nice I don't have a shade like this"}
+Subtitle Segmentation 117: {start words: "that's like I think I", end words: "can't wait to wear it"}
+Subtitle Segmentation 118: {start words: "okay guys moving on to", end words: "they were really nice"}
+Subtitle Segmentation 119: {start words: "the next thing I got", end words: "it small bulky either"}
+Subtitle Segmentation 120: {start words: "and yeah I just thought", end words: "I would be absolutely achieve it"}
+Subtitle Segmentation 121: {start words: "that but yeah so

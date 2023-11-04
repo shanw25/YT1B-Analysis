@@ -1,0 +1,26 @@
+Subtitle Segmentation 1: {start words: "[Music] [Music] they Oh [Music]", end words: "good night good night [Music]"}
+Subtitle Segmentation 2: {start words: "[Music] oh yes I did", end words: "you mustn't worry no"}
+Subtitle Segmentation 3: {start words: "I should have a long", end words: "oh yes please Beatrice all right sleep well"}
+Subtitle Segmentation 4: {start words: "[Music] [Music] ah [Music] you", end words: "as anyone else"}
+Subtitle Segmentation 5: {start words: "mr. de winter is not", end words: "dare you speak like that to me how dare you"}
+Subtitle Segmentation 6: {start words: "you make me wear that", end words: "he's never cared about mine"}
+Subtitle Segmentation 7: {start words: "how do you think I'd", end words: "mrs. de winter is dead"}
+Subtitle Segmentation 8: {start words: "my lady is dead but", end words: "as she liked oh she had courage to all the courage and spirit of a boy"}
+Subtitle Segmentation 9: {start words: "I remember her at 16", end words: "strong enough for my lady"}
+Subtitle Segmentation 10: {start words: "mrs. Danvers mrs. Tonga's you're", end words: "you take my lady's place"}
+Subtitle Segmentation 11: {start words: "what even the servants laughs", end words: "why don't you leave Manderley to her mind if you go why don't you go"}
+
+Visual Key Event 1(non-visual): The video starts with music playing, and a conversation about a dinner appointment is made.
+Visual Key Event 2(non-visual): A character named Beatrice is complimented on her blue dress and reassured about a secret.
+Visual Key Event 3(non-visual): Beatrice decides to have a long sleep and is advised to have breakfast in bed.
+Visual Key Event 4(non-visual): A character expresses their love for Mr. De Winter and defends their right to marry and be happy.
+Visual Key Event 5(non-visual): A heated argument ensues about the character's actions and intentions towards Mr. De Winter.
+Visual Key Event 6(non-visual): The character is accused of causing Mr. De Winter's suffering and is confronted about their feelings.
+Visual Key Event 7(non-visual): The character is reminded of the late Mrs. De Winter and the impact of her absence.
+Visual Key Event 8(non-visual): Mrs. Danvers reminisces about the late Mrs. De Winter's strong and independent nature.
+Visual Key Event 9(non-visual): Mrs. Danvers recounts a memory of Mrs. De Winter's courage and determination.
+Visual Key Event 10(non-visual): Mrs. Danvers confronts the character about their inability to replace Mrs. De Winter.
+Visual Key Event 11(non-visual): Mrs. Danvers suggests that the character is not wanted at Manderley and should leave.
+
+Classification:
+Bad.

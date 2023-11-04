@@ -1,0 +1,36 @@
+Subtitle Segmentation 1: {start words: "[Music] hello everybody this is", end words: "like and subscribe"}
+Subtitle Segmentation 2: {start words: "go through a few pretty", end words: "okay just so you know"}
+Subtitle Segmentation 3: {start words: "I'm gonna edit over all", end words: "like they do what is that"}
+Subtitle Segmentation 4: {start words: "that's all look at that", end words: "anything else in there put it down"}
+Subtitle Segmentation 5: {start words: "I feeling we're gonna find", end words: "we want to see silver"}
+Subtitle Segmentation 6: {start words: "I'll take one that's in", end words: "that's a really nice looking at IFC"}
+Subtitle Segmentation 7: {start words: "yeah looks really good put", end words: "it's another 99 anyway let's keep going"}
+Subtitle Segmentation 8: {start words: "by the way you guys", end words: "I'll never find it see here"}
+Subtitle Segmentation 9: {start words: "can we got some decent", end words: "I just like the way it looks"}
+Subtitle Segmentation 10: {start words: "there's another 99 guess something", end words: "I'll never find it see here"}
+Subtitle Segmentation 11: {start words: "can we got some decent", end words: "I just like the way it looks"}
+Subtitle Segmentation 12: {start words: "there's another 99 guess something", end words: "I'll never find it see here"}
+Subtitle Segmentation 13: {start words: "can we got some decent", end words: "I just like the way it looks"}
+Subtitle Segmentation 14: {start words: "there's another 99 guess something", end words: "I'll never find it see here"}
+Subtitle Segmentation 15: {start words: "can we got some decent", end words: "I just like the way it looks"}
+Subtitle Segmentation 16: {start words: "there's another 99 guess something", end words: "I'll never find it see here"}
+
+Visual Key Event 1(non-visual): The speaker introduces himself and his new equipment for filming a coin roll video.
+Visual Key Event 2(visual): The speaker begins to go through the coin rolls, commenting on the coins he finds.
+Visual Key Event 3(non-visual): The speaker mentions that he will edit the video and jokes about not having a channel.
+Visual Key Event 4(visual): The speaker finds an interesting coin and shows it to the camera.
+Visual Key Event 5(visual): The speaker continues to go through the coin rolls, commenting on the coins he finds.
+Visual Key Event 6(visual): The speaker finds a good-looking coin and sets it aside.
+Visual Key Event 7(visual): The speaker continues to go through the coin rolls, commenting on the coins he finds.
+Visual Key Event 8(visual): The speaker drops a coin and jokes about it rolling under the refrigerator.
+Visual Key Event 9(visual): The speaker finds a decent-looking bicentennial coin and sets it aside.
+Visual Key Event 10(visual): The speaker finds another coin and sets it aside.
+Visual Key Event 11(visual): The speaker finds a decent-looking bicentennial coin and sets it aside.
+Visual Key Event 12(visual): The speaker finds another coin and sets it aside.
+Visual Key Event 13(visual): The speaker finds a decent-looking bicentennial coin and sets it aside.
+Visual Key Event 14(visual): The speaker finds another coin and sets it aside.
+Visual Key Event 15(visual): The speaker finds a decent-looking bicentennial coin and sets it aside.
+Visual Key Event 16(visual): The speaker finds another coin and sets it aside.
+
+Classification:
+Good.

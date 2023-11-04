@@ -1,0 +1,17 @@
+Visual Event 1: The video starts with a person in a house.
+Start Time: 0.03 End Time: 3.33
+
+Visual Event 2: The person is seen doing some house chores.
+Start Time: 16.13 End Time: 27.81
+
+Visual Event 3: The person is seen shopping for essentials at Marshalls.
+Start Time: 396.89 End Time: 431.69
+
+Visual Event 4: The person is seen preparing dinner at home.
+Start Time: 441.71 End Time: 446.09
+
+Visual Event 5: The person is seen showing and discussing the items they bought from Marshalls.
+Start Time: 502.66 End Time: 628.16
+
+Visual Event 6: The video ends with the person saying goodbye.
+Start Time: 663.89 End Time: 667.78

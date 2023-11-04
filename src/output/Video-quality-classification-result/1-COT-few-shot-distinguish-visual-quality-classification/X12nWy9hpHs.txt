@@ -1,0 +1,36 @@
+Subtitle Segmentation 1: {start words: "[Music] [Music] [Music] uh Kate", end words: "don't want to show anyone"}
+Subtitle Segmentation 2: {start words: "so you know stay tuned", end words: "the pancake Mosta say it"}
+Subtitle Segmentation 3: {start words: "I am I am I", end words: "don't talk about pancake number two"}
+Subtitle Segmentation 4: {start words: "number two why don't I", end words: "a hundred tiny horses what was your other fight"}
+Subtitle Segmentation 5: {start words: "Oh Jane duck why oh", end words: "a hundred [ __ ] I'm gonna miss it"}
+Subtitle Segmentation 6: {start words: "so what would you rather", end words: "what other people think what are you making now"}
+Subtitle Segmentation 7: {start words: "I mean solid on wood", end words: "I promise are you sure"}
+Subtitle Segmentation 8: {start words: "all right in an attempt", end words: "package of strawberries and our wonderful chef"}
+Subtitle Segmentation 9: {start words: "thank you so much I'm", end words: "no nice no do you have like no knives at all"}
+Subtitle Segmentation 10: {start words: "oh my but looking and", end words: "second bisschen ah ah I guess we're gonna dig into this now"}
+Subtitle Segmentation 11: {start words: "I'm hungry I'm tired hungry", end words: "no no no no to get back to work come on"}
+Subtitle Segmentation 12: {start words: "why can't we all be", end words: "it just cuz I'm really excited for it and I just want to share it with everyone"}
+Subtitle Segmentation 13: {start words: "that's the package Kate just", end words: "gonna unbox in front of you guys and show you what it is"}
+Subtitle Segmentation 14: {start words: "so you just yeah say", end words: "it's one Oh oh my gosh guys I'm so excited"}
+Subtitle Segmentation 15: {start words: "and there's a new camera", end words: "way more videos in at night or just in low-light situations"}
+Subtitle Segmentation 16: {start words: "like Kate knows like I'm", end words: "it all the time thank you guys for watching hope you enjoyed making pancakes"}
+
+Visual Key Event 1(non-visual): The speaker and Kate decide to make pancakes, and the speaker considers including a cinematic clip in the video.
+Visual Key Event 2(visual): The speaker and Kate start making pancakes, with the speaker claiming to be the pancake master.
+Visual Key Event 3(visual): The speaker and Kate continue making pancakes, with the second pancake getting burnt.
+Visual Key Event 4(non-visual): The speaker and Kate discuss a hypothetical fight scenario involving duck-sized horses and a horse-sized duck.
+Visual Key Event 5(non-visual): The speaker asks the viewers to comment on their choice in the hypothetical fight scenario.
+Visual Key Event 6(visual): The speaker and Kate start making an omelette.
+Visual Key Event 7(visual): The speaker and Kate continue making the omelette, with the speaker joking about Kate's cooking skills.
+Visual Key Event 8(visual): The speaker and Kate finish cooking and present their food, including pancakes, strawberries, and an omelette.
+Visual Key Event 9(visual): The speaker and Kate taste their food, with the speaker struggling to find a knife.
+Visual Key Event 10(visual): The speaker and Kate continue eating their food, with the speaker praising the taste.
+Visual Key Event 11(non-visual): The speaker and Kate discuss their tiredness and the need to get back to work.
+Visual Key Event 12(non-visual): The speaker receives a package and expresses excitement to open it.
+Visual Key Event 13(visual): The speaker opens the package in front of the camera.
+Visual Key Event 14(visual): The speaker reveals a new camera lens in the package and expresses excitement.
+Visual Key Event 15(non-visual): The speaker discusses the advantages of the new lens, including better performance in low light.
+Visual Key Event 16(non-visual): The speaker concludes the video, thanking the viewers and expressing hope that they enjoyed the pancake making.
+
+Classification:
+Good.

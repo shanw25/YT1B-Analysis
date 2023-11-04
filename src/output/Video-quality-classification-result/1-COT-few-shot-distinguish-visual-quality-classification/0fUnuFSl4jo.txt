@@ -1,0 +1,24 @@
+Subtitle Segmentation 1: {start words: "Saturday's video is a collaboration", end words: "show her some love you guys"}
+Subtitle Segmentation 2: {start words: "it's been I and myself", end words: "got you today"}
+Subtitle Segmentation 3: {start words: "and I'm going to be", end words: "listen to what I have to say"}
+Subtitle Segmentation 4: {start words: "hey guys how you doing", end words: "don't have an issue yes"}
+Subtitle Segmentation 5: {start words: "it's not it's not important", end words: "important I you should have"}
+Subtitle Segmentation 6: {start words: "then the second app you", end words: "your an elite tastes and everything"}
+Subtitle Segmentation 7: {start words: "yes you've heard it all", end words: "do not have a youtube to do up yes"}
+Subtitle Segmentation 8: {start words: "now you start by believing", end words: "I recommend in short for your thumbnails and convert"}
+Subtitle Segmentation 9: {start words: "knife you're an Android user", end words: "they offer a lot"}
+Subtitle Segmentation 10: {start words: "so I hope I've answered", end words: "show them some below"}
+
+Visual Key Event 1(non-visual): Sonya John introduces the video as a collaboration with the 9-yard show and encourages viewers to subscribe to their channel.
+Visual Key Event 2(non-visual): Sonya and her guest discuss the most frequently asked questions by small YouTubers or YouTube beginners.
+Visual Key Event 3(non-visual): Sonya announces that she will be doing a shout out for a small YouTuber at the end of the video.
+Visual Key Event 4(non-visual): The guest speaker discusses the importance of niching down and her personal experience with it on her channel.
+Visual Key Event 5(non-visual): The guest speaker discusses the importance of having certain apps as a YouTuber.
+Visual Key Event 6(non-visual): The guest speaker continues to discuss the importance of certain apps for YouTubers.
+Visual Key Event 7(non-visual): Sonya adds her thoughts on the importance of finding a niche and the apps every YouTuber should have.
+Visual Key Event 8(non-visual): Sonya recommends certain apps for editing thumbnails and videos.
+Visual Key Event 9(non-visual): Sonya discusses the best apps for Android users to edit their videos.
+Visual Key Event 10(non-visual): Sonya gives shout outs to small YouTubers and encourages viewers to subscribe to their channels.
+
+Classification:
+Good.

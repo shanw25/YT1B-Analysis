@@ -1,0 +1,29 @@
+Subtitle Segmentation 1: {start words: "but when a dance with", end words: "likes and subscribes and support it's meant a lot"}
+Subtitle Segmentation 2: {start words: "also last week I took", end words: "as much as we do so let's kick this off"}
+Subtitle Segmentation 3: {start words: "all right everyone so let's", end words: "let's just dive in and let's make this pasta"}
+Subtitle Segmentation 4: {start words: "alright guys so as I", end words: "pleasant background mode"}
+Subtitle Segmentation 5: {start words: "alright once we've done the", end words: "the rest of the pasta"}
+Subtitle Segmentation 6: {start words: "all right so what I", end words: "nice chopped garlic right now"}
+Subtitle Segmentation 7: {start words: "alright so next we're gonna", end words: "what that looks like"}
+Subtitle Segmentation 8: {start words: "alright so once we stir", end words: "come together let me give you another view of what this looks like"}
+Subtitle Segmentation 9: {start words: "right so again a little", end words: "look at that beauty"}
+Subtitle Segmentation 10: {start words: "all right so our sauce", end words: "mix that together No so amazing"}
+Subtitle Segmentation 11: {start words: "alright guys so I have", end words: "this amazing creamy sauce"}
+Subtitle Segmentation 12: {start words: "alright guys we have our", end words: "fresh chopped basil amazing"}
+Subtitle Segmentation 13: {start words: "alright guys so I promise", end words: "look at here we go"}
+Subtitle Segmentation 14: {start words: "that is the pasta you", end words: "love it and I'll see you guys on next video"}
+
+Visual Event 1: The host expresses gratitude for reaching a thousand views on her videos and announces the upcoming pasta recipe.
+Visual Event 2: The host introduces the five-minute tomato cream pasta recipe.
+Visual Event 3: The host presents the ingredients needed for the recipe.
+Visual Event 4: The host begins the preparation by chopping the onion and garlic.
+Visual Event 5: The host finishes the prep work and moves to the stove to start cooking.
+Visual Event 6: The host starts cooking by heating up the pan and adding onions and garlic.
+Visual Event 7: The host adds tomato paste to the pan and explains the benefits of using it.
+Visual Event 8: The host adds salt, pepper, and cream to the pan and stirs the mixture.
+Visual Event 9: The host continues to add cream to the pan until the sauce forms.
+Visual Event 10: The host adds grated parmesan to the sauce and stirs it in.
+Visual Event 11: The host adds the cooked pasta to the sauce and mixes it until the pasta is fully covered.
+Visual Event 12: The host adds final touches to the pasta by adding parmesan, balsamic glaze, and fresh basil.
+Visual Event 13: The host tastes the pasta and expresses satisfaction with the result.
+Visual Event 14: The host encourages viewers to try the recipe and promises to return with more videos.

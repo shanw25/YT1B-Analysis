@@ -1,0 +1,44 @@
+Subtitle Segmentation 1: {start words: "[Music] welcome back to my", end words: "just looking a little crazy yeah"}
+Subtitle Segmentation 2: {start words: "but I thought I would", end words: "just feels like I'm on like a little vacation"}
+Subtitle Segmentation 3: {start words: "but it's just very weird", end words: "what happened did you go poopoo"}
+Subtitle Segmentation 4: {start words: "okay let me go change", end words: "getting me and through the days"}
+Subtitle Segmentation 5: {start words: "and but yeah I just", end words: "so I just thought it would be a perfect time to jump back in since I am home"}
+Subtitle Segmentation 6: {start words: "I have a lot more", end words: "we're just watching frozen"}
+Subtitle Segmentation 7: {start words: "it's a little bit gloomy", end words: "just kind of add a annoy"}
+Subtitle Segmentation 8: {start words: "so I hope you guys", end words: "the house is already messy"}
+Subtitle Segmentation 9: {start words: "but that is a penny", end words: "just needed something to make a little bit more happy here"}
+Subtitle Segmentation 10: {start words: "I'm so bummed because I", end words: "order some stuff online for it"}
+Subtitle Segmentation 11: {start words: "um yeah just because I", end words: "need to get myself together"}
+Subtitle Segmentation 12: {start words: "I look like a hot", end words: "no no I'm gonna kick the soccer ball"}
+Subtitle Segmentation 13: {start words: "I got the blue ball", end words: "let him run around a little bit"}
+Subtitle Segmentation 14: {start words: "[Music] [Music] reclining nah yeah", end words: "it's almost three o'clock"}
+Subtitle Segmentation 15: {start words: "and I ended up making", end words: "show you that right now"}
+Subtitle Segmentation 16: {start words: "yeah this is my Dutch", end words: "done for tonight so that's really nice"}
+Subtitle Segmentation 17: {start words: "[Music] so yeah I thought", end words: "little slinky behind me"}
+Subtitle Segmentation 18: {start words: "but yeah it just depends", end words: "all right so it's a little later now"}
+Subtitle Segmentation 19: {start words: "sorry here breaking party's ready", end words: "I'll show you"}
+Subtitle Segmentation 20: {start words: "[Music] [Music] so yeah I", end words: "I'll see you guys very soon [Music]"}
+
+Visual Key Event 1(non-visual): The vlogger introduces herself and mentions that she just woke up and is in her bathrobe.
+Visual Key Event 2(non-visual): The vlogger talks about the current situation of the world being in lockdown due to a virus and how her routine has changed.
+Visual Key Event 3(visual): The vlogger's son interrupts her, and she goes to change his diaper.
+Visual Key Event 4(non-visual): The vlogger talks about how she's been spending her time, including playing with blocks with her son and drinking coffee.
+Visual Key Event 5(non-visual): The vlogger discusses her decision to start vlogging again and how she's been spending her time at home.
+Visual Key Event 6(visual): The vlogger and her son are watching Frozen and eating Frosted Flakes.
+Visual Key Event 7(non-visual): The vlogger talks about her day and hopes the viewers will enjoy her vlog.
+Visual Key Event 8(visual): The vlogger shows the viewers her messy house.
+Visual Key Event 9(visual): The vlogger shows the viewers her Easter decor in the entryway of her house.
+Visual Key Event 10(non-visual): The vlogger talks about her plans for Easter and how she might have to order some stuff online due to the lockdown.
+Visual Key Event 11(non-visual): The vlogger talks about how she needs to get herself together and how she's been enjoying her slow mornings.
+Visual Key Event 12(visual): The vlogger and her son are playing with a soccer ball.
+Visual Key Event 13(visual): The vlogger lets her son run around in the backyard while she drinks her coffee.
+Visual Key Event 14(non-visual): The vlogger talks about how she walked to her parents' house and then put her son down for a nap.
+Visual Key Event 15(visual): The vlogger shows the viewers the chili she made for dinner.
+Visual Key Event 16(non-visual): The vlogger talks about how she made the chili and how it's already done for dinner.
+Visual Key Event 17(non-visual): The vlogger talks about how she's been relaxing during her son's nap and watching TV or YouTube.
+Visual Key Event 18(non-visual): The vlogger talks about how she usually cleans at night and how she's been trying to enjoy her time with her son.
+Visual Key Event 19(non-visual): The vlogger talks about how her son napped until 4:30 and how they're now relaxing outside.
+Visual Key Event 20(non-visual): The vlogger ends her vlog and says goodbye to the viewers.
+
+Classification:
+Good.

@@ -1,0 +1,6 @@
+Visual Key Event 2(visual): The host cleans the engine using engine degreaser and brushes, emphasizing the importance of good ventilation when using aerosolized chemicals.
+Visual Key Event 5(visual): The host removes the engine covers and preps them for powder coating, making sure to clearly indicate which parts should be painted and which should be masked.
+Visual Key Event 11(visual): The host fills the ultrasonic cleaner with a cleaning solution and prepares to test it on the crankcase and valve cover bolts.
+Visual Key Event 13(visual): The host discovers that the ultrasonic cleaner has broken after only 20 minutes of use.
+Visual Key Event 14(visual): Despite the cleaner breaking, the host checks the parts and is impressed with the cleaning results.
+Visual Key Event 16(visual): The host unboxes new parts that have arrived, excluding the Cognito moto triple tree which has not yet arrived.
