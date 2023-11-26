@@ -1,4 +1,4 @@
-vid,VKE lsit,Ground Truth,GPT isVisual Label,Is Visual  + Non-visual,GPT + Keywords isVisual Label
+vid,VKE lsit,Ground Truth,GPT isVisual Label,Is Visual + Non-visual,GPT + Keywords isVisual Label
 ws-uf6IzTdk.txt,,,,,
 ,"Visual Key Event 1(non-visual): The speaker discusses the complex situation in Spain, particularly in Catalonia.",F,F,F,F
 ,Visual Key Event 2(visual): The speaker refers to King Felipe Sixth's speech and the general strike in Catalonia.,F,T,F,F
